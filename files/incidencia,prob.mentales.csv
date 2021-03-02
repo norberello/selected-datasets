@@ -1,0 +1,393 @@
+genero,incidencia,pais,codigo
+hombre,17.64315465,Afghanistan,AFG
+hombre,10.78464019,Albania,ALB
+hombre,14.16615907,Algeria,DZA
+hombre,10.67915676,American Samoa,ASM
+hombre,13.65668976,Andorra,AND
+hombre,12.53583254,Angola,AGO
+hombre,12.94355993,Antigua and Barbuda,ATG
+hombre,13.58340912,Argentina,ARG
+hombre,10.67292031,Armenia,ARM
+hombre,17.59302516,Australia,AUS
+hombre,13.19090206,Austria,AUT
+hombre,10.40773963,Azerbaijan,AZE
+hombre,13.13566488,Bahamas,BHS
+hombre,14.1778888,Bahrain,BHR
+hombre,12.1364204,Bangladesh,BGD
+hombre,13.41341347,Barbados,BRB
+hombre,12.06218487,Belarus,BLR
+hombre,14.29903203,Belgium,BEL
+hombre,13.33888899,Belize,BLZ
+hombre,11.86627644,Benin,BEN
+hombre,13.54854175,Bermuda,BMU
+hombre,11.74586358,Bhutan,BTN
+hombre,12.22245654,Bolivia,BOL
+hombre,11.15789943,Bosnia and Herzegovina,BIH
+hombre,12.9002993,Botswana,BWA
+hombre,13.21851336,Brazil,BRA
+hombre,11.10931715,Brunei,BRN
+hombre,11.11931489,Bulgaria,BGR
+hombre,12.07439374,Burkina Faso,BFA
+hombre,12.77626306,Burundi,BDI
+hombre,11.93334797,Cambodia,KHM
+hombre,11.7740496,Cameroon,CMR
+hombre,14.98020544,Canada,CAN
+hombre,12.62831289,Cape Verde,CPV
+hombre,12.8274934,Central African Republic,CAF
+hombre,12.1417892,Chad,TCD
+hombre,13.93389348,Chile,CHL
+hombre,11.39809419,China,CHN
+hombre,10.38346378,Colombia,COL
+hombre,11.79718988,Comoros,COM
+hombre,12.39374121,Congo,COG
+hombre,10.86945598,Costa Rica,CRI
+hombre,11.55230072,Cote d'Ivoire,CIV
+hombre,11.47126762,Croatia,HRV
+hombre,14.05749924,Cuba,CUB
+hombre,13.15348291,Cyprus,CYP
+hombre,11.29759684,Czech Republic,CZE
+hombre,12.72578503,Democratic Republic of Congo,COD
+hombre,13.54092309,Denmark,DNK
+hombre,12.1204973,Djibouti,DJI
+hombre,13.12208122,Dominica,DMA
+hombre,13.20532976,Dominican Republic,DOM
+hombre,12.25295339,Ecuador,ECU
+hombre,14.48854777,Egypt,EGY
+hombre,10.7326214,El Salvador,SLV
+hombre,12.51992968,Equatorial Guinea,GNQ
+hombre,12.46257293,Eritrea,ERI
+hombre,11.91852632,Estonia,EST
+hombre,13.07432256,Ethiopia,ETH
+hombre,10.8826729,Fiji,FJI
+hombre,14.97000282,Finland,FIN
+hombre,14.38336619,France,FRA
+hombre,12.51211635,Gabon,GAB
+hombre,11.55112613,Gambia,GMB
+hombre,10.76735244,Georgia,GEO
+hombre,13.24807959,Germany,DEU
+hombre,11.71687663,Ghana,GHA
+hombre,14.0387678,Greece,GRC
+hombre,16.55731214,Greenland,GRL
+hombre,13.34773319,Grenada,GRD
+hombre,11.31089917,Guam,GUM
+hombre,10.94931489,Guatemala,GTM
+hombre,11.56624065,Guinea,GIN
+hombre,11.59476672,Guinea-Bissau,GNB
+hombre,14.10185758,Guyana,GUY
+hombre,13.23563096,Haiti,HTI
+hombre,10.437104,Honduras,HND
+hombre,11.31441491,Hungary,HUN
+hombre,13.14593239,Iceland,ISL
+hombre,14.80456266,India,IND
+hombre,10.54077,Indonesia,IDN
+hombre,17.22200034,Iran,IRN
+hombre,12.80907883,Iraq,IRQ
+hombre,14.36789533,Ireland,IRL
+hombre,12.53051231,Israel,ISR
+hombre,13.5602566,Italy,ITA
+hombre,13.03688321,Jamaica,JAM
+hombre,12.34711531,Japan,JPN
+hombre,14.28131206,Jordan,JOR
+hombre,11.18019581,Kazakhstan,KAZ
+hombre,11.99250604,Kenya,KEN
+hombre,11.32054185,Kiribati,KIR
+hombre,13.60607849,Kuwait,KWT
+hombre,11.09377003,Kyrgyzstan,KGZ
+hombre,12.26425694,Laos,LAO
+hombre,11.80073738,Latvia,LVA
+hombre,15.12782759,Lebanon,LBN
+hombre,13.96034807,Lesotho,LSO
+hombre,11.60924506,Liberia,LBR
+hombre,13.88477648,Libya,LBY
+hombre,12.09168169,Lithuania,LTU
+hombre,13.57609326,Luxembourg,LUX
+hombre,10.81285494,Macedonia,MKD
+hombre,12.28105486,Madagascar,MDG
+hombre,11.91751959,Malawi,MWI
+hombre,11.42704098,Malaysia,MYS
+hombre,11.14946552,Maldives,MDV
+hombre,11.35866053,Mali,MLI
+hombre,13.32858361,Malta,MLT
+hombre,11.12741828,Marshall Islands,MHL
+hombre,11.63254353,Mauritania,MRT
+hombre,11.00600339,Mauritius,MUS
+hombre,10.17294354,Mexico,MEX
+hombre,11.14795791,Micronesia (country),FSM
+hombre,11.57337026,Moldova,MDA
+hombre,11.30527035,Mongolia,MNG
+hombre,10.98667392,Montenegro,MNE
+hombre,15.81797206,Morocco,MAR
+hombre,12.50144412,Mozambique,MOZ
+hombre,11.01905328,Myanmar,MMR
+hombre,12.63822134,Namibia,NAM
+hombre,13.00178788,Nepal,NPL
+hombre,14.69781374,Netherlands,NLD
+hombre,17.28873676,New Zealand,NZL
+hombre,10.80293847,Nicaragua,NIC
+hombre,12.06837837,Niger,NER
+hombre,11.9880323,Nigeria,NGA
+hombre,11.72897212,North Korea,PRK
+hombre,11.02042481,Northern Mariana Islands,MNP
+hombre,14.88691344,Norway,NOR
+hombre,13.50551334,Oman,OMN
+hombre,11.82838212,Pakistan,PAK
+hombre,15.92226547,Palestine,PSE
+hombre,10.64651546,Panama,PAN
+hombre,11.32146449,Papua New Guinea,PNG
+hombre,12.8225193,Paraguay,PRY
+hombre,11.71516827,Peru,PER
+hombre,10.73940896,Philippines,PHL
+hombre,11.03856223,Poland,POL
+hombre,14.07719016,Portugal,PRT
+hombre,13.58247464,Puerto Rico,PRI
+hombre,13.69307299,Qatar,QAT
+hombre,10.73895177,Romania,ROU
+hombre,11.67817429,Russia,RUS
+hombre,12.25386199,Rwanda,RWA
+hombre,13.41181467,Saint Lucia,LCA
+hombre,13.34533024,Saint Vincent and the Grenadines,VCT
+hombre,10.97155757,Samoa,WSM
+hombre,11.34838813,Sao Tome and Principe,STP
+hombre,13.17297904,Saudi Arabia,SAU
+hombre,11.64370597,Senegal,SEN
+hombre,11.07038215,Serbia,SRB
+hombre,10.66679401,Seychelles,SYC
+hombre,11.75195444,Sierra Leone,SLE
+hombre,12.14999747,Singapore,SGP
+hombre,10.92893177,Slovakia,SVK
+hombre,11.54292568,Slovenia,SVN
+hombre,11.33367609,Solomon Islands,SLB
+hombre,12.69944971,Somalia,SOM
+hombre,12.62842502,South Africa,ZAF
+hombre,10.83049377,South Korea,KOR
+hombre,11.82732974,South Sudan,SSD
+hombre,14.59749583,Spain,ESP
+hombre,11.65136591,Sri Lanka,LKA
+hombre,16.42865957,Sudan,SDN
+hombre,13.90163289,Suriname,SUR
+hombre,12.86220708,Swaziland,SWZ
+hombre,14.17092434,Sweden,SWE
+hombre,13.67075826,Switzerland,CHE
+hombre,14.68519247,Syria,SYR
+hombre,11.607437,Taiwan,TWN
+hombre,10.74519483,Tajikistan,TJK
+hombre,11.9621752,Tanzania,TZA
+hombre,12.60859657,Thailand,THA
+hombre,11.90194988,Timor,TLS
+hombre,11.82774934,Togo,TGO
+hombre,10.75814889,Tonga,TON
+hombre,13.84361679,Trinidad and Tobago,TTO
+hombre,15.22229593,Tunisia,TUN
+hombre,14.35914916,Turkey,TUR
+hombre,10.71409033,Turkmenistan,TKM
+hombre,13.20322447,Uganda,UGA
+hombre,12.16155381,Ukraine,UKR
+hombre,12.33176823,United Arab Emirates,ARE
+hombre,14.05157915,United Kingdom,GBR
+hombre,16.36059456,United States,USA
+hombre,13.54797412,United States Virgin Islands,VIR
+hombre,13.57647781,Uruguay,URY
+hombre,10.85301867,Uzbekistan,UZB
+hombre,11.14236239,Vanuatu,VUT
+hombre,11.12553115,Venezuela,VEN
+hombre,9.074423551,Vietnam,VNM
+hombre,12.68710368,World,OWID_WRL
+hombre,15.56515553,Yemen,YEM
+hombre,11.95520928,Zambia,ZMB
+hombre,12.36171836,Zimbabwe,ZWE
+mujer,17.77033977,Afghanistan,AFG
+mujer,11.1611086,Albania,ALB
+mujer,15.05263619,Algeria,DZA
+mujer,11.00980863,American Samoa,ASM
+mujer,15.86058667,Andorra,AND
+mujer,12.38640534,Angola,AGO
+mujer,13.34828113,Antigua and Barbuda,ATG
+mujer,17.51248346,Argentina,ARG
+mujer,10.6151881,Armenia,ARM
+mujer,19.20166646,Australia,AUS
+mujer,15.72469491,Austria,AUT
+mujer,10.4531732,Azerbaijan,AZE
+mujer,13.47369736,Bahamas,BHS
+mujer,15.10292973,Bahrain,BHR
+mujer,13.80619376,Bangladesh,BGD
+mujer,13.55184729,Barbados,BRB
+mujer,12.12002006,Belarus,BLR
+mujer,15.38102711,Belgium,BEL
+mujer,13.4115845,Belize,BLZ
+mujer,11.70313797,Benin,BEN
+mujer,14.01513338,Bermuda,BMU
+mujer,12.42237885,Bhutan,BTN
+mujer,13.41376801,Bolivia,BOL
+mujer,11.34706997,Bosnia and Herzegovina,BIH
+mujer,12.11255586,Botswana,BWA
+mujer,16.23963802,Brazil,BRA
+mujer,11.72952573,Brunei,BRN
+mujer,11.54452462,Bulgaria,BGR
+mujer,11.67755392,Burkina Faso,BFA
+mujer,13.63223983,Burundi,BDI
+mujer,12.91157189,Cambodia,KHM
+mujer,11.71723572,Cameroon,CMR
+mujer,15.69228739,Canada,CAN
+mujer,11.80661196,Cape Verde,CPV
+mujer,12.54673344,Central African Republic,CAF
+mujer,12.21767427,Chad,TCD
+mujer,18.13977801,Chile,CHL
+mujer,11.66017634,China,CHN
+mujer,9.897339475,Colombia,COL
+mujer,12.63761871,Comoros,COM
+mujer,12.38986872,Congo,COG
+mujer,10.9237789,Costa Rica,CRI
+mujer,11.27370753,Cote d'Ivoire,CIV
+mujer,11.64178788,Croatia,HRV
+mujer,14.6919133,Cuba,CUB
+mujer,15.25184586,Cyprus,CYP
+mujer,11.49517146,Czech Republic,CZE
+mujer,12.45551722,Democratic Republic of Congo,COD
+mujer,15.42303681,Denmark,DNK
+mujer,12.86203734,Djibouti,DJI
+mujer,13.31284128,Dominica,DMA
+mujer,13.81065282,Dominican Republic,DOM
+mujer,13.0915962,Ecuador,ECU
+mujer,15.09122253,Egypt,EGY
+mujer,11.21677252,El Salvador,SLV
+mujer,12.38156238,Equatorial Guinea,GNQ
+mujer,13.25578061,Eritrea,ERI
+mujer,12.63200189,Estonia,EST
+mujer,13.58613495,Ethiopia,ETH
+mujer,11.27485835,Fiji,FJI
+mujer,15.42419115,Finland,FIN
+mujer,18.57512838,France,FRA
+mujer,12.17824262,Gabon,GAB
+mujer,13.02127718,Gambia,GMB
+mujer,10.71804224,Georgia,GEO
+mujer,17.10222484,Germany,DEU
+mujer,11.29343528,Ghana,GHA
+mujer,16.90612143,Greece,GRC
+mujer,19.15004029,Greenland,GRL
+mujer,13.36902518,Grenada,GRD
+mujer,11.39785718,Guam,GUM
+mujer,11.51021369,Guatemala,GTM
+mujer,11.65224475,Guinea,GIN
+mujer,11.71481513,Guinea-Bissau,GNB
+mujer,14.74145798,Guyana,GUY
+mujer,13.7434582,Haiti,HTI
+mujer,10.76290561,Honduras,HND
+mujer,11.64844538,Hungary,HUN
+mujer,15.37677036,Iceland,ISL
+mujer,15.13403543,India,IND
+mujer,11.55577741,Indonesia,IDN
+mujer,18.4000541,Iran,IRN
+mujer,15.03351223,Iraq,IRQ
+mujer,16.67759149,Ireland,IRL
+mujer,13.33369662,Israel,ISR
+mujer,15.93704931,Italy,ITA
+mujer,13.31673179,Jamaica,JAM
+mujer,11.8459649,Japan,JPN
+mujer,15.14117585,Jordan,JOR
+mujer,11.14451828,Kazakhstan,KAZ
+mujer,12.8111356,Kenya,KEN
+mujer,11.41068849,Kiribati,KIR
+mujer,14.84973443,Kuwait,KWT
+mujer,11.01242111,Kyrgyzstan,KGZ
+mujer,13.129408,Laos,LAO
+mujer,11.66196547,Latvia,LVA
+mujer,16.73631601,Lebanon,LBN
+mujer,13.84034693,Lesotho,LSO
+mujer,12.56953574,Liberia,LBR
+mujer,14.86466923,Libya,LBY
+mujer,12.27935072,Lithuania,LTU
+mujer,15.94170704,Luxembourg,LUX
+mujer,11.22085129,Macedonia,MKD
+mujer,13.05480117,Madagascar,MDG
+mujer,12.69483275,Malawi,MWI
+mujer,12.86057619,Malaysia,MYS
+mujer,12.36305927,Maldives,MDV
+mujer,11.17485677,Mali,MLI
+mujer,15.37103712,Malta,MLT
+mujer,11.37102861,Marshall Islands,MHL
+mujer,11.01133878,Mauritania,MRT
+mujer,12.15931382,Mauritius,MUS
+mujer,11.1514261,Mexico,MEX
+mujer,11.3632657,Micronesia (country),FSM
+mujer,11.63794216,Moldova,MDA
+mujer,11.23789676,Mongolia,MNG
+mujer,11.42847545,Montenegro,MNE
+mujer,17.2062872,Morocco,MAR
+mujer,13.21271846,Mozambique,MOZ
+mujer,11.66769833,Myanmar,MMR
+mujer,11.50371529,Namibia,NAM
+mujer,13.51749244,Nepal,NPL
+mujer,17.63022214,Netherlands,NLD
+mujer,20.21170647,New Zealand,NZL
+mujer,10.96714379,Nicaragua,NIC
+mujer,12.02016167,Niger,NER
+mujer,12.31846402,Nigeria,NGA
+mujer,11.56222086,North Korea,PRK
+mujer,11.02181339,Northern Mariana Islands,MNP
+mujer,17.43262131,Norway,NOR
+mujer,14.5117574,Oman,OMN
+mujer,12.76216922,Pakistan,PAK
+mujer,16.33808584,Palestine,PSE
+mujer,10.75413907,Panama,PAN
+mujer,11.65685385,Papua New Guinea,PNG
+mujer,15.31938089,Paraguay,PRY
+mujer,12.46520446,Peru,PER
+mujer,11.58828795,Philippines,PHL
+mujer,10.86899475,Poland,POL
+mujer,16.81825491,Portugal,PRT
+mujer,13.45926588,Puerto Rico,PRI
+mujer,14.78753664,Qatar,QAT
+mujer,10.83030176,Romania,ROU
+mujer,11.72235475,Russia,RUS
+mujer,13.55946894,Rwanda,RWA
+mujer,13.45192652,Saint Lucia,LCA
+mujer,13.31865441,Saint Vincent and the Grenadines,VCT
+mujer,11.1758963,Samoa,WSM
+mujer,11.20813549,Sao Tome and Principe,STP
+mujer,14.26688197,Saudi Arabia,SAU
+mujer,11.14504179,Senegal,SEN
+mujer,11.40529414,Serbia,SRB
+mujer,11.16669666,Seychelles,SYC
+mujer,11.79373814,Sierra Leone,SLE
+mujer,13.10129478,Singapore,SGP
+mujer,11.22899835,Slovakia,SVK
+mujer,12.0072024,Slovenia,SVN
+mujer,11.62401194,Solomon Islands,SLB
+mujer,13.56326331,Somalia,SOM
+mujer,12.70824822,South Africa,ZAF
+mujer,12.20758655,South Korea,KOR
+mujer,12.8434398,South Sudan,SSD
+mujer,17.51736024,Spain,ESP
+mujer,12.40054911,Sri Lanka,LKA
+mujer,16.65206814,Sudan,SDN
+mujer,14.61224953,Suriname,SUR
+mujer,11.86690029,Swaziland,SWZ
+mujer,17.1482677,Sweden,SWE
+mujer,16.31837838,Switzerland,CHE
+mujer,15.31606359,Syria,SYR
+mujer,11.26545376,Taiwan,TWN
+mujer,10.77014188,Tajikistan,TJK
+mujer,12.97391683,Tanzania,TZA
+mujer,11.83713344,Thailand,THA
+mujer,13.0426912,Timor,TLS
+mujer,11.68552486,Togo,TGO
+mujer,11.16356977,Tonga,TON
+mujer,14.15368836,Trinidad and Tobago,TTO
+mujer,15.60377726,Tunisia,TUN
+mujer,14.5076852,Turkey,TUR
+mujer,10.71116252,Turkmenistan,TKM
+mujer,14.28295638,Uganda,UGA
+mujer,12.31674928,Ukraine,UKR
+mujer,13.06793259,United Arab Emirates,ARE
+mujer,15.14244802,United Kingdom,GBR
+mujer,18.26920752,United States,USA
+mujer,13.82915682,United States Virgin Islands,VIR
+mujer,17.30831025,Uruguay,URY
+mujer,10.79212718,Uzbekistan,UZB
+mujer,11.40787726,Vanuatu,VUT
+mujer,10.98002723,Venezuela,VEN
+mujer,11.11099373,Vietnam,VNM
+mujer,13.45508886,World,OWID_WRL
+mujer,16.38862234,Yemen,YEM
+mujer,12.48578196,Zambia,ZMB
+mujer,10.65261013,Zimbabwe,ZWE

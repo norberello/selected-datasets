@@ -1,0 +1,463 @@
+genero,desigualdad,pais
+hombre,17.64315465,Afghanistan
+hombre,10.78464019,Albania
+hombre,14.16615907,Algeria
+hombre,10.67915676,American Samoa
+hombre,11.94429627,Andean Latin America
+hombre,13.65668976,Andorra
+hombre,12.53583254,Angola
+hombre,12.94355993,Antigua and Barbuda
+hombre,13.58340912,Argentina
+hombre,10.67292031,Armenia
+hombre,17.54027562,Australasia
+hombre,17.59302516,Australia
+hombre,13.19090206,Austria
+hombre,10.40773963,Azerbaijan
+hombre,13.13566488,Bahamas
+hombre,14.1778888,Bahrain
+hombre,12.1364204,Bangladesh
+hombre,13.41341347,Barbados
+hombre,12.06218487,Belarus
+hombre,14.29903203,Belgium
+hombre,13.33888899,Belize
+hombre,11.86627644,Benin
+hombre,13.54854175,Bermuda
+hombre,11.74586358,Bhutan
+hombre,12.22245654,Bolivia
+hombre,11.15789943,Bosnia and Herzegovina
+hombre,12.9002993,Botswana
+hombre,13.21851336,Brazil
+hombre,11.10931715,Brunei
+hombre,11.11931489,Bulgaria
+hombre,12.07439374,Burkina Faso
+hombre,12.77626306,Burundi
+hombre,11.93334797,Cambodia
+hombre,11.7740496,Cameroon
+hombre,14.98020544,Canada
+hombre,12.62831289,Cape Verde
+hombre,13.51391402,Caribbean
+hombre,12.8274934,Central African Republic
+hombre,10.87125026,Central Asia
+hombre,11.05391482,Central Europe
+hombre,11.40582664,"Central Europe, Eastern Europe, and Central Asia"
+hombre,10.42547128,Central Latin America
+hombre,12.6715981,Central Sub-Saharan Africa
+hombre,12.1417892,Chad
+hombre,13.93389348,Chile
+hombre,11.39809419,China
+hombre,10.38346378,Colombia
+hombre,11.79718988,Comoros
+hombre,12.39374121,Congo
+hombre,10.86945598,Costa Rica
+hombre,11.55230072,Cote d'Ivoire
+hombre,11.47126762,Croatia
+hombre,14.05749924,Cuba
+hombre,13.15348291,Cyprus
+hombre,11.29759684,Czech Republic
+hombre,12.72578503,Democratic Republic of Congo
+hombre,13.54092309,Denmark
+hombre,12.1204973,Djibouti
+hombre,13.12208122,Dominica
+hombre,13.20532976,Dominican Republic
+hombre,11.40677642,East Asia
+hombre,11.81580312,Eastern Europe
+hombre,12.50019154,Eastern Sub-Saharan Africa
+hombre,12.25295339,Ecuador
+hombre,14.48854777,Egypt
+hombre,10.7326214,El Salvador
+hombre,14.04600946,England
+hombre,12.51992968,Equatorial Guinea
+hombre,12.46257293,Eritrea
+hombre,11.91852632,Estonia
+hombre,13.07432256,Ethiopia
+hombre,10.8826729,Fiji
+hombre,14.97000282,Finland
+hombre,14.38336619,France
+hombre,12.51211635,Gabon
+hombre,11.55112613,Gambia
+hombre,10.76735244,Georgia
+hombre,13.24807959,Germany
+hombre,11.71687663,Ghana
+hombre,14.0387678,Greece
+hombre,16.55731214,Greenland
+hombre,13.34773319,Grenada
+hombre,11.31089917,Guam
+hombre,10.94931489,Guatemala
+hombre,11.56624065,Guinea
+hombre,11.59476672,Guinea-Bissau
+hombre,14.10185758,Guyana
+hombre,13.23563096,Haiti
+hombre,14.02001664,High SDI
+hombre,14.38667294,High-income
+hombre,11.86120639,High-income Asia Pacific
+hombre,12.21230358,High-middle SDI
+hombre,10.437104,Honduras
+hombre,11.31441491,Hungary
+hombre,13.14593239,Iceland
+hombre,14.80456266,India
+hombre,10.54077,Indonesia
+hombre,17.22200034,Iran
+hombre,12.80907883,Iraq
+hombre,14.36789533,Ireland
+hombre,12.53051231,Israel
+hombre,13.5602566,Italy
+hombre,13.03688321,Jamaica
+hombre,12.34711531,Japan
+hombre,14.28131206,Jordan
+hombre,11.18019581,Kazakhstan
+hombre,11.99250604,Kenya
+hombre,11.32054185,Kiribati
+hombre,13.60607849,Kuwait
+hombre,11.09377003,Kyrgyzstan
+hombre,12.26425694,Laos
+hombre,11.94860376,Latin America and Caribbean
+hombre,11.80073738,Latvia
+hombre,15.12782759,Lebanon
+hombre,13.96034807,Lesotho
+hombre,11.60924506,Liberia
+hombre,13.88477648,Libya
+hombre,12.09168169,Lithuania
+hombre,13.74478455,Low SDI
+hombre,13.37463164,Low-middle SDI
+hombre,13.57609326,Luxembourg
+hombre,10.81285494,Macedonia
+hombre,12.28105486,Madagascar
+hombre,11.91751959,Malawi
+hombre,11.42704098,Malaysia
+hombre,11.14946552,Maldives
+hombre,11.35866053,Mali
+hombre,13.32858361,Malta
+hombre,11.12741828,Marshall Islands
+hombre,11.63254353,Mauritania
+hombre,11.00600339,Mauritius
+hombre,10.17294354,Mexico
+hombre,11.14795791,Micronesia (country)
+hombre,11.71711637,Middle SDI
+hombre,11.57337026,Moldova
+hombre,11.30527035,Mongolia
+hombre,10.98667392,Montenegro
+hombre,15.81797206,Morocco
+hombre,12.50144412,Mozambique
+hombre,11.01905328,Myanmar
+hombre,12.63822134,Namibia
+hombre,13.00178788,Nepal
+hombre,14.69781374,Netherlands
+hombre,17.28873676,New Zealand
+hombre,10.80293847,Nicaragua
+hombre,12.06837837,Niger
+hombre,11.9880323,Nigeria
+hombre,15.05292674,North Africa and Middle East
+hombre,16.22687506,North America
+hombre,11.72897212,North Korea
+hombre,16.31425012,Northern Ireland
+hombre,11.02042481,Northern Mariana Islands
+hombre,14.88691344,Norway
+hombre,11.24199871,Oceania
+hombre,13.50551334,Oman
+hombre,11.82838212,Pakistan
+hombre,15.92226547,Palestine
+hombre,10.64651546,Panama
+hombre,11.32146449,Papua New Guinea
+hombre,12.8225193,Paraguay
+hombre,11.71516827,Peru
+hombre,10.73940896,Philippines
+hombre,11.03856223,Poland
+hombre,14.07719016,Portugal
+hombre,13.58247464,Puerto Rico
+hombre,13.69307299,Qatar
+hombre,10.73895177,Romania
+hombre,11.67817429,Russia
+hombre,12.25386199,Rwanda
+hombre,13.41181467,Saint Lucia
+hombre,13.34533024,Saint Vincent and the Grenadines
+hombre,10.97155757,Samoa
+hombre,11.34838813,Sao Tome and Principe
+hombre,13.17297904,Saudi Arabia
+hombre,13.4535852,Scotland
+hombre,11.64370597,Senegal
+hombre,11.07038215,Serbia
+hombre,10.66679401,Seychelles
+hombre,11.75195444,Sierra Leone
+hombre,12.14999747,Singapore
+hombre,10.92893177,Slovakia
+hombre,11.54292568,Slovenia
+hombre,11.33367609,Solomon Islands
+hombre,12.69944971,Somalia
+hombre,12.62842502,South Africa
+hombre,14.21010743,South Asia
+hombre,10.83049377,South Korea
+hombre,11.82732974,South Sudan
+hombre,10.75805781,Southeast Asia
+hombre,11.1873352,"Southeast Asia, East Asia, and Oceania"
+hombre,13.6803303,Southern Latin America
+hombre,12.63035828,Southern Sub-Saharan Africa
+hombre,14.59749583,Spain
+hombre,11.65136591,Sri Lanka
+hombre,12.27193453,Sub-Saharan Africa
+hombre,16.42865957,Sudan
+hombre,13.90163289,Suriname
+hombre,12.86220708,Swaziland
+hombre,14.17092434,Sweden
+hombre,13.67075826,Switzerland
+hombre,14.68519247,Syria
+hombre,11.607437,Taiwan
+hombre,10.74519483,Tajikistan
+hombre,11.9621752,Tanzania
+hombre,12.60859657,Thailand
+hombre,11.90194988,Timor
+hombre,11.82774934,Togo
+hombre,10.75814889,Tonga
+hombre,13.84361679,Trinidad and Tobago
+hombre,13.20750945,Tropical Latin America
+hombre,15.22229593,Tunisia
+hombre,14.35914916,Turkey
+hombre,10.71409033,Turkmenistan
+hombre,13.20322447,Uganda
+hombre,12.16155381,Ukraine
+hombre,12.33176823,United Arab Emirates
+hombre,14.05157915,United Kingdom
+hombre,16.36059456,United States
+hombre,13.54797412,United States Virgin Islands
+hombre,13.57647781,Uruguay
+hombre,10.85301867,Uzbekistan
+hombre,11.14236239,Vanuatu
+hombre,11.12553115,Venezuela
+hombre,9.074423551,Vietnam
+hombre,13.83691391,Wales
+hombre,13.92473802,Western Europe
+hombre,11.87074544,Western Sub-Saharan Africa
+hombre,12.68710368,World
+hombre,15.56515553,Yemen
+hombre,11.95520928,Zambia
+hombre,12.36171836,Zimbabwe
+mujer,17.77033977,Afghanistan
+mujer,11.1611086,Albania
+mujer,15.05263619,Algeria
+mujer,11.00980863,American Samoa
+mujer,12.79589293,Andean Latin America
+mujer,15.86058667,Andorra
+mujer,12.38640534,Angola
+mujer,13.34828113,Antigua and Barbuda
+mujer,17.51248346,Argentina
+mujer,10.6151881,Armenia
+mujer,19.37188454,Australasia
+mujer,19.20166646,Australia
+mujer,15.72469491,Austria
+mujer,10.4531732,Azerbaijan
+mujer,13.47369736,Bahamas
+mujer,15.10292973,Bahrain
+mujer,13.80619376,Bangladesh
+mujer,13.55184729,Barbados
+mujer,12.12002006,Belarus
+mujer,15.38102711,Belgium
+mujer,13.4115845,Belize
+mujer,11.70313797,Benin
+mujer,14.01513338,Bermuda
+mujer,12.42237885,Bhutan
+mujer,13.41376801,Bolivia
+mujer,11.34706997,Bosnia and Herzegovina
+mujer,12.11255586,Botswana
+mujer,16.23963802,Brazil
+mujer,11.72952573,Brunei
+mujer,11.54452462,Bulgaria
+mujer,11.67755392,Burkina Faso
+mujer,13.63223983,Burundi
+mujer,12.91157189,Cambodia
+mujer,11.71723572,Cameroon
+mujer,15.69228739,Canada
+mujer,11.80661196,Cape Verde
+mujer,14.02144106,Caribbean
+mujer,12.54673344,Central African Republic
+mujer,10.8451583,Central Asia
+mujer,11.17182271,Central Europe
+mujer,11.4982235,"Central Europe, Eastern Europe, and Central Asia"
+mujer,10.85768319,Central Latin America
+mujer,12.43666222,Central Sub-Saharan Africa
+mujer,12.21767427,Chad
+mujer,18.13977801,Chile
+mujer,11.66017634,China
+mujer,9.897339475,Colombia
+mujer,12.63761871,Comoros
+mujer,12.38986872,Congo
+mujer,10.9237789,Costa Rica
+mujer,11.27370753,Cote d'Ivoire
+mujer,11.64178788,Croatia
+mujer,14.6919133,Cuba
+mujer,15.25184586,Cyprus
+mujer,11.49517146,Czech Republic
+mujer,12.45551722,Democratic Republic of Congo
+mujer,15.42303681,Denmark
+mujer,12.86203734,Djibouti
+mujer,13.31284128,Dominica
+mujer,13.81065282,Dominican Republic
+mujer,11.65088986,East Asia
+mujer,11.89000648,Eastern Europe
+mujer,13.28599748,Eastern Sub-Saharan Africa
+mujer,13.0915962,Ecuador
+mujer,15.09122253,Egypt
+mujer,11.21677252,El Salvador
+mujer,15.01085471,England
+mujer,12.38156238,Equatorial Guinea
+mujer,13.25578061,Eritrea
+mujer,12.63200189,Estonia
+mujer,13.58613495,Ethiopia
+mujer,11.27485835,Fiji
+mujer,15.42419115,Finland
+mujer,18.57512838,France
+mujer,12.17824262,Gabon
+mujer,13.02127718,Gambia
+mujer,10.71804224,Georgia
+mujer,17.10222484,Germany
+mujer,11.29343528,Ghana
+mujer,16.90612143,Greece
+mujer,19.15004029,Greenland
+mujer,13.36902518,Grenada
+mujer,11.39785718,Guam
+mujer,11.51021369,Guatemala
+mujer,11.65224475,Guinea
+mujer,11.71481513,Guinea-Bissau
+mujer,14.74145798,Guyana
+mujer,13.7434582,Haiti
+mujer,15.62408964,High SDI
+mujer,16.4128586,High-income
+mujer,11.95838495,High-income Asia Pacific
+mujer,12.91917699,High-middle SDI
+mujer,10.76290561,Honduras
+mujer,11.64844538,Hungary
+mujer,15.37677036,Iceland
+mujer,15.13403543,India
+mujer,11.55577741,Indonesia
+mujer,18.4000541,Iran
+mujer,15.03351223,Iraq
+mujer,16.67759149,Ireland
+mujer,13.33369662,Israel
+mujer,15.93704931,Italy
+mujer,13.31673179,Jamaica
+mujer,11.8459649,Japan
+mujer,15.14117585,Jordan
+mujer,11.14451828,Kazakhstan
+mujer,12.8111356,Kenya
+mujer,11.41068849,Kiribati
+mujer,14.84973443,Kuwait
+mujer,11.01242111,Kyrgyzstan
+mujer,13.129408,Laos
+mujer,13.45262711,Latin America and Caribbean
+mujer,11.66196547,Latvia
+mujer,16.73631601,Lebanon
+mujer,13.84034693,Lesotho
+mujer,12.56953574,Liberia
+mujer,14.86466923,Libya
+mujer,12.27935072,Lithuania
+mujer,14.1049233,Low SDI
+mujer,14.01823997,Low-middle SDI
+mujer,15.94170704,Luxembourg
+mujer,11.22085129,Macedonia
+mujer,13.05480117,Madagascar
+mujer,12.69483275,Malawi
+mujer,12.86057619,Malaysia
+mujer,12.36305927,Maldives
+mujer,11.17485677,Mali
+mujer,15.37103712,Malta
+mujer,11.37102861,Marshall Islands
+mujer,11.01133878,Mauritania
+mujer,12.15931382,Mauritius
+mujer,11.1514261,Mexico
+mujer,11.3632657,Micronesia (country)
+mujer,12.27074571,Middle SDI
+mujer,11.63794216,Moldova
+mujer,11.23789676,Mongolia
+mujer,11.42847545,Montenegro
+mujer,17.2062872,Morocco
+mujer,13.21271846,Mozambique
+mujer,11.66769833,Myanmar
+mujer,11.50371529,Namibia
+mujer,13.51749244,Nepal
+mujer,17.63022214,Netherlands
+mujer,20.21170647,New Zealand
+mujer,10.96714379,Nicaragua
+mujer,12.02016167,Niger
+mujer,12.31846402,Nigeria
+mujer,15.93649294,North Africa and Middle East
+mujer,18.01537154,North America
+mujer,11.56222086,North Korea
+mujer,19.03094108,Northern Ireland
+mujer,11.02181339,Northern Mariana Islands
+mujer,17.43262131,Norway
+mujer,11.56785735,Oceania
+mujer,14.5117574,Oman
+mujer,12.76216922,Pakistan
+mujer,16.33808584,Palestine
+mujer,10.75413907,Panama
+mujer,11.65685385,Papua New Guinea
+mujer,15.31938089,Paraguay
+mujer,12.46520446,Peru
+mujer,11.58828795,Philippines
+mujer,10.86899475,Poland
+mujer,16.81825491,Portugal
+mujer,13.45926588,Puerto Rico
+mujer,14.78753664,Qatar
+mujer,10.83030176,Romania
+mujer,11.72235475,Russia
+mujer,13.55946894,Rwanda
+mujer,13.45192652,Saint Lucia
+mujer,13.31865441,Saint Vincent and the Grenadines
+mujer,11.1758963,Samoa
+mujer,11.20813549,Sao Tome and Principe
+mujer,14.26688197,Saudi Arabia
+mujer,15.03175228,Scotland
+mujer,11.14504179,Senegal
+mujer,11.40529414,Serbia
+mujer,11.16669666,Seychelles
+mujer,11.79373814,Sierra Leone
+mujer,13.10129478,Singapore
+mujer,11.22899835,Slovakia
+mujer,12.0072024,Slovenia
+mujer,11.62401194,Solomon Islands
+mujer,13.56326331,Somalia
+mujer,12.70824822,South Africa
+mujer,14.70074337,South Asia
+mujer,12.20758655,South Korea
+mujer,12.8434398,South Sudan
+mujer,11.67152022,Southeast Asia
+mujer,11.68759945,"Southeast Asia, East Asia, and Oceania"
+mujer,17.67558755,Southern Latin America
+mujer,12.33830357,Southern Sub-Saharan Africa
+mujer,17.51736024,Spain
+mujer,12.40054911,Sri Lanka
+mujer,12.52740198,Sub-Saharan Africa
+mujer,16.65206814,Sudan
+mujer,14.61224953,Suriname
+mujer,11.86690029,Swaziland
+mujer,17.1482677,Sweden
+mujer,16.31837838,Switzerland
+mujer,15.31606359,Syria
+mujer,11.26545376,Taiwan
+mujer,10.77014188,Tajikistan
+mujer,12.97391683,Tanzania
+mujer,11.83713344,Thailand
+mujer,13.0426912,Timor
+mujer,11.68552486,Togo
+mujer,11.16356977,Tonga
+mujer,14.15368836,Trinidad and Tobago
+mujer,16.21583527,Tropical Latin America
+mujer,15.60377726,Tunisia
+mujer,14.5076852,Turkey
+mujer,10.71116252,Turkmenistan
+mujer,14.28295638,Uganda
+mujer,12.31674928,Ukraine
+mujer,13.06793259,United Arab Emirates
+mujer,15.14244802,United Kingdom
+mujer,18.26920752,United States
+mujer,13.82915682,United States Virgin Islands
+mujer,17.30831025,Uruguay
+mujer,10.79212718,Uzbekistan
+mujer,11.40787726,Vanuatu
+mujer,10.98002723,Venezuela
+mujer,11.11099373,Vietnam
+mujer,15.21453839,Wales
+mujer,16.70276219,Western Europe
+mujer,11.92545879,Western Sub-Saharan Africa
+mujer,13.45508886,World
+mujer,16.38862234,Yemen
+mujer,12.48578196,Zambia
+mujer,10.65261013,Zimbabwe
