@@ -4,3 +4,7 @@ Some selected datasets in CSV format
 
 To choose what to read:
 `data <- read.csv(file.choose(), header = T)`
+
+links to databases
+
+<https://www.rdocumentation.org/packages/openintro/versions/2.0.0>
