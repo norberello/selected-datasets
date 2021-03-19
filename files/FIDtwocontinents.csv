@@ -1,0 +1,1257 @@
+"","Continent","Disturbance","Order","Family","Scientific.name","Common.name","FID","log.fid"
+"1","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas castanea","chestnut teal",65.1,1.81358098856819
+"2","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas castanea","chestnut teal",80.1,1.90363251608424
+"3","America-Australia","Bicycle","Anseriformes","Anatidae","Anas castanea","chestnut teal",69,1.83884909073726
+"4","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas castanea","chestnut teal",63.1,1.80002935924413
+"5","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas castanea","chestnut teal",53.5,1.72835378202123
+"6","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas castanea","chestnut teal",76.9,1.88592633980143
+"7","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas castanea","chestnut teal",85.4,1.93145787068901
+"8","America-Australia","Non-motorized watercraft","Anseriformes","Anatidae","Anas gracilis","grey teal ",24.7,1.39269695325967
+"9","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas gracilis","grey teal ",78,1.89209460269048
+"10","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas gracilis","grey teal",61.6,1.78958071216443
+"11","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas gracilis","grey teal",82.8,1.91803033678488
+"12","America-Australia","Bicycle","Anseriformes","Anatidae","Anas gracilis ","grey teal",74.3,1.87098881376058
+"13","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas gracilis ","grey teal",82,1.91381385238372
+"14","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas gracilis ","grey teal",68.3,1.83442070368153
+"15","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas gracilis ","grey teal",82.5,1.91645394854993
+"16","America-Australia","Non-motorized watercraft","Anseriformes","Anatidae","Anas superciliosa","Pacific black duck ",72,1.85733249643127
+"17","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa","Pacific black duck ",107.5,2.03140846425162
+"18","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas superciliosa","Pacific black duck",72,1.85733249643127
+"19","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa","Pacific black duck",89.1,1.94987770403687
+"20","America-Australia","Bicycle","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck",40.3,1.60530504614111
+"21","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck",50.4,1.70243053644553
+"22","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck",52,1.7160033436348
+"23","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck",97.9,1.99078269180314
+"24","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck",46,1.66275783168157
+"25","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Aythya australis","hardhead",64.6,1.81023251799508
+"26","America-Australia","Pedestrian","Anseriformes","Anatidae","Aythya australis","hardhead",87.2,1.94051648493257
+"27","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Aythya australis ","hardhead  ",60.6,1.78247262416629
+"28","America-Australia","Pedestrian","Anseriformes","Anatidae","Aythya australis ","hardhead  ",88.4,1.94645226501307
+"29","America-Australia","Pedestrian","Anseriformes","Anatidae","Aythya australis ","hardhead  ",41,1.61278385671974
+"30","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Biziura lobata","musk duck",34.1,1.5327543789925
+"31","America-Australia","Pedestrian","Anseriformes","Anatidae","Biziura lobata","musk duck",69.9,1.84447717574568
+"32","America-Australia","Bicycle","Anseriformes","Anatidae","Biziura lobata","musk duck",70.4,1.84757265914211
+"33","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Biziura lobata","musk duck",38.7,1.58771096501891
+"34","America-Australia","Pedestrian","Anseriformes","Anatidae","Biziura lobata","musk duck",55.6,1.74507479158206
+"35","America-Australia","Pedestrian","Anseriformes","Anatidae","Cereopsis novaehollandiae","Cape Barren goose",82.6,1.91698004732038
+"36","America-Australia","Bicycle","Anseriformes","Anatidae","Cereopsis novaehollandiae","Cape Barren goose ",102,2.00860017176192
+"37","America-Australia","Pedestrian","Anseriformes","Anatidae","Cereopsis novaehollandiae","Cape Barren goose ",82.6,1.91698004732038
+"38","America-Australia","Pedestrian","Anseriformes","Anatidae","Cereopsis novaehollandiae","Cape Barren goose ",105,2.02118929906994
+"39","America-Australia","Pedestrian","Anseriformes","Anatidae","Chenonetta jubata ","Australian wood duck",25.5,1.40654018043396
+"40","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Cygnus atratus","black swan",66.4,1.82216807936802
+"41","America-Australia","Pedestrian","Anseriformes","Anatidae","Cygnus atratus","black swan",78.3,1.89376176205794
+"42","America-Australia","Bicycle","Anseriformes","Anatidae","Cygnus atratus","black swan",59.8,1.77670118398841
+"43","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Cygnus atratus","black swan",57,1.75587485567249
+"44","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Cygnus atratus","black swan",24.2,1.38381536598043
+"45","America-Australia","Pedestrian","Anseriformes","Anatidae","Cygnus atratus","black swan",47.9,1.68033551341456
+"46","America-Australia","Pedestrian","Anseriformes","Anatidae","Cygnus atratus","black swan",97.3,1.98811284026835
+"47","America-Australia","Pedestrian","Anseriformes","Anatidae","Dendrocygna eytoni","plumed whistling duck",130,2.11394335230684
+"48","America-Australia","Non-motorized watercraft","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck ",36.8,1.56584781867352
+"49","America-Australia","Pedestrian","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck ",31.5,1.4983105537896
+"50","America-Australia","Pedestrian","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",67.1,1.82672252016899
+"51","America-Australia","Bicycle","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",56.3,1.75050839485135
+"52","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",47.2,1.67394199863409
+"53","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",92.1,1.96425963019685
+"54","America-Australia","Pedestrian","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",65,1.81291335664286
+"55","America-Australia","Pedestrian","Anseriformes","Anatidae","Malacorhynchus membranaceus","pink-eared duck",98,1.99122607569249
+"56","America-Australia","Pedestrian","Anseriformes","Anatidae","Oxyura australis","blue-billed duck",68.3,1.83442070368153
+"57","America-Australia","Pedestrian","Anseriformes","Anatidae","Oxyura australis ","blue-billed duck ",40,1.60205999132796
+"58","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Tadorna tadornoides","Australian shelduck",106.9,2.02897770520878
+"59","America-Australia","Pedestrian","Anseriformes","Anatidae","Tadorna tadornoides","Australian shelduck",122.3,2.08742645703629
+"60","America-Australia","Bicycle","Anseriformes","Anatidae","Tadorna tadornoides ","Australian shelduck",106.1,2.02571538390134
+"61","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Tadorna tadornoides ","Australian shelduck",219.7,2.34183005692051
+"62","America-Australia","Motorized vehicle","Anseriformes","Anatidae","Tadorna tadornoides ","Australian shelduck",93.3,1.9698816437465
+"63","America-Australia","Pedestrian","Anseriformes","Anatidae","Tadorna tadornoides ","Australian shelduck",111.5,2.04727486738418
+"64","America-Australia","Pedestrian","Anseriformes","Anatidae","Tadorna tadornoides ","Australian shelduck",138.9,2.14270224573762
+"65","America-Australia","Motorized watercraft","Anseriformes","Anatidae ","Anas gracilis","grey teal ",59,1.77085201164214
+"66","America-Australia","Non-motorized watercraft","Anseriformes","Anatidae ","Anas gracilis","grey teal ",49.5,1.69460519893357
+"67","America-Australia","Pedestrian","Anseriformes","Anatidae ","Anas gracilis","grey teal ",106.9,2.02897770520878
+"68","America-Australia","Pedestrian","Anseriformes","Anatidae ","Cygnus atratus","black swan ",3.6,0.556302500767287
+"69","America-Australia","Motorized watercraft","Anseriformes","Anatidae ","Cygnus atratus","black swan ",113,2.05307844348342
+"70","America-Australia","Pedestrian","Anseriformes","Anatidae ","Cygnus atratus","black swan ",149,2.17318626841227
+"71","America-Australia","Pedestrian","Anseriformes","Anatidae ","Cygnus atratus ","black swan",50.4,1.70243053644553
+"72","America-Australia","Pedestrian","Anseriformes","Anatidae ","Tadorna tadornoides","Australian shelduck",145,2.16136800223497
+"73","America-Australia","Pedestrian","Charadriiformes","Burhinidae","Burhinus grallarius ","bush stone-curlew",25.9,1.41329976408125
+"74","America-Australia","Non-motorized watercraft","Charadriiformes","Charadriidae","Elseyornis melanops","black-fronted dotterel ",9,0.954242509439325
+"75","America-Australia","Pedestrian","Charadriiformes","Charadriidae","Elseyornis melanops","black-fronted dotterel ",24.8,1.39445168082622
+"76","America-Australia","Non-motorized watercraft","Charadriiformes","Charadriidae","Erythrogonys cinctus","red-kneed dotterel",12.3,1.0899051114394
+"77","America-Australia","Motorized vehicle","Charadriiformes","Charadriidae","Vanellus miles","masked lapwing",40.8,1.61066016308988
+"78","America-Australia","Pedestrian","Charadriiformes","Charadriidae","Vanellus miles","masked lapwing",79.7,1.90145832139611
+"79","America-Australia","Motorized vehicle","Charadriiformes","Charadriidae","Vanellus miles ","masked lapwing  ",49.9,1.69810054562339
+"80","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Charadrius bicinctus","double-banded plover",32.14,1.50704587242733
+"81","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Charadrius ruficapillus","red-capped plover",32.75,1.5152113043278
+"82","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Charadrius ruficapillus ","red-capped plover ",22,1.34242268082221
+"83","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Elseyornis melanops","black-fronted dotterel",23.88,1.37803432245733
+"84","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Erythrogonys cinctus","red-kneed dotterel",21.2,1.32633586092875
+"85","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Pluvialis dominica","Pacific golden plover",49.33,1.69311111546214
+"86","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Pluvialis fulva ","Pacific golden plover ",21.9,1.34044411484012
+"87","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Pluvialis squatarola","black-bellied plover",44,1.64345267648619
+"88","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Vanellus miles","masked lapwing ",62.62,1.7967130632809
+"89","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Vanellus miles ","masked lapwing ",46.8,1.67024585307412
+"90","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Vanellus tricolor","banded lapwing",74,1.86923171973098
+"91","America-Australia","Pedestrian","Charadriiformes","Haematopodidae","Haematopus fuliginosus","sooty oystercatcher",64.28,1.80807586809131
+"92","America-Australia","Pedestrian","Charadriiformes","Haematopodidae","Haematopus longirostris","pied oystercatcher ",41.52,1.6182573448404
+"93","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haematopus longirostris","pied oystercatcher",82.5,1.91645394854993
+"94","America-Australia","Non-motorized watercraft","Charadriiformes","Laridae","Chlidonias hybrida","whiskered tern",11,1.04139268515823
+"95","America-Australia","Motorized vehicle","Charadriiformes","Laridae","Chlidonias hybrida ","whiskered tern ",46.5,1.66745295288995
+"96","America-Australia","Motorized vehicle","Charadriiformes","Laridae","Larus novaehollandiae","silver gull",17.4,1.2405492482826
+"97","America-Australia","Pedestrian","Charadriiformes","Laridae ","Sterna albifrons ","little tern ",21.5,1.33243845991561
+"98","America-Australia","Motorized vehicle","Charadriiformes","Recurvirostridae","Himantopus himantopus ","black-winged stilt ",19.7,1.29446622616159
+"99","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae","Recurvirostra novaehollandiae","red-necked avocet",32.5,1.51188336097887
+"100","America-Australia","Motorized vehicle","Charadriiformes","Recurvirostridae","Recurvirostra novaehollandiae ","red-necked avocet ",56.9,1.75511226639507
+"101","America-Australia","Dog","Charadriiformes","Recurvirostridae ","Cladorhynchus leucocephalus","banded stilt",40.2,1.60422605308447
+"102","America-Australia","Motorized watercraft","Charadriiformes","Recurvirostridae ","Cladorhynchus leucocephalus","banded stilt",28.8,1.45939248775923
+"103","America-Australia","Non-motorized watercraft","Charadriiformes","Recurvirostridae ","Cladorhynchus leucocephalus","banded stilt",24.7,1.39269695325967
+"104","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Cladorhynchus leucocephalus","banded stilt",32.8,1.51587384371168
+"105","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus himantopus","black-winged stilt ",38,1.57978359661681
+"106","America-Australia","Dog","Charadriiformes","Recurvirostridae ","Himantopus himantopus","black-winged stilt",43.5,1.63848925695464
+"107","America-Australia","Motorized watercraft","Charadriiformes","Recurvirostridae ","Himantopus himantopus","black-winged stilt",33.5,1.52504480703685
+"108","America-Australia","Non-motorized watercraft","Charadriiformes","Recurvirostridae ","Himantopus himantopus","black-winged stilt",35.8,1.55388302664387
+"109","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus himantopus","black-winged stilt",39.3,1.59439255037543
+"110","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus himantopus ","black-winged stilt ",38.3,1.58319877396862
+"111","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Recurvirostra novaehollandiae","red-necked avocet",73,1.86332286012046
+"112","America-Australia","Motorized watercraft","Charadriiformes","Recurvirostridae ","Recurvirostra novaehollandiae","red-necked avocet",57,1.75587485567249
+"113","America-Australia","Non-motorized watercraft","Charadriiformes","Recurvirostridae ","Recurvirostra novaehollandiae","red-necked avocet",43,1.63346845557959
+"114","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Recurvirostra novaehollandiae","red-necked avocet",60.4,1.78103693862113
+"115","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris acuminata","sharp-tailed sandpiper",14.8,1.17026171539496
+"116","America-Australia","Dog","Charadriiformes","Scolopacidae","Calidris acuminata","sharp-tailed sandpiper",39.3,1.59439255037543
+"117","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae","Calidris acuminata","sharp-tailed sandpiper",35.7,1.55266821611219
+"118","America-Australia","Non-motorized watercraft","Charadriiformes","Scolopacidae","Calidris acuminata","sharp-tailed sandpiper",28.1,1.44870631990508
+"119","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris acuminata","sharp-tailed sandpiper",33.2,1.52113808370404
+"120","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae","Calidris acuminata ","sharp-tailed sandpiper  ",35.4,1.54900326202579
+"121","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae","Calidris ferruginea","curlew sandpiper",29.8,1.47421626407626
+"122","America-Australia","Non-motorized watercraft","Charadriiformes","Scolopacidae","Calidris ferruginea","curlew sandpiper",26.8,1.42813479402879
+"123","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ferruginea","curlew sandpiper",34.8,1.54157924394658
+"124","America-Australia","Dog","Charadriiformes","Scolopacidae","Calidris ruficollis","red-necked stint",32.6,1.51321760006794
+"125","America-Australia","Non-motorized watercraft","Charadriiformes","Scolopacidae","Calidris ruficollis","red-necked stint",17.3,1.2380461031288
+"126","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ruficollis","red-necked stint",20,1.30102999566398
+"127","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ruficollis","red-necked stint",28.1,1.44870631990508
+"128","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae","Limosa lapponica","bar-tailed godwit",53.5,1.72835378202123
+"129","America-Australia","Non-motorized watercraft","Charadriiformes","Scolopacidae","Limosa lapponica","bar-tailed godwit",41.9,1.6222140229663
+"130","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica","bar-tailed godwit",48.6,1.68663626926229
+"131","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Numenius madagascariensis","eastern curlew",97.5,1.98900461569854
+"132","America-Australia","Dog","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",80.3,1.90471554527868
+"133","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",60.7,1.78318869107526
+"134","America-Australia","Non-motorized watercraft","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",51.5,1.71180722904119
+"135","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",70,1.84509804001426
+"136","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Arenaria interpres","ruddy turnstone",29.66,1.47217114669236
+"137","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Caldris acuminata","sharp-tailed sandpiper",20.29,1.30728204703335
+"138","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Caldris alba","sanderling",32,1.50514997831991
+"139","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Caldris ferruginea","curlew sandpiper",25.19,1.40122816749811
+"140","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Caldris melanotos","pectoral sandpiper",23,1.36172783601759
+"141","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Caldris ruficollis","red-necked stinta",18.73,1.27253777737524
+"142","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Calidris ruficollis","red-necked stint",26.3,1.41995574848976
+"143","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Gallinago hardwickii","Latham’s snipe",62.62,1.7967130632809
+"144","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Limosa lapponica","bar-tailed godwit ",59.5,1.77451696572855
+"145","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Limosa limosa","black-tailed godwit",31.25,1.49485002168009
+"146","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Numenius madagascariensis","eastern curlew",126.13,2.10081839573154
+"147","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Numenius phaeopus","whimbrel ",90,1.95424250943932
+"148","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Tringa nebularia","common greenshank",55.41,1.7435881501599
+"149","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Tringa stagnatilis","marsh sandpiper",44.1,1.64443858946784
+"150","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Ardea modesta","eastern great egret",32.8,1.51587384371168
+"151","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea modesta","eastern great egret",57,1.75587485567249
+"152","America-Australia","Bicycle","Ciconiiformes","Ardeidae","Ardea modesta ","eastern great egret ",58.3,1.76566855475901
+"153","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Ardea modesta ","eastern great egret ",70,1.84509804001426
+"154","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Ardea modesta ","eastern great egret ",36.7,1.56466606425209
+"155","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea modesta ","eastern great egret ",57.2,1.75739602879302
+"156","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea modesta ","eastern great egret ",57.7,1.76117581315573
+"157","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Ardea pacifica","white-necked heron",26.4,1.42160392686983
+"158","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea pacifica","white-necked heron",63.4,1.80208925788173
+"159","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Ardea pacifica","white-necked heron ",26.4,1.42160392686983
+"160","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea pacifica","white-necked heron ",63.4,1.80208925788173
+"161","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Bubulcus ibis","cattle egret",23.4,1.36921585741014
+"162","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Bubulcus ibis ","cattle egret ",23.4,1.36921585741014
+"163","America-Australia","Non-motorized watercraft","Ciconiiformes","Ardeidae","Egretta garzetta","little egret ",25,1.39794000867204
+"164","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta garzetta","little egret ",62.3,1.79448804665917
+"165","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta garzetta","little egret",35,1.54406804435028
+"166","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta garzetta ","little egret ",52.4,1.71933128698373
+"167","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta garzetta ","little egret  ",35,1.54406804435028
+"168","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Egretta novaehollandiae","white-faced heron",63,1.79934054945358
+"169","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta novaehollandiae","white-faced heron",46.4,1.66651798055488
+"170","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Egretta novaehollandiae ","white-faced heron ",81.4,1.9106244048892
+"171","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Egretta novaehollandiae ","white-faced heron ",44.7,1.65030752313194
+"172","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta novaehollandiae ","white-faced heron ",45.9,1.66181268553726
+"173","America-Australia","Non-motorized watercraft","Ciconiiformes","Ardeidae","Mesophoyx intermedia","intermediate egret",60,1.77815125038364
+"174","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Mesophoyx intermedia","intermediate egret",30.6,1.48572142648158
+"175","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Mesophoyx intermedia","intermediate egret",20,1.30102999566398
+"176","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Mesophoyx intermedia","intermediate egret",13,1.11394335230684
+"177","America-Australia","Motorized vehicle","Ciconiiformes","Ardeidae","Mesophoyx intermedia ","intermediate egret ",20,1.30102999566398
+"178","America-Australia","Non-motorized watercraft","Ciconiiformes","Ardeidae","Nycticorax caledonicus","Nankeen night-heron",44,1.64345267648619
+"179","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea flavipes","yellow-billed spoonbill",24.7,1.39269695325967
+"180","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Platalea flavipes ","yellow-billed spoonbill  ",89.8,1.9532763366673
+"181","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea flavipes ","yellow-billed spoonbill  ",24.7,1.39269695325967
+"182","America-Australia","Non-motorized watercraft","Ciconiiformes","Threskiornithidae","Platalea regia","royal spoonbill",23,1.36172783601759
+"183","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea regia","royal spoonbill",55,1.74036268949424
+"184","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Platalea regia","royal spoonbill",46,1.66275783168157
+"185","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea regia","royal spoonbill",48.8,1.68841982200271
+"186","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea regia ","royal spoonbill",44.4,1.64738297011462
+"187","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Platalea regia ","royal spoonbill ",46,1.66275783168157
+"188","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea regia ","royal spoonbill ",50.1,1.69983772586725
+"189","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea regia ","royal spoonbill ",32.7,1.51454775266029
+"190","America-Australia","Non-motorized watercraft","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis ",22.3,1.34830486304816
+"191","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis ",56.3,1.75050839485135
+"192","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis",22.9,1.35983548233989
+"193","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis",45,1.65321251377534
+"194","America-Australia","Non-motorized watercraft","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis ",26,1.41497334797082
+"195","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian sacred ibis ",50.4,1.70243053644553
+"196","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",56.2,1.74973631556906
+"197","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",48.6,1.68663626926229
+"198","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",62.2,1.79379038469082
+"199","America-Australia","Non-motorized watercraft","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",58.3,1.76566855475901
+"200","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",80.8,1.90741136077459
+"201","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca ","Australian white ibis ",32.8,1.51587384371168
+"202","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Threskiornis molucca ","Australian white ibis  ",64.9,1.81224469680037
+"203","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Threskiornis molucca ","Australian white ibis  ",55.1,1.74115159885179
+"204","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca ","Australian white ibis  ",49.8,1.69722934275972
+"205","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Threskiornis spinicollis","straw-necked ibis",81.8,1.91275330367132
+"206","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis spinicollis","straw-necked ibis",84.9,1.92890769024395
+"207","America-Australia","Motorized vehicle","Ciconiiformes","Threskiornithidae","Threskiornis spinicollis","straw-necked ibis ",80.6,1.90633504180509
+"208","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis spinicollis","straw-necked ibis ",110.7,2.04414762087872
+"209","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis spinicollis ","straw-necked ibis ",42.4,1.62736585659273
+"210","America-Australia","Pedestrian","Columbiformes","Columbidae ","Geopelia humeralis ","bar-shouldered dove ",22.1,1.34439227368511
+"211","America-Australia","Pedestrian","Columbiformes","Columbidae ","Leucosarcia melanoleuca","Wonga pigeon ",18.5,1.26717172840301
+"212","America-Australia","Pedestrian","Columbiformes","Columbidae ","Macropygia amboinensis ","brown cuckoo-dove ",8.9,0.949390006644913
+"213","America-Australia","Pedestrian","Columbiformes","Columbidae ","Macropygia amboinensis ","brown cuckoo-dove ",4.6,0.662757831681574
+"214","America-Australia","Pedestrian","Columbiformes","Columbidae ","Macropygia amboinensis ","brown cuckoo-dove ",8.1,0.90848501887865
+"215","America-Australia","Pedestrian","Coraciiformes","Coraciidae ","Eurystomus orientalis ","dollarbird ",25.9,1.41329976408125
+"216","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Dacelo novaeguineae ","laughing kookaburra ",10.5,1.02118929906994
+"217","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Dacelo novaeguineae ","laughing kookaburra ",14.7,1.16731733474818
+"218","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Dacelo novaeguineae ","laughing kookaburra",13.8,1.13987908640124
+"219","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Todiramphus sanctus ","sacred kingfisher ",20.9,1.32014628611105
+"220","America-Australia","Pedestrian","Cuculiformes","Cuculidae ","Cacomantis flabelliformis ","fan-tailed cuckoo ",10.6,1.02530586526477
+"221","America-Australia","Pedestrian","Falconiformes","Accipitridae ","Elanus axillaris ","black-shouldered kite ",23.1,1.36361197989214
+"222","America-Australia","Pedestrian","Galliformes","Megapodiidae ","Alectura lathami ","Australian brush turkey",12,1.07918124604762
+"223","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Fulica atra","Eurasian coot",74.3,1.87098881376058
+"224","America-Australia","Pedestrian","Gruiformes","Rallidae","Fulica atra","Eurasian coot",72.8,1.86213137931304
+"225","America-Australia","Bicycle","Gruiformes","Rallidae","Fulica atra","Eurasian coot ",97.2,1.98766626492627
+"226","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Fulica atra","Eurasian coot ",62.3,1.79448804665917
+"227","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Fulica atra","Eurasian coot ",74.3,1.87098881376058
+"228","America-Australia","Pedestrian","Gruiformes","Rallidae","Fulica atra","Eurasian coot ",74.7,1.8733206018154
+"229","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Gallinula tenebrosa","dusky moorhen",14,1.14612803567824
+"230","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Gallinula tenebrosa","dusky moorhen ",12,1.07918124604762
+"231","America-Australia","Non-motorized watercraft","Gruiformes","Rallidae","Gallinula ventralis","black-tailed native hen ",19,1.27875360095283
+"232","America-Australia","Pedestrian","Gruiformes","Rallidae","Gallinula ventralis","black-tailed native hen ",36.8,1.56584781867352
+"233","America-Australia","Pedestrian","Gruiformes","Rallidae","Gallinula ventralis","black-tailed native hen",52.7,1.72181061521255
+"234","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Gallirallus philippensis","buff-banded rail ",14.6,1.16435285578444
+"235","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Porphyrio porphyria","purple swamphen",34.2,1.53402610605614
+"236","America-Australia","Pedestrian","Gruiformes","Rallidae","Porphyrio porphyria","purple swamphen",57.9,1.76267856372744
+"237","America-Australia","Bicycle","Gruiformes","Rallidae","Porphyrio porphyrio ","purple swamphen ",69.7,1.84323277809801
+"238","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Porphyrio porphyrio ","purple swamphen ",66.9,1.82542611776782
+"239","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Porphyrio porphyrio ","purple swamphen ",43.5,1.63848925695464
+"240","America-Australia","Pedestrian","Gruiformes","Rallidae","Porphyrio porphyrio ","purple swamphen ",52.6,1.72098574415374
+"241","America-Australia","Pedestrian","Gruiformes","Rallidae","Porphyrio porphyrio ","purple swamphen ",72.5,1.86033800657099
+"242","America-Australia","Bicycle","Gruiformes","Rallidae","Tribonyx ventralis ","black-tailed native hen ",35,1.54406804435028
+"243","America-Australia","Motorized vehicle","Gruiformes","Rallidae","Tribonyx ventralis ","black-tailed native-hen ",96,1.98227123303957
+"244","America-Australia","Pedestrian","Gruiformes","Rallidae","Tribonyx ventralis ","black-tailed native hen ",52.7,1.72181061521255
+"245","America-Australia","Pedestrian","Gruiformes","Rallidae ","Fulica atra ","Eurasian coot ",19.2,1.28330122870355
+"246","America-Australia","Pedestrian","Passeriformes","Aegithalidae ","Psaltriparus minimus ","bushtit ",7.4,0.869231719730976
+"247","America-Australia","Pedestrian","Passeriformes","Aegithalidae ","Psaltriparus minimus ","bushtit ",8.5,0.929418925714293
+"248","America-Australia","Pedestrian","Passeriformes","Aegithalidae ","Psaltriparus minimus ","bushtit ",6.9,0.838849090737255
+"249","America-Australia","Pedestrian","Passeriformes","Artamidae","Cracticus tibicen","Australian magpie",40.3,1.60530504614111
+"250","America-Australia","Pedestrian","Passeriformes","Artamidae","Cracticus tibicen","Australian magpie",11.1,1.04532297878666
+"251","America-Australia","Pedestrian","Passeriformes","Artamidae ","Cracticus torquatus ","grey butcherbird ",19.3,1.28555730900777
+"252","America-Australia","Pedestrian","Passeriformes","Artamidae ","Grallina cyanoleuca ","magpie-lark",19,1.27875360095283
+"253","America-Australia","Pedestrian","Passeriformes","Artamidae ","Strepera graculina ","pied currawong",15.5,1.19033169817029
+"254","America-Australia","Pedestrian","Passeriformes","Artamidae ","Strepera graculina ","pied currawong",13.9,1.1430148002541
+"255","America-Australia","Pedestrian","Passeriformes","Artamidae ","Strepera graculina ","pied currawong ",15.1,1.17897694729317
+"256","America-Australia","Pedestrian","Passeriformes","Campephagidae ","Coracina novaehollandiae","black-faced cuckoo-shrike ",21.1,1.32428245529769
+"257","America-Australia","Pedestrian","Passeriformes","Certhiidae ","Certhia brachydactyla ","short-toed treecreeper ",7.2,0.857332496431269
+"258","America-Australia","Pedestrian","Passeriformes","Cinclosomatidae ","Psophodes olivaceus ","eastern whipbird ",5.9,0.770852011642144
+"259","America-Australia","Pedestrian","Passeriformes","Climacteridae ","Climacteris picumnus ","brown treecreeper ",5.1,0.707570176097936
+"260","America-Australia","Pedestrian","Passeriformes","Climacteridae ","Cormobates leucophaeus ","white-throated treecreeper ",5.8,0.763427993562937
+"261","America-Australia","Pedestrian","Passeriformes","Corcoracidae ","Corcorax melanorhamphos","white-winged chough ",16.2,1.20951501454263
+"262","America-Australia","Pedestrian","Passeriformes","Corvidae","Corvus coronoides ","Australian raven ",23.8,1.37657695705651
+"263","America-Australia","Pedestrian","Passeriformes","Corvidae","Corvus coronoides ","Australian raven ",29.6,1.47129171105894
+"264","America-Australia","Pedestrian","Passeriformes","Corvidae","Corvus coronoides ","Australian raven ",25.8,1.41161970596323
+"265","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Gymnorhina tibicen","Australian magpie",10.9,1.03742649794062
+"266","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Gymnorhina tibicen ","Australian magpie",9.3,0.968482948553935
+"267","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Gymnorhina tibicen ","Australian magpie",14.9,1.17318626841227
+"268","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura fuliginosa","grey fantail ",5.6,0.7481880270062
+"269","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura fuliginosa","grey fantail ",7.4,0.869231719730976
+"270","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura fuliginosa ","grey fantail ",6.8,0.832508912706236
+"271","America-Australia","Pedestrian","Passeriformes","Estrildidae","Lonchura castaneothorax ","chestnut-breasted mannikin",14.4,1.15836249209525
+"272","America-Australia","Pedestrian","Passeriformes","Hirundinidae ","Hirundo neoxena ","welcome swallow",11,1.04139268515823
+"273","America-Australia","Pedestrian","Passeriformes","Maluridae ","Malurus cyaneus","superb fairy-wren ",6.5,0.812913356642856
+"274","America-Australia","Pedestrian","Passeriformes","Maluridae ","Malurus lamberti ","variegated fairy-wren ",4.5,0.653212513775344
+"275","America-Australia","Pedestrian","Passeriformes","Maluridae ","Stipiturus malachurus ","southern emu-wren",7,0.845098040014257
+"276","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Acanthorhynchus tenuirostris ","eastern spinebill ",5.6,0.7481880270062
+"277","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Acanthorhynchus tenuirostris ","eastern spinebill ",3.6,0.556302500767287
+"278","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Anthochaera chrysoptera ","bush wattlebird",6.7,0.826074802700826
+"279","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Anthochaera chrysoptera ","bush wattlebird",5.4,0.732393759822969
+"280","America-Australia","Non-motorized watercraft","Passeriformes","Meliphagidae","Lichenostomus penicillatus","white-plumed honeyeater",7,0.845098040014257
+"281","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Lichenostomus penicillatus","white-plumed honeyeater",16.7,1.22271647114758
+"282","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Phylidonyris novaehollandidae ","New Holland honeyeater",6.6,0.819543935541869
+"283","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Phylidonyris novaehollandidae ","New Holland honeyeater",8.7,0.939519252618618
+"284","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Acanthorhynchus tenuirostris ","eastern spinebill",5.8,0.763427993562937
+"285","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Anthochaera carunculata ","red wattlebird",8.7,0.939519252618618
+"286","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Anthochaera chrysoptera","little wattlebird",7.3,0.863322860120456
+"287","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Epthianura albifrons ","white-fronted chat",22.6,1.3541084391474
+"288","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus chrysops ","yellow-faced honeyeater ",4.5,0.653212513775344
+"289","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus chrysops ","yellow-faced honeyeater ",4.9,0.690196080028514
+"290","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus chrysops ","yellow-faced honeyeater ",5.8,0.763427993562937
+"291","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus penicillatus ","white-plumed honeyeater ",8.9,0.949390006644913
+"292","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus penicillatus ","white-plumed honeyeater ",9.5,0.977723605288848
+"293","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus penicillatus ","white-plumed honeyeater ",9.8,0.991226075692495
+"294","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichmera indistincta ","brown honeyeater",9.8,0.991226075692495
+"295","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanocephala ","noisy miner",7.5,0.8750612633917
+"296","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanophrys ","bell miner",2.7,0.431363764158987
+"297","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanophrys ","bell miner",5.5,0.740362689494244
+"298","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanophrys ","bell miner ",5,0.698970004336019
+"299","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Meliphaga lewinii ","Lewin’s honeyeater ",8.2,0.913813852383717
+"300","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Meliphaga lewinii ","Lewin’s honeyeater ",6.8,0.832508912706236
+"301","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Meliphaga lewinii ","Lewin’s honeyeater",8.2,0.913813852383717
+"302","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon corniculatus","noisy friarbird",11.1,1.04532297878666
+"303","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon corniculatus ","noisy friarbird ",11.5,1.06069784035361
+"304","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon corniculatus ","noisy friarbird ",8.9,0.949390006644913
+"305","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Phylidonyris melanops ","tawny-crowned honeyeater ",9.8,0.991226075692495
+"306","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Phylidonyris novaehollandidae ","New Holland honeyeater ",7.9,0.897627091290441
+"307","America-Australia","Pedestrian","Passeriformes","Menuridae ","Menura novaehollandiae","superb lyrebird ",10.5,1.02118929906994
+"308","America-Australia","Pedestrian","Passeriformes","Monarchidae ","Grallina cyanoleuca","Magpie-lark",35,1.54406804435028
+"309","America-Australia","Pedestrian","Passeriformes","Monarchidae ","Grallina cyanoleuca","Magpie-lark",12,1.07918124604762
+"310","America-Australia","Pedestrian","Passeriformes","Monarchidae ","Grallina cyanoleuca","magpie-lark",35.4,1.54900326202579
+"311","America-Australia","Pedestrian","Passeriformes","Monarchidae ","Grallina cyanoleuca","magpie-lark",11.5,1.06069784035361
+"312","America-Australia","Pedestrian","Passeriformes","Motacillidae","Motacilla alba ","white wagtail ",7.7,0.886490725172482
+"313","America-Australia","Pedestrian","Passeriformes","Motacillidae ","Anthus novaeseelandiae ","richard’s pipit ",12.4,1.09342168516224
+"314","America-Australia","Pedestrian","Passeriformes","Muscicapidae ","Zoothera lunulata ","Bassian thrush",8.9,0.949390006644913
+"315","America-Australia","Pedestrian","Passeriformes","Pachycephalidae ","Colluricincla harmonica ","grey shrike-thrush ",12.8,1.10720996964787
+"316","America-Australia","Pedestrian","Passeriformes","Pachycephalidae ","Pachycephala pectoralis ","golden whistler ",7.9,0.897627091290441
+"317","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Acanthiza nana ","yellow thornbill ",6.3,0.799340549453582
+"318","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Acanthiza pusilla ","brown thornbill",6.7,0.826074802700826
+"319","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Acanthiza reguloides ","buff-rumped thornbill",4.3,0.633468455579587
+"320","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Gerygone mouki","brown gerygone ",4.2,0.6232492903979
+"321","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Sericornis citreogularis ","yellow-throated scrubwren",5.6,0.7481880270062
+"322","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Sericornis frontalis","white-browed scrubwren",4.2,0.6232492903979
+"323","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Sericornis magnirostris ","large-billed scrubwren",4.4,0.643452676486187
+"324","America-Australia","Pedestrian","Passeriformes","Petroicidae","Eopsaltria australis ","eastern yellow robin ",9.9,0.99563519459755
+"325","America-Australia","Pedestrian","Passeriformes","Petroicidae ","Eopsaltria australis","eastern yellow robin ",9.5,0.977723605288848
+"326","America-Australia","Pedestrian","Passeriformes","Petroicidae ","Eopsaltria australis","eastern yellow robin ",8.8,0.944482672150169
+"327","America-Australia","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus collybita","Eurasian chiffchaff ",6,0.778151250383644
+"328","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae","Ptilonorhynchus violaceus","satin bowerbird ",8.4,0.924279286061882
+"329","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae","Ptilonorhynchus violaceus","satin bowerbird ",9.8,0.991226075692495
+"330","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae ","Ailuroedus crassirostris ","green catbird",9.7,0.986771734266245
+"331","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae ","Malurus cyaneus ","superb fairy-wren ",6.1,0.785329835010767
+"332","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae ","Malurus cyaneus ","superb fairy-wren ",8.8,0.944482672150169
+"333","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae ","Ptilonorhynchus violaceus ","satin bowerbird ",9.5,0.977723605288848
+"334","America-Australia","Pedestrian","Passeriformes","Pycnonotidae ","Pycnonotus jocosus ","red-whiskered bulbul ",17.3,1.2380461031288
+"335","America-Australia","Pedestrian","Passeriformes","Pycnonotidae ","Pycnonotus jocosus ","red-whiskered bulbul ",17,1.23044892137827
+"336","America-Australia","Pedestrian","Passeriformes","Pycnonotidae ","Pycnonotus jocosus ","red-whiskered bulbul ",18.4,1.26481782300954
+"337","America-Australia","Pedestrian","Passeriformes","Regulidae ","Regulus calendula ","ruby-crowned kinglet ",4.7,0.672097857935718
+"338","America-Australia","Pedestrian","Passeriformes","Rhipiduridae ","Rhipidura leucophrys","Willie wagtail",23.5,1.37106786227174
+"339","America-Australia","Pedestrian","Passeriformes","Rhipiduridae ","Rhipidura leucophrys","Willie wagtail",8.7,0.939519252618618
+"340","America-Australia","Pedestrian","Passeriformes","Sturnidae ","Acridotheres tristis","common myna",11.6,1.06445798922692
+"341","America-Australia","Pedestrian","Passeriformes","Sturnidae ","Sturnus unicolor ","spotless starling ",13.2,1.12057393120585
+"342","America-Australia","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus stentoreus","clamorous reed-warbler ",11.5,1.06069784035361
+"343","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus merula","common blackbird",35.5,1.55022835305509
+"344","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus merula","common blackbird",11.6,1.06445798922692
+"345","America-Australia","Non-motorized watercraft","Pelicaniformes","Anhingidae","Anhinga novaehollandiae","Australian darter ",66.8,1.82477646247555
+"346","America-Australia","Pedestrian","Pelicaniformes","Anhingidae","Anhinga novaehollandiae","Australian darter ",38,1.57978359661681
+"347","America-Australia","Pedestrian","Pelicaniformes","Anhingidae","Anhinga novaehollandiae","Australasian darter",77.4,1.88874096068289
+"348","America-Australia","Bicycle","Pelicaniformes","Anhingidae","Anhinga novaehollandiae ","Australasian darter ",47.5,1.67669360962487
+"349","America-Australia","Pedestrian","Pelicaniformes","Anhingidae","Anhinga novaehollandiae ","Australasian darter ",77.4,1.88874096068289
+"350","America-Australia","Pedestrian","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus","Australian pelican",32.6,1.51321760006794
+"351","America-Australia","Motorized vehicle","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus","Australian pelican",114.6,2.05918461763137
+"352","America-Australia","Pedestrian","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus","Australian pelican",123.9,2.09307130637606
+"353","America-Australia","Bicycle","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus ","Australian pelican ",56,1.7481880270062
+"354","America-Australia","Motorized vehicle","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus ","Australian pelican ",95.4,1.9795483747041
+"355","America-Australia","Motorized vehicle","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus ","Australian pelican ",99.6,1.9982593384237
+"356","America-Australia","Pedestrian","Pelicaniformes","Pelecanidae","Pelecanus conspicillatus ","Australian pelican ",82.2,1.91487181754005
+"357","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant",33.9,1.53019969820308
+"358","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant",46.1,1.66370092538965
+"359","America-Australia","Bicycle","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant ",47.3,1.67486114073781
+"360","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant ",57.6,1.76042248342321
+"361","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant ",30.8,1.48855071650044
+"362","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant ",50.6,1.7041505168398
+"363","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Microcarbo melanoleucos","little pied cormorant ",61,1.78532983501077
+"364","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax carbo","great cormorant",23.5,1.37106786227174
+"365","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax carbo","great cormorant",74,1.86923171973098
+"366","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax carbo ","great cormorant ",17.7,1.24797326636181
+"367","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax carbo ","great cormorant ",77.9,1.89153745767256
+"368","America-Australia","Non-motorized watercraft","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris","little black cormorant",23,1.36172783601759
+"369","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris","little black cormorant",38.8,1.58883172559421
+"370","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris","little black cormorant",57.3,1.75815462196739
+"371","America-Australia","Bicycle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris ","little black cormorant ",48.2,1.68304703823885
+"372","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris ","little black cormorant ",36.6,1.56348108539441
+"373","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris ","little black cormorant ",57.3,1.75815462196739
+"374","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax sulcirostris ","little black cormorant ",76.2,1.8819549713396
+"375","America-Australia","Non-motorized watercraft","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius","pied cormorant",33,1.51851393987789
+"376","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius","pied cormorant",50,1.69897000433602
+"377","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius","pied cormorant",77.9,1.89153745767256
+"378","America-Australia","Bicycle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius ","pied cormorant ",128.8,2.10991586302379
+"379","America-Australia","Motorized vehicle","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius ","pied cormorant ",62.4,1.79518458968242
+"380","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae","Phalacrocorax varius ","pied cormorant ",72.7,1.86153441085904
+"381","America-Australia","Motorized vehicle","Podicipediformes","Podicipedidae","Podiceps cristatus ","great crested grebe",70,1.84509804001426
+"382","America-Australia","Motorized vehicle","Podicipediformes","Podicipedidae","Poliocephalus poliocephalus","hoary-headed grebe",29.9,1.47567118832443
+"383","America-Australia","Bicycle","Podicipediformes","Podicipedidae","Poliocephalus poliocephalus ","hoary-headed grebe",16.6,1.22010808804006
+"384","America-Australia","Non-motorized watercraft","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae","Australasian grebe ",26,1.41497334797082
+"385","America-Australia","Pedestrian","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae","Australasian grebe ",37.6,1.57518784492766
+"386","America-Australia","Motorized vehicle","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae","Australasian grebe",17.7,1.24797326636181
+"387","America-Australia","Pedestrian","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae","Australasian grebe",53.5,1.72835378202123
+"388","America-Australia","Motorized vehicle","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae ","Australasian grebe",17.7,1.24797326636181
+"389","America-Australia","Pedestrian","Podicipediformes","Podicipedidae","Tachybaptus novaehollandiae ","Australasian grebe",55.3,1.7427251313047
+"390","America-Australia","Pedestrian","Podicipediformes","Podicipedidae ","Tachybaptus novaehollandiae ","Australasian grebe ",23.4,1.36921585741014
+"391","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua galerita ","sulphur-crested cockatoo",15.3,1.1846914308176
+"392","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua roseicapilla ","galah ",8.9,0.949390006644913
+"393","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Cacatua galerita ","sulphur-crested cockatoo ",9.8,0.991226075692495
+"394","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Cacatua galerita ","sulphur-crested cockatoo ",19.1,1.28103336724773
+"395","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus elegans ","crimson rosella",8.5,0.929418925714293
+"396","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus elegans ","crimson rosella",9.6,0.982271233039568
+"397","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus elegans ","crimson rosella ",9.1,0.959041392321094
+"398","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus eximius ","eastern rosella ",13.9,1.1430148002541
+"399","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Trichoglossus haematodus ","rainbow lorikeet",10,1
+"400","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas castanea ","chestnut teal ",46,1.66275783168157
+"401","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas castanea ","chestnut teal ",46.5,1.66745295288995
+"402","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas gracilis ","grey teal ",41.6,1.61909333062674
+"403","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas platyrhynchos","mallard",12.8,1.10720996964787
+"404","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas rhynchotis","Australasian shoveler",19.2,1.28330122870355
+"405","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck ",38.9,1.58994960132571
+"406","America-Australia","Pedestrian","Anseriformes","Anatidae","Anas superciliosa ","Pacific black duck ",38.9,1.58994960132571
+"407","America-Australia","Pedestrian","Anseriformes","Anatidae","Aythya australis","hardhead",37.1,1.56937390961505
+"408","America-Australia","Pedestrian","Anseriformes","Anatidae","Biziura lobata","musk duck",18.9,1.27646180417324
+"409","America-Australia","Pedestrian","Anseriformes","Anatidae","Chenonetta jubata ","Australian wood duck",25.5,1.40654018043396
+"410","America-Australia","Pedestrian","Caprimulgiformes","Caprimulgidae","Eurostopodus argus","spotted nightjar",10.8,1.03342375548695
+"411","America-Australia","Pedestrian","Caprimulgiformes","Podargidae","Podargus strigoides","tawny frogmouth",6.2,0.792391689498254
+"412","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Charadrius bicinctus","double-banded plover",13.9,1.1430148002541
+"413","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Charadrius mongolus","lesser sand plover",16.7,1.22271647114758
+"414","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Elseyornis melanops","black-fronted dotterel ",23.1,1.36361197989214
+"415","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Elseyornis melanops","black-fronted dotterel ",22.7,1.35602585719312
+"416","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Erythrogonys cinctus","red-kneed dotterel",15.4,1.18752072083646
+"417","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Thinornis rubricollis","hooded plover",26.3,1.41995574848976
+"418","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Thinornis rubricollis","hooded plover ",41.12,1.61405310598722
+"419","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Vanellus miles","masked lapwing ",52.96,1.72394797643164
+"420","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Vanellus miles ","masked lapwing ",46.8,1.67024585307412
+"421","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haematopus fuliginosus ","sooty oystercatcher",30.5,1.48429983934679
+"422","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haematopus fuliginosus ","sooty oystercatcher",30.5,1.48429983934679
+"423","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haematopus longirostris ","pied oystercatcher ",37.9,1.57863920996807
+"424","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haematopus longirostris ","pied oystercatcher ",38.5,1.5854607295085
+"425","America-Australia","Pedestrian","Charadriiformes","Haematopodidae ","Haemtopus longirostris","pied oystercatcher ",37.05,1.56878821231535
+"426","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus dominicanus ","kelp gull ",24.4,1.38738982633873
+"427","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus novaehollandiae","silver gull",17.19,1.23527587668705
+"428","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus novaehollandiae ","silver gull ",16.8,1.22530928172586
+"429","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus novaehollandiae ","silver gull ",16.8,1.22530928172586
+"430","America-Australia","Pedestrian","Charadriiformes","Laridae","Sterna bergii","greater crested tern ",17.71,1.24821856119007
+"431","America-Australia","Pedestrian","Charadriiformes","Laridae ","Chlidonias hybrida","whiskered tern",21.4,1.33041377334919
+"432","America-Australia","Pedestrian","Charadriiformes","Laridae ","Sterna bergii ","greater crested tern ",17.3,1.2380461031288
+"433","America-Australia","Pedestrian","Charadriiformes","Laridae ","Sterna bergii ","greater crested tern ",17.3,1.2380461031288
+"434","America-Australia","Pedestrian","Charadriiformes","Laridae ","Sterna hirundo","common tern",20.5,1.31175386105575
+"435","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus himantopus ","black-winged stilt ",38.8,1.58883172559421
+"436","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Arenaria interpres ","ruddy turnstone",14.4,1.15836249209525
+"437","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Arenaria interpres ","ruddy turnstone",13.8,1.13987908640124
+"438","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris canutus","red knot",21.3,1.32837960343874
+"439","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ferruginea","curlew sandpiper",24.9,1.39619934709574
+"440","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ruficollis ","red-necked stint",16.4,1.2148438480477
+"441","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris ruficollis ","red-necked stint",16.4,1.2148438480477
+"442","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Gallinago hardwickii","Latham's snipe",13.7,1.13672056715641
+"443","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica","bar-tailed godwit",22.1,1.34439227368511
+"444","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica","bar-tailed godwit ",22.1,1.34439227368511
+"445","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica ","bar-tailed godwit ",22.1,1.34439227368511
+"446","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa limosa","black-tailed godwit",21,1.32221929473392
+"447","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Numenius madagascariensis ","eastern curlew",65.5,1.81624129999178
+"448","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Numenius madagascariensis ","eastern curlew",65.5,1.81624129999178
+"449","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa brevipes ","grey-tailed tattler ",17.3,1.2380461031288
+"450","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa brevipes ","grey-tailed tattler ",17.3,1.2380461031288
+"451","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",47.6,1.67760695272049
+"452","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Tringa brevipes","grey-tailed tattler ",23,1.36172783601759
+"453","America-Australia","Pedestrian","Charadriiformes","Scolopacidae ","Tringa hypoleucos","common sandpiper",43,1.63346845557959
+"454","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea novaehollandiae","white-faced heron ",33.23,1.52153034127871
+"455","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea pacifica","white-necked heron",45.3,1.65609820201283
+"456","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Botaurus poiciloptilus","Australasian bittern",10,1
+"457","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Bubulcus ibis","cattle egret",63.1,1.80002935924413
+"458","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Butorides striata","striated heron",31.7,1.50105926221775
+"459","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta novaehollandiae","white-faced heron ",30.8,1.48855071650044
+"460","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta novaehollandiae ","white-faced heron ",31.2,1.49415459401844
+"461","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta sacra","eastern reef egret",31.1,1.49276038902684
+"462","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ixobrychus dubius","Australian little bittern",12.9,1.11058971029925
+"463","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Mesophoyx intermedia","intermediate egret",42.7,1.63042787502502
+"464","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Nycticorax caledonicus","Nankeen night-heron",16.6,1.22010808804006
+"465","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Platalea flavipes","yellow-billed spoonbill",51,1.70757017609794
+"466","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis",83.1,1.91960102378411
+"467","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskiornis molucca","Australian white ibis",32.8,1.51587384371168
+"468","America-Australia","Pedestrian","Ciconiiformes","Threskiornithidae","Threskornis molucca","Australian white ibis",35.03,1.54444013731769
+"469","America-Australia","Pedestrian","Columbiformes","Columbidae ","Chalcophaps indica","emerald dove",14.2,1.15228834438306
+"470","America-Australia","Pedestrian","Columbiformes","Columbidae ","Columba leucomela","white-headed pigeon",26,1.41497334797082
+"471","America-Australia","Pedestrian","Columbiformes","Columbidae ","Ducula bicolor","pied imperial-pigeon",21.5,1.33243845991561
+"472","America-Australia","Pedestrian","Columbiformes","Columbidae ","Geopelia striata","zebra dove",12.1,1.08278537031645
+"473","America-Australia","Pedestrian","Columbiformes","Columbidae ","Lopholaimus antarcticus","topknot pigeon",15,1.17609125905568
+"474","America-Australia","Pedestrian","Columbiformes","Columbidae ","Ocyphaps lophotes ","crested pigeon ",12.6,1.10037054511756
+"475","America-Australia","Pedestrian","Columbiformes","Columbidae ","Ocyphaps lophotes ","crested pigeon ",12.7,1.10380372095596
+"476","America-Australia","Pedestrian","Columbiformes","Columbidae ","Phaps chalcopetra","common bronzewing",21.6,1.33445375115093
+"477","America-Australia","Pedestrian","Columbiformes","Columbidae ","Streptopelia chinensis ","spotted dove ",12.7,1.10380372095596
+"478","America-Australia","Pedestrian","Columbiformes","Columbidae ","Streptopelia chinensis ","spotted dove ",12.9,1.11058971029925
+"479","America-Australia","Pedestrian","Coraciiformes","Alcedinidae","Ceyx azureus","azure kingfisher",11.7,1.06818586174616
+"480","America-Australia","Pedestrian","Coraciiformes","Coraciidae ","Eurystomus orientalis ","dollarbird ",21.9,1.34044411484012
+"481","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Dacelo leachii","blue-winged kookaburra",23,1.36172783601759
+"482","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Dacelo novaeguineae ","laughing kookaburra",13.2,1.12057393120585
+"483","America-Australia","Pedestrian","Coraciiformes","Halcyonidae ","Todiramphus macleayii","forest kingfisher",11,1.04139268515823
+"484","America-Australia","Pedestrian","Coraciiformes","Meropidae","Merops ornatus","rainbow bee-eater",23,1.36172783601759
+"485","America-Australia","Pedestrian","Cuculiformes","Cuculidae ","Cacomantis pallidus","pallid cuckoo",8.5,0.929418925714293
+"486","America-Australia","Pedestrian","Cuculiformes","Cuculidae ","Centropus phasianinus","pheasant coucal",30.5,1.48429983934679
+"487","America-Australia","Pedestrian","Cuculiformes","Cuculidae ","Chalcites basalis","Horsfield's bronze-cuckoo",3.5,0.544068044350276
+"488","America-Australia","Pedestrian","Cuculiformes","Cuculidae ","Eudynamys scolopaceus","Asian koel",4.6,0.662757831681574
+"489","America-Australia","Pedestrian","Falconiformes","Accipitridae","Accipiter novaehollandiae","grey goshawk",24.6,1.39093510710338
+"490","America-Australia","Pedestrian","Falconiformes","Accipitridae","Aviceda subcristata","Pacific baza",18,1.25527250510331
+"491","America-Australia","Pedestrian","Falconiformes","Accipitridae","Haliastur sphenurus","whistling kite",28.2,1.45024910831936
+"492","America-Australia","Pedestrian","Falconiformes","Accipitridae","Milvus migrans","black kite",57,1.75587485567249
+"493","America-Australia","Pedestrian","Falconiformes","Accipitridae ","Circus assimilis","spotted harrier",22,1.34242268082221
+"494","America-Australia","Pedestrian","Falconiformes","Falconidae","Falco berigora","brown falcon",34.1,1.5327543789925
+"495","America-Australia","Pedestrian","Falconiformes","Falconidae","Falco cenchroides","Nankeen kestrel",43.4,1.63748972951251
+"496","America-Australia","Pedestrian","Galliformes","Megapodiidae","Megapodius reinwardt","orange-footed scrubfowl",25.9,1.41329976408125
+"497","America-Australia","Pedestrian","Galliformes","Megapodiidae ","Alectura lathami ","Australian brush turkey",12,1.07918124604762
+"498","America-Australia","Pedestrian","Galliformes","Phasianidae","Coturnix pectoralis","stubble quail",1.9,0.278753600952829
+"499","America-Australia","Pedestrian","Galliformes","Phasianidae","Coturnix ypsilophora","brown quail",5.5,0.740362689494244
+"500","America-Australia","Pedestrian","Gruiformes","Rallidae","Lewinia pectoralis","Lewin's rail",4.3,0.633468455579587
+"501","America-Australia","Pedestrian","Gruiformes","Rallidae ","Gallinula tenebrosa ","dusky moorhen ",14.8,1.17026171539496
+"502","America-Australia","Pedestrian","Gruiformes","Rallidae ","Gallinula tenebrosa ","dusky moorhen ",14.8,1.17026171539496
+"503","America-Australia","Pedestrian","Gruiformes","Rallidae ","Gallirallus philippensis","buff-banded rail",8,0.903089986991944
+"504","America-Australia","Pedestrian","Gruiformes","Rallidae ","Porphyrio porphyrio ","purple swamphen",34.5,1.53781909507327
+"505","America-Australia","Pedestrian","Gruiformes","Rallidae ","Porphyrio porphyrio ","purple swamphen",34.5,1.53781909507327
+"506","America-Australia","Pedestrian","Gruiformes","Rallidae ","Porzana pusilla","Baillon's crake",8.2,0.913813852383717
+"507","America-Australia","Pedestrian","Gruiformes","Turnicidae","Turnix pyrrhothorax","red-chested button-quail",3.6,0.556302500767287
+"508","America-Australia","Pedestrian","Passeriformes","Acanthizidae","Calamanthus fuliginosus","striated fieldwren",8.6,0.934498451243568
+"509","America-Australia","Pedestrian","Passeriformes","Acanthizidae","Origma solitaria","rockwarbler",17.1,1.23299611039215
+"510","America-Australia","Pedestrian","Passeriformes","Acanthizidae","Pycnoptilus floccosus","pilotbird",16.9,1.22788670461367
+"511","America-Australia","Pedestrian","Passeriformes","Artamidae ","Artamus cinereus","black-faced woodswallow",11.8,1.07188200730613
+"512","America-Australia","Pedestrian","Passeriformes","Artamidae ","Artamus leucorynchus","white-breasted woodswallow",15.8,1.19865708695442
+"513","America-Australia","Pedestrian","Passeriformes","Artamidae ","Artamus personatus","masked woodswallow",6.5,0.812913356642856
+"514","America-Australia","Pedestrian","Passeriformes","Artamidae ","Cracticus nigrogularis","pied butcherbird",9.5,0.977723605288848
+"515","America-Australia","Pedestrian","Passeriformes","Artamidae ","Strepera graculina","pied currawong",14.8,1.17026171539496
+"516","America-Australia","Pedestrian","Passeriformes","Campephagidae","Lalage leucomela","varied triller",38.7,1.58771096501891
+"517","America-Australia","Pedestrian","Passeriformes","Campephagidae ","Coracina novaehollandiae","black-faced cuckoo-shrike ",19.8,1.29666519026153
+"518","America-Australia","Pedestrian","Passeriformes","Campephagidae ","Coracina papuensis","white-bellied cuckoo-shrike",7.1,0.851258348719075
+"519","America-Australia","Pedestrian","Passeriformes","Cinclosomatidae","Psophodes olivaceus","eastern whipbird",5.8,0.763427993562937
+"520","America-Australia","Pedestrian","Passeriformes","Climacteridae ","Climacteris affinis","white-browed treecreeper",3.1,0.491361693834273
+"521","America-Australia","Pedestrian","Passeriformes","Corcoracidae","Struthidea cinerea","grey jumper",20.7,1.31597034545692
+"522","America-Australia","Pedestrian","Passeriformes","Corvidae","Corvus coronoides ","Australian raven ",25.6,1.40823996531185
+"523","America-Australia","Pedestrian","Passeriformes","Corvidae ","Corvus orru","Torresian crow",19,1.27875360095283
+"524","America-Australia","Pedestrian","Passeriformes","Dicruridae","Dicrurus bracteatus","spangled drongo",15.4,1.18752072083646
+"525","America-Australia","Pedestrian","Passeriformes","Dicruridae","Rhipidura leucophrys ","willie wagtail ",11.7,1.06818586174616
+"526","America-Australia","Pedestrian","Passeriformes","Dicruridae","Rhipidura leucophrys ","willie wagtail ",10.9,1.03742649794062
+"527","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Grallina cyanoleuca","magpie-lark",18.8,1.27415784926368
+"528","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Gymnorhina tibicen","Australian magpie",10.5,1.02118929906994
+"529","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura fuliginosa ","grey fantail ",6.2,0.792391689498254
+"530","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura leucophrys ","willie wagtail",11.5,1.06069784035361
+"531","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura leucophrys ","willie wagtail",11.8,1.07188200730613
+"532","America-Australia","Pedestrian","Passeriformes","Dicruridae ","Rhipidura rufifrons ","rufous fantail ",6.4,0.806179973983887
+"533","America-Australia","Pedestrian","Passeriformes","Estrildidae","Lonchura punctulata ","nutmeg mannikin ",11.1,1.04532297878666
+"534","America-Australia","Pedestrian","Passeriformes","Estrildidae","Lonchura punctulata ","nutmeg mannikin ",11,1.04139268515823
+"535","America-Australia","Pedestrian","Passeriformes","Estrildidae","Neochmia temporalis ","red-browed finch",7.1,0.851258348719075
+"536","America-Australia","Pedestrian","Passeriformes","Estrildidae","Taeniopygia bichenovii","double-barred finch",6.2,0.792391689498254
+"537","America-Australia","Pedestrian","Passeriformes","Estrildidae","Taeniopygia guttata","zebra finch",14.7,1.16731733474818
+"538","America-Australia","Pedestrian","Passeriformes","Hirundinidae","Hirundo neoxena","welcome swallow",10.9,1.03742649794062
+"539","America-Australia","Pedestrian","Passeriformes","Hirundinidae","Petrochelidon ariel","fairy martin",8.9,0.949390006644913
+"540","America-Australia","Pedestrian","Passeriformes","Locustellidae","Megalurus gramineus","little grassbird",6.5,0.812913356642856
+"541","America-Australia","Pedestrian","Passeriformes","Locustellidae","Megalurus timoriensis","tawny grassbird",6,0.778151250383644
+"542","America-Australia","Pedestrian","Passeriformes","Maluridae ","Malurus cyaneus","superb fairy-wren ",6.4,0.806179973983887
+"543","America-Australia","Pedestrian","Passeriformes","Maluridae ","Malurus lamberti ","variegated fairy-wren ",4.3,0.633468455579587
+"544","America-Australia","Pedestrian","Passeriformes","Meliphagidae","Acanthagenys rufogularis","spiny-cheeked honeyeater",9.2,0.963787827345555
+"545","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Acanthorhynchus tenuirostris ","eastern spinebill",4.8,0.681241237375587
+"546","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Anthochaera chrysoptera","little wattlebird",6.2,0.792391689498254
+"547","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Entomyzon cyanotis","blue-faced honeyeater",30.8,1.48855071650044
+"548","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus chrysops ","yellow-faced honeyeater ",4.7,0.672097857935718
+"549","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus flavus","yellow honeyeater",6.4,0.806179973983887
+"550","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus fuscus","fuscous honeyeater",14.6,1.16435285578444
+"551","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus leucotis","white-eared honeyeater",8.8,0.944482672150169
+"552","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Lichenostomus virescens","singing honeyeater",12,1.07918124604762
+"553","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanocephala ","noisy miner",4.6,0.662757831681574
+"554","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Manorina melanophrys ","bell miner ",4,0.602059991327962
+"555","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Meliphaga lewinii ","Lewin’s honeyeater",7.6,0.880813592280791
+"556","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Myzomela obscura","dusky honeyeater",2,0.301029995663981
+"557","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon buceroides","helmeted friarbird",12,1.07918124604762
+"558","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon citreogularis","little friarbird",6.8,0.832508912706236
+"559","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Philemon corniculatus","noisy friarbird",10,1
+"560","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Phylidonyris niger","white-cheeked honeyeater",2.3,0.361727836017593
+"561","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Phylidonyris novaehollandidae ","New Holland honeyeater ",7.1,0.851258348719075
+"562","America-Australia","Pedestrian","Passeriformes","Meliphagidae ","Plectorhyncha lanceolata","striped honeyeater",4.6,0.662757831681574
+"563","America-Australia","Pedestrian","Passeriformes","Monarchidae","Monarcha melanopsis","black-faced monarch",11,1.04139268515823
+"564","America-Australia","Pedestrian","Passeriformes","Monarchidae","Myiagra cyanoleuca","satin flycatcher",9.7,0.986771734266245
+"565","America-Australia","Pedestrian","Passeriformes","Monarchidae","Myiagra rubecula","leaden flycatcher",10,1
+"566","America-Australia","Pedestrian","Passeriformes","Monarchidae","Symposiarchus trivirgatus","spectacled monarch",5.7,0.755874855672491
+"567","America-Australia","Pedestrian","Passeriformes","Motacillidae ","Anthus novaeseelandiae ","richard’s pipit ",12.3,1.0899051114394
+"568","America-Australia","Pedestrian","Passeriformes","Muscicapidae ","Zoothera heinei","russet-tailed thrush",11,1.04139268515823
+"569","America-Australia","Pedestrian","Passeriformes","Muscicapidae ","Zoothera lunulata ","Bassian thrush",8.9,0.949390006644913
+"570","America-Australia","Pedestrian","Passeriformes","Nectariniidae","Nectarinia jugularis","olive-backed sunbird",10.9,1.03742649794062
+"571","America-Australia","Pedestrian","Passeriformes","Oriolidae","Sphecotheres vieilloti","Australasian figbird",7.8,0.89209460269048
+"572","America-Australia","Pedestrian","Passeriformes","Oriolidae ","Oriolus sagittatus ","olive-backed oriole ",10.2,1.00860017176192
+"573","America-Australia","Pedestrian","Passeriformes","Oriolidae ","Oriolus sagittatus ","olive-backed oriole ",11.3,1.05307844348342
+"574","America-Australia","Pedestrian","Passeriformes","Orthonychidae","Orthonyx spaldingii","chowchilla",4,0.602059991327962
+"575","America-Australia","Pedestrian","Passeriformes","Orthonychidae","Orthonyx temminckii","Australian logrunner",4.5,0.653212513775344
+"576","America-Australia","Pedestrian","Passeriformes","Pachycephalidae","Falcunculus frontatus","crested shrike-tit",8.5,0.929418925714293
+"577","America-Australia","Pedestrian","Passeriformes","Pachycephalidae ","Pachycephala olivacea","olive whistler",3.8,0.57978359661681
+"578","America-Australia","Pedestrian","Passeriformes","Pachycephalidae ","Pachycephala rufiventris","rufous whistler",5.2,0.716003343634799
+"579","America-Australia","Pedestrian","Passeriformes","Paradisaeidae","Ptiloris victoriae","Victoria's riflebird",6.5,0.812913356642856
+"580","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Acanthiza pusilla","brown thornbill",4.3,0.633468455579587
+"581","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Gerygone albogularis","white-throated gerygone",5.1,0.707570176097936
+"582","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Gerygone fusca","western gerygone",5.4,0.732393759822969
+"583","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Gerygone mouki","brown gerygone",3.6,0.556302500767287
+"584","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Hylacola pyrrhopygia","chestnut-rumped heathwren",11.4,1.05690485133647
+"585","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Pardalotus punctatus","spotted pardalote",4,0.602059991327962
+"586","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Sericornis citreogularis","yellow-throated scrubwren",5.6,0.7481880270062
+"587","America-Australia","Pedestrian","Passeriformes","Pardalotidae","Sericornis frontalis","white-browed scrubwren",4.1,0.612783856719735
+"588","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Acanthiza chrysorrhoa","yellow-rumped thornbill",6.6,0.819543935541869
+"589","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Acanthiza lineata","striated thornbill",4.2,0.6232492903979
+"590","America-Australia","Pedestrian","Passeriformes","Pardalotidae ","Sericornis keri","Atherton scrubwren",4.9,0.690196080028514
+"591","America-Australia","Pedestrian","Passeriformes","Petroicidae","Eopsaltria australis","eastern yellow robin",9.4,0.973127853599699
+"592","America-Australia","Pedestrian","Passeriformes","Petroicidae","Heteromyias albispecularis","grey-headed robin",9.2,0.963787827345555
+"593","America-Australia","Pedestrian","Passeriformes","Petroicidae","Petroica boodang","scarlet robin",8,0.903089986991944
+"594","America-Australia","Pedestrian","Passeriformes","Petroicidae","Petroica rosea","rose robin",13.1,1.11727129565576
+"595","America-Australia","Pedestrian","Passeriformes","Petroicidae","Tregellasia capito","pale-yellow robin",8.5,0.929418925714293
+"596","America-Australia","Pedestrian","Passeriformes","Pomatostomidae","Pomatostomus ruficeps","chestnut-crowned babbler",11.8,1.07188200730613
+"597","America-Australia","Pedestrian","Passeriformes","Pomatostomidae","Pomatostomus superciliosus","white-browed babbler",16.9,1.22788670461367
+"598","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae","Ptilonorhynchus violaceus","satin bowerbird",9.1,0.959041392321094
+"599","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae","Scenopoeetes dentirostris","tooth-billed bowerbird",5.2,0.716003343634799
+"600","America-Australia","Pedestrian","Passeriformes","Ptilonorhynchidae ","Ailuroedus melanotis","spotted catbird",18.7,1.2718416065365
+"601","America-Australia","Pedestrian","Passeriformes","Sturnidae ","Acridotheres tristis","common myna",11.6,1.06445798922692
+"602","America-Australia","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",14,1.14612803567824
+"603","America-Australia","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",13.6,1.13353890837022
+"604","America-Australia","Pedestrian","Passeriformes","Sylviidae ","Cisticola exilis ","golden-headed cisticola",5.2,0.716003343634799
+"605","America-Australia","Pedestrian","Passeriformes","Sylviidae ","Cisticola exilis ","golden-headed cisticola",5.4,0.732393759822969
+"606","America-Australia","Pedestrian","Passeriformes","Zosteropidae ","Zosterops lateralis ","silvereye ",5.5,0.740362689494244
+"607","America-Australia","Pedestrian","Passeriformes","Zosteropidae ","Zosterops lateralis ","silvereye ",6.1,0.785329835010767
+"608","America-Australia","Pedestrian","Pelicaniformes","Anhingidae ","Anhinga melanogaster ","darter ",24,1.38021124171161
+"609","America-Australia","Pedestrian","Pelicaniformes","Pelicanidae","Pelecanus conspicillatus","Australian pelican",32.6,1.51321760006794
+"610","America-Australia","Pedestrian","Pelicaniformes","Pelicanidae","Pelecanus conspicllantus","Australian pelican",32.31,1.50933695801764
+"611","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Microcarbo melanoleucos","little pied cormorant",19.7,1.29446622616159
+"612","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Microcarbo melanoleucos","little pied cormorant",19.8,1.29666519026153
+"613","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax carbo ","great cormorant ",32.3,1.5092025223311
+"614","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax carbo ","great cormorant ",32.3,1.5092025223311
+"615","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax sulcirostris ","little black cormorant ",22.9,1.35983548233989
+"616","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax sulcirostris ","little black cormorant ",24,1.38021124171161
+"617","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax varius ","pied cormorant ",31.2,1.49415459401844
+"618","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax varius ","pied cormorant ",31.3,1.49554433754645
+"619","America-Australia","Pedestrian","Podicipediformes","Podicipedidae","Poliocephalus poliocephalus","hoary-headed grebe",23.8,1.37657695705651
+"620","America-Australia","Pedestrian","Psittaciformes","Cacatuidae","Callocephalon fimbriatum","gang-gang cockatoo",7.5,0.8750612633917
+"621","America-Australia","Pedestrian","Psittaciformes","Cacatuidae","Calyptorhynchus banksii","red-tailed black-cockatoo",10.9,1.03742649794062
+"622","America-Australia","Pedestrian","Psittaciformes","Cacatuidae","Calyptorhynchus funereus","yellow-tailed black-cockatoo",11.7,1.06818586174616
+"623","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua galerita ","sulphur-crested cockatoo",13.6,1.13353890837022
+"624","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua roseicapilla ","galah ",9.9,0.99563519459755
+"625","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua sanguinea","little corella",20,1.30102999566398
+"626","America-Australia","Pedestrian","Psittaciformes","Cacatuidae ","Cacatua tenuirostris","long-billed corella",3.8,0.57978359661681
+"627","America-Australia","Pedestrian","Psittaciformes","Psittacidae","Psephotus haematonotus","red-rumped parrot",11.2,1.04921802267018
+"628","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Alisterus scapularis","Australian king parrot",8.7,0.939519252618618
+"629","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Aprosmictus erythropterus","red-winged parrot",32.3,1.5092025223311
+"630","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Barnardius zonarius","Australian ringneck",14.1,1.14921911265538
+"631","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus adscitus","pale-headed rosella",21,1.32221929473392
+"632","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus elegans ","crimson rosella ",9.2,0.963787827345555
+"633","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Platycercus eximius ","eastern rosella ",10.4,1.01703333929878
+"634","America-Australia","Pedestrian","Psittaciformes","Psittacidae ","Trichoglossus chlorolepidotus","scaly-breasted lorikeet",1,0
+"635","America-Australia","Pedestrian","Struthioniformes","Casuariidae","Dromaius novaehollandiae","emu",58.7,1.76863810124761
+"636","Europe","Pedestrian","Passeriformes","Paridae ","Parus major ","great tit ",6.3,0.799340549453582
+"637","Europe","Pedestrian","Anseriformes","Anatidae","Anas crecca","Eurasian teal",39.23,1.59361830812954
+"638","Europe","Pedestrian","Anseriformes","Anatidae","Anas crecca ","Eurasian teal",58,1.76342799356294
+"639","Europe","Pedestrian","Anseriformes","Anatidae","Anas platyrhynchos","mallard",13.42,1.12775251583297
+"640","Europe","Pedestrian","Anseriformes","Anatidae","Anas platyrhynchos ","mallard",14.6,1.16435285578444
+"641","Europe","Pedestrian","Anseriformes","Anatidae","Aythya fuligula","tufted duck",10.68,1.02857125269254
+"642","Europe","Pedestrian","Anseriformes","Anatidae","Aythya fuligula ","tufted duck",10.68,1.02857125269254
+"643","Europe","Pedestrian","Anseriformes","Anatidae","Branta bernicla","brant goose",23.5,1.37106786227174
+"644","Europe","Pedestrian","Anseriformes","Anatidae","Branta bernicla","brant goose",23.5,1.37106786227174
+"645","Europe","Pedestrian","Anseriformes","Anatidae","Branta bernicla","brant goose",105,2.02118929906994
+"646","Europe","Pedestrian","Anseriformes","Anatidae","Cygnus columbianus","tundra swan",200,2.30102999566398
+"647","Europe","Pedestrian","Anseriformes","Anatidae","Cygnus cygnus","whooper swan",155,2.19033169817029
+"648","Europe","Pedestrian","Anseriformes","Anatidae","Tadorna tadorna","shelduck",48.57,1.68636810347304
+"649","Europe","Pedestrian","Anseriformes","Anatidae","Tadorna tadorna","shelduck",36.3,1.55990662503611
+"650","Europe","Pedestrian","Anseriformes","Anatidae","Tadorna tadorna","shelduck",148,2.17026171539496
+"651","Europe","Pedestrian","Anseriformes","Anatidae","Tadorna tadorna","shelduck",250,2.39794000867204
+"652","Europe","Pedestrian","Apodiformes","Apodidae","Apus apus","common swift",38.1,1.58092497567562
+"653","Europe","Pedestrian","Apodiformes","Apodidae","Apus apus","common swift",38.1,1.58092497567562
+"654","Europe","Pedestrian","Apodiformes","Apodidae","Apus apus ","common swift",38,1.57978359661681
+"655","Europe","Pedestrian","Charadriiformes","Charadriidae","Charadrius dubius","little ringed plover",9,0.954242509439325
+"656","Europe","Pedestrian","Charadriiformes","Charadriidae","Charadrius hiaticula","ringed plover",22.5,1.35218251811136
+"657","Europe","Pedestrian","Charadriiformes","Charadriidae","Charadrius hiaticula","ringed plover",121,2.08278537031645
+"658","Europe","Pedestrian","Charadriiformes","Charadriidae","Pluvialis squatarola","black-bellied plover",51,1.70757017609794
+"659","Europe","Pedestrian","Charadriiformes","Charadriidae","Pluvialis squatarola","black-bellied plover",124,2.09342168516224
+"660","Europe","Pedestrian","Charadriiformes","Charadriidae","Pluvialis squatarola ","black-bellied plover",36,1.55630250076729
+"661","Europe","Pedestrian","Charadriiformes","Charadriidae","Pluvialis squatarola ","black-bellied plover",36,1.55630250076729
+"662","Europe","Pedestrian","Charadriiformes","Charadriidae ","Vanellus vanellus","northern lapwing",41.32,1.61616031284758
+"663","Europe","Pedestrian","Charadriiformes","Charadriidae ","Vanellus vanellus","northern lapwing",39.47,1.59626712639552
+"664","Europe","Aircraft","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",500,2.69897000433602
+"665","Europe","Motorized vehicle","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",106,2.02530586526477
+"666","Europe","Motorized vehicle","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",60,1.77815125038364
+"667","Europe","Pedestrian","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",82,1.91381385238372
+"668","Europe","Pedestrian","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",85,1.92941892571429
+"669","Europe","Pedestrian","Charadriiformes","Haematopodidae","Haematopus ostralegus","Eurasian oystercatcher ",136,2.13353890837022
+"670","Europe","Pedestrian","Charadriiformes","Laridae","Larus canus","common gull",59.94,1.77771673860963
+"671","Europe","Pedestrian","Charadriiformes","Laridae","Larus fuscus","lesser black-backed gull",25,1.39794000867204
+"672","Europe","Pedestrian","Charadriiformes","Laridae","Larus marinus","great black-backed gull",68,1.83250891270624
+"673","Europe","Pedestrian","Charadriiformes","Laridae","Larus ridibundus","black-headed gull",41.2,1.61489721603313
+"674","Europe","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus himantopus ","black-winged stilt ",22,1.34242268082221
+"675","Europe","Pedestrian","Charadriiformes","Scolopacidae","Arenaria interpres","ruddy turnstone",47,1.67209785793572
+"676","Europe","Pedestrian","Charadriiformes","Scolopacidae","Arenaria interpres ","ruddy turnstone",50,1.69897000433602
+"677","Europe","Pedestrian","Charadriiformes","Scolopacidae","Calidris alba","sanderling",18,1.25527250510331
+"678","Europe","Pedestrian","Charadriiformes","Scolopacidae","Calidris alpina","dunlin",71,1.85125834871908
+"679","Europe","Pedestrian","Charadriiformes","Scolopacidae","Calidris alpina","dunlin",163,2.21218760440396
+"680","Europe","Pedestrian","Charadriiformes","Scolopacidae","Gallinago gallinago","common snipe",72,1.85733249643127
+"681","Europe","Pedestrian","Charadriiformes","Scolopacidae","Gallinago gallinago","common snipe",25.83,1.41212440617332
+"682","Europe","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica ","bar-tailed godwit ",107,2.02938377768521
+"683","Europe","Pedestrian","Charadriiformes","Scolopacidae","Limosa lapponica ","bar-tailed godwit ",219,2.34044411484012
+"684","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius arquata","Eurasian curlew ",62.75,1.79761373015308
+"685","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius arquata","Eurasian curlew ",213,2.32837960343874
+"686","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius arquata","Eurasian curlew ",211,2.32428245529769
+"687","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius arquata","Eurasian curlew ",339,2.53019969820308
+"688","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa hypoleucos","common sandpiper",17,1.23044892137827
+"689","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa hypoleucos","common sandpiper",17,1.23044892137827
+"690","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa hypoleucos","common sandpiper",27.1,1.43296929087441
+"691","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa hypoleucos","common sandpiper",75,1.8750612633917
+"692","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa nebularia","common greenshank",30,1.47712125471966
+"693","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa totanus","redshank",29.71,1.47290265180366
+"694","Europe","Pedestrian","Charadriiformes","Scolopacidae","Tringa totanus","redshank",29.71,1.47290265180366
+"695","Europe","Aircraft","Charadriiformes","Scolopacidae ","Numenius arquata","Eurasian curlew ",200,2.30102999566398
+"696","Europe","Dog","Charadriiformes","Scolopacidae ","Numenius arquata","Eurasian curlew ",90,1.95424250943932
+"697","Europe","Motorized vehicle","Charadriiformes","Scolopacidae ","Numenius arquata","Eurasian curlew ",188,2.27415784926368
+"698","Europe","Motorized vehicle","Charadriiformes","Scolopacidae ","Numenius arquata","Eurasian curlew ",129,2.11058971029925
+"699","Europe","Pedestrian","Ciconiiformes","Ardeidae","Ardea cinerea","grey heron",47.36,1.67541169371486
+"700","Europe","Pedestrian","Ciconiiformes","Ardeidae","Ardea cinerea","grey heron",47.36,1.67541169371486
+"701","Europe","Pedestrian","Ciconiiformes","Ardeidae","Bubulcus ibis","cattle egret",24.38,1.38703370128236
+"702","Europe","Pedestrian","Ciconiiformes","Ardeidae","Ixobrychus minutus","little bittern",35,1.54406804435028
+"703","Europe","Pedestrian","Ciconiiformes","Ciconiidae","Ciconia ciconia","white stork",35,1.54406804435028
+"704","Europe","Pedestrian","Columbiformes","Columbidae ","Columba livia ","rock dove",3.5,0.544068044350276
+"705","Europe","Pedestrian","Columbiformes","Columbidae ","Columba palumbus","common woodpigeon",11.5,1.06069784035361
+"706","Europe","Pedestrian","Columbiformes","Columbidae ","Columba palumbus","common woodpigeon",12.08,1.08206693428511
+"707","Europe","Pedestrian","Columbiformes","Columbidae ","Columba palumbus","common woodpigeon",10.99,1.04099769242349
+"708","Europe","Pedestrian","Columbiformes","Columbidae ","Columba palumbus","common woodpigeon",19.69,1.29424571613812
+"709","Europe","Pedestrian","Columbiformes","Columbidae ","Columba palumbus ","common woodpigeon",10.99,1.04099769242349
+"710","Europe","Pedestrian","Columbiformes","Columbidae ","Streptopelia decaocto","Eurasian collared dove",5.38,0.730782275666389
+"711","Europe","Pedestrian","Columbiformes","Columbidae ","Streptopelia decaocto ","Eurasian collared dove",5.36,0.72916478969277
+"712","Europe","Pedestrian","Columbiformes","Columbidae ","Streptopelia decaocto ","Eurasian collared dove",5.31,0.725094521081469
+"713","Europe","Pedestrian","Coraciiformes","Alcedinidae","Alcedo atthis","Eurasian kingfisher",16.27,1.21138755293686
+"714","Europe","Pedestrian","Coraciiformes","Alcedinidae","Alcedo atthis ","Eurasian kingfisher",24,1.38021124171161
+"715","Europe","Pedestrian","Coraciiformes","Meropidae","Merops apiaster","European bee-eater",37.02,1.56843641441689
+"716","Europe","Pedestrian","Coraciiformes","Meropidae","Merops apiaster","European bee-eater",37.02,1.56843641441689
+"717","Europe","Pedestrian","Coraciiformes","Upupidae","Upupa epops","hoopoe",19.96,1.30016053695135
+"718","Europe","Pedestrian","Coraciiformes","Upupidae","Upupa epops ","hoopoe",18.36,1.26387267686522
+"719","Europe","Pedestrian","Cuculiformes","Cuculidae ","Cuculus canorus","European cuckoo",25.89,1.41313205043487
+"720","Europe","Pedestrian","Cuculiformes","Cuculidae ","Cuculus canorus ","European cuckoo",25.57,1.40773072802634
+"721","Europe","Pedestrian","Cuculiformes","Cuculidae ","Cuculus canorus ","European cuckoo",21.03,1.32283927268632
+"722","Europe","Pedestrian","Cuculiformes","Cuculidae ","Cuculus canorus ","European cuckoo",21.03,1.32283927268632
+"723","Europe","Pedestrian","Falconiformes","Accipitridae","Accipiter nisus","Eurasian sparrowhawk",10,1
+"724","Europe","Pedestrian","Falconiformes","Accipitridae","Buteo buteo","common buzzard",54.06,1.73287604136271
+"725","Europe","Pedestrian","Falconiformes","Accipitridae","Buteo buteo","common buzzard",51.07,1.70816585785554
+"726","Europe","Pedestrian","Falconiformes","Accipitridae","Buteo buteo","common buzzard",54.06,1.73287604136271
+"727","Europe","Pedestrian","Falconiformes","Accipitridae","Buteo lagopus","rough-legged hawk",20.1,1.30319605742049
+"728","Europe","Pedestrian","Falconiformes","Accipitridae","Milvus migrans","black kite",37.91,1.57875378442643
+"729","Europe","Pedestrian","Falconiformes","Accipitridae","Milvus migrans","black kite",37.91,1.57875378442643
+"730","Europe","Pedestrian","Falconiformes","Falconidae","Falco tinnunculus","common kestrel",30.94,1.49052030936335
+"731","Europe","Pedestrian","Falconiformes","Falconidae","Falco tinnunculus ","common kestrel",30.08,1.4782778319196
+"732","Europe","Pedestrian","Falconiformes","Falconidae","Falco tinnunculus ","common kestrel",18.02,1.25575478664304
+"733","Europe","Pedestrian","Galliformes","Phasianidae","Alectoris rufa","red-legged partridge",30,1.47712125471966
+"734","Europe","Pedestrian","Galliformes","Phasianidae","Perdix perdix","grey partridge",32.71,1.51468054412498
+"735","Europe","Pedestrian","Galliformes","Phasianidae","Perdix perdix","grey partridge",24.78,1.39410130204004
+"736","Europe","Pedestrian","Galliformes","Phasianidae","Phasianus colchicus","ring-necked pheasant",62.2,1.79379038469082
+"737","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",17,1.23044892137827
+"738","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",36,1.55630250076729
+"739","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",24,1.38021124171161
+"740","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",32,1.50514997831991
+"741","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",57,1.75587485567249
+"742","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao tetrix","black grouse",88,1.94448267215017
+"743","Europe","Pedestrian","Galliformes","Tetraonidae","Tetrao urogallus","capercaillie",27,1.43136376415899
+"744","Europe","Pedestrian","Gruiformes","Rallidae","Gallinula chloropus","common moorhen",10.03,1.00130093302042
+"745","Europe","Pedestrian","Gruiformes","Rallidae","Gallinula chloropus","common moorhen",9.88,0.994756944587628
+"746","Europe","Pedestrian","Gruiformes","Rallidae ","Fulica atra ","Eurasian coot ",18.57,1.26881190373978
+"747","Europe","Pedestrian","Passeriformes","Acrocephalidae","Hippolais icterina","Icterine warbler",7.52,0.876217840591642
+"748","Europe","Pedestrian","Passeriformes","Acrocephalidae","Hippolais icterina ","Icterine warbler",8.05,0.905795880367869
+"749","Europe","Pedestrian","Passeriformes","Acrocephalidae","Hippolais icterina ","Icterine warbler",8.05,0.905795880367869
+"750","Europe","Pedestrian","Passeriformes","Acrocephalidae","Hippolais icterina ","Icterine warbler",8.05,0.905795880367869
+"751","Europe","Pedestrian","Passeriformes","Aegithalidae","Aegithalos caudatus","long-tailed tit",4.64,0.666517980554881
+"752","Europe","Pedestrian","Passeriformes","Aegithalidae","Aegithalos caudatus","long-tailed tit",4.17,0.620136054973757
+"753","Europe","Pedestrian","Passeriformes","Aegithalidae","Aegithalos caudatus","long-tailed tit",5.02,0.700703717145019
+"754","Europe","Pedestrian","Passeriformes","Aegithalidae","Aegithalos caudatus","long-tailed tit",4.17,0.620136054973757
+"755","Europe","Pedestrian","Passeriformes","Alaudidae","Alauda arvensis","skylark",14.9,1.17318626841227
+"756","Europe","Pedestrian","Passeriformes","Alaudidae","Alauda arvensis","skylark",38.02,1.58001211252942
+"757","Europe","Pedestrian","Passeriformes","Alaudidae","Alauda arvensis","skylark",31.92,1.50406288267869
+"758","Europe","Pedestrian","Passeriformes","Alaudidae","Alauda arvensis","skylark",31.37,1.49651451869775
+"759","Europe","Pedestrian","Passeriformes","Alaudidae","Alauda arvensis ","skylark",41.89,1.62211036036122
+"760","Europe","Pedestrian","Passeriformes","Alaudidae","Galerida cristata","crested lark",14.33,1.15624619039734
+"761","Europe","Pedestrian","Passeriformes","Alaudidae","Galerida cristata ","crested lark",12.51,1.09725730969342
+"762","Europe","Pedestrian","Passeriformes","Alaudidae","Galerida cristata ","crested lark",6.72,0.827369273053825
+"763","Europe","Pedestrian","Passeriformes","Alaudidae","Galerida cristata ","crested lark",6.72,0.827369273053825
+"764","Europe","Pedestrian","Passeriformes","Alaudidae","Galerida theklae","Thekla lark",7.65,0.883661435153618
+"765","Europe","Pedestrian","Passeriformes","Alaudidae","Lullula arborea ","woodlark",12.14,1.08421868673924
+"766","Europe","Pedestrian","Passeriformes","Alaudidae","Lullula arborea ","woodlark",5,0.698970004336019
+"767","Europe","Pedestrian","Passeriformes","Alaudidae","Lullula arborea ","woodlark",5,0.698970004336019
+"768","Europe","Pedestrian","Passeriformes","Certhiidae ","Certhia brachydactyla ","short-toed treecreeper ",7.17,0.8555191556678
+"769","Europe","Pedestrian","Passeriformes","Certhiidae ","Certhia brachydactyla ","short-toed treecreeper ",7.61,0.881384656770573
+"770","Europe","Pedestrian","Passeriformes","Certhiidae ","Certhia familiaris","Eurasian treecreeper",4.55,0.658011396657112
+"771","Europe","Pedestrian","Passeriformes","Certhiidae ","Certhia familiaris ","Eurasian treecreeper",4.55,0.658011396657112
+"772","Europe","Pedestrian","Passeriformes","Certhiidae ","Certhia familiaris ","Eurasian treecreeper",4.55,0.658011396657112
+"773","Europe","Pedestrian","Passeriformes","Cettiidae","Cettia cetti","Cetti's warbler",5.55,0.744292983122676
+"774","Europe","Pedestrian","Passeriformes","Cisticolidae","Cisticola juncidis","streaked fantail warbler",5.32,0.725911632295048
+"775","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus corax","common raven",79.63,1.90107671572625
+"776","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus corax ","common raven",78.57,1.89525675314489
+"777","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus corone","carrion crow",27.48,1.43901672838751
+"778","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus corone ","carrion crow",28.47,1.45438746714695
+"779","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus corone ","carrion crow",29.3,1.46686762035411
+"780","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus frugilegus","rook ",59.9,1.77742682238931
+"781","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus frugilegus","rook ",44.39,1.64728514502537
+"782","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus frugilegus ","rook ",34.17,1.53364497879876
+"783","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula","Eurasian jackdaw ",24.6,1.39093510710338
+"784","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula","Eurasian jackdaw ",18.1,1.25767857486918
+"785","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula","Eurasian jackdaw ",16,1.20411998265592
+"786","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula","Eurasian jackdaw ",23.37,1.36865871239223
+"787","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula","Eurasian jackdaw ",26.67,1.42602301568988
+"788","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula ","Eurasian jackdaw ",23.37,1.36865871239223
+"789","Europe","Pedestrian","Passeriformes","Corvidae ","Corvus monedula ","Eurasian jackdaw ",23.37,1.36865871239223
+"790","Europe","Pedestrian","Passeriformes","Corvidae ","Garrulus glandarius","Eurasian jay",11.76,1.07040732174012
+"791","Europe","Pedestrian","Passeriformes","Corvidae ","Garrulus glandarius ","Eurasian jay",10.92,1.03822263836872
+"792","Europe","Pedestrian","Passeriformes","Corvidae ","Garrulus glandarius ","Eurasian jay",10.81,1.03382569395331
+"793","Europe","Pedestrian","Passeriformes","Corvidae ","Garrulus glandarius ","Eurasian jay",10.81,1.03382569395331
+"794","Europe","Pedestrian","Passeriformes","Corvidae ","Pica pica","black-billed magpie",13,1.11394335230684
+"795","Europe","Pedestrian","Passeriformes","Corvidae ","Pica pica","black-billed magpie",14.37,1.15745676813423
+"796","Europe","Pedestrian","Passeriformes","Corvidae ","Pica pica ","black-billed magpie",14.16,1.15106325335375
+"797","Europe","Pedestrian","Passeriformes","Corvidae ","Pica pica ","black-billed magpie",15.61,1.19340290306242
+"798","Europe","Pedestrian","Passeriformes","Corvidae ","Pica pica ","black-billed magpie",15.61,1.19340290306242
+"799","Europe","Pedestrian","Passeriformes","Emberizidae","Emberiza cia","rock bunting",9.43,0.974511692737328
+"800","Europe","Pedestrian","Passeriformes","Emberizidae","Emberiza cirlus","Cirl bunting",7,0.845098040014257
+"801","Europe","Pedestrian","Passeriformes","Emberizidae","Miliaria calandra","corn bunting",9.13,0.960470777534299
+"802","Europe","Pedestrian","Passeriformes","Emberizidae","Miliaria calandra ","corn bunting",10.3,1.01283722470517
+"803","Europe","Pedestrian","Passeriformes","Emberizidae","Miliaria calandra ","corn bunting",12.59,1.10002573010786
+"804","Europe","Pedestrian","Passeriformes","Emberizidae","Miliaria calandra ","corn bunting",12.59,1.10002573010786
+"805","Europe","Pedestrian","Passeriformes","Estrildidae","Amandava amandava","red avadavat",6.55,0.816241299991783
+"806","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis cannabina","linnet",9.25,0.966141732739033
+"807","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis cannabina ","linnet",10.87,1.03622954408629
+"808","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis cannabina ","linnet",13.9,1.1430148002541
+"809","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis cannabina ","linnet",13.9,1.1430148002541
+"810","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis","European goldfinch ",11.5,1.06069784035361
+"811","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis","European goldfinch ",7.2,0.857332496431269
+"812","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis","European goldfinch ",7.63,0.882524537954881
+"813","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis ","European goldfinch ",9.2,0.963787827345555
+"814","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis ","European goldfinch ",7.6,0.880813592280791
+"815","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis ","European goldfinch ",7.66,0.884228769632604
+"816","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis carduelis ","European goldfinch ",7.66,0.884228769632604
+"817","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",6.9,0.838849090737255
+"818","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",19,1.27875360095283
+"819","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",9.7,0.986771734266245
+"820","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",6.87,0.83695673705955
+"821","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",7.1,0.851258348719075
+"822","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris","European greenfinch ",6.59,0.81888541459401
+"823","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis chloris ","European greenfinch ",7.1,0.851258348719075
+"824","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis flammea","common redpoll",4.5,0.653212513775344
+"825","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis flammea ","common redpoll",4.62,0.664641975556125
+"826","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis flammea ","common redpoll",2.62,0.418301291319745
+"827","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis flammea ","common redpoll",12.62,1.10105935490812
+"828","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis spinus","Eurasian siskin",4.83,0.683947130751512
+"829","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis spinus ","Eurasian siskin",3.96,0.597695185925512
+"830","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis spinus ","Eurasian siskin",3.96,0.597695185925512
+"831","Europe","Pedestrian","Passeriformes","Fringillidae ","Carduelis spinus ","Eurasian siskin",3.96,0.597695185925512
+"832","Europe","Pedestrian","Passeriformes","Fringillidae ","Coccothraustes coccothraustes ","hawfinch",8.6,0.934498451243568
+"833","Europe","Pedestrian","Passeriformes","Fringillidae ","Coccothraustes coccothraustes ","hawfinch",8.6,0.934498451243568
+"834","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza citrinella","yellowhammer ",12.4,1.09342168516224
+"835","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza citrinella","yellowhammer ",12.04,1.08062648692181
+"836","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza citrinella","yellowhammer ",12.51,1.09725730969342
+"837","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza citrinella","yellowhammer ",9.99,0.999565488225982
+"838","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza citrinella ","yellowhammer ",12.51,1.09725730969342
+"839","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza schoeniclus","reed bunting",9.81,0.991669007379949
+"840","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza schoeniclus","reed bunting",12.79,1.10687054447865
+"841","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza schoeniclus  ","reed bunting",12.74,1.10516942799933
+"842","Europe","Pedestrian","Passeriformes","Fringillidae ","Emberiza schoeniclus  ","reed bunting",12.79,1.10687054447865
+"843","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs","chaffinch ",8.7,0.939519252618618
+"844","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs","chaffinch ",7.1,0.851258348719075
+"845","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs","chaffinch ",7.14,0.853698211776174
+"846","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs ","chaffinch ",7.7,0.886490725172482
+"847","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs ","chaffinch ",8.38,0.923244018630276
+"848","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs ","chaffinch ",8.92,0.950364854376123
+"849","Europe","Pedestrian","Passeriformes","Fringillidae ","Fringilla coelebs ","chaffinch ",8.92,0.950364854376123
+"850","Europe","Pedestrian","Passeriformes","Fringillidae ","Loxia curvirostra","common crossbill",4.74,0.675778341674085
+"851","Europe","Pedestrian","Passeriformes","Fringillidae ","Loxia curvirostra ","common crossbill",4.73,0.674861140737812
+"852","Europe","Pedestrian","Passeriformes","Fringillidae ","Loxia curvirostra ","common crossbill",4.6,0.662757831681574
+"853","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticua","house sparrow ",12.4,1.09342168516224
+"854","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticua","house sparrow ",8.2,0.913813852383717
+"855","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticus","house sparrow ",8.5,0.929418925714293
+"856","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticus","house sparrow ",3.83,0.583198773968623
+"857","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticus ","house sparrow ",3.51,0.545307116465824
+"858","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer domesticus ","house sparrow ",3.83,0.583198773968623
+"859","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer hispaniolensis","Spanish sparrow",11.94,1.07700432679335
+"860","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer hispaniolensis","Spanish sparrow",11.94,1.07700432679335
+"861","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer montanus","Eurasian tree-sparrow ",5.11,0.708420900134713
+"862","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer montanus ","Eurasian tree-sparrow ",8,0.903089986991944
+"863","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer montanus ","Eurasian tree-sparrow ",5.12,0.709269960975831
+"864","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer montanus ","Eurasian tree-sparrow ",4.91,0.691081492122968
+"865","Europe","Pedestrian","Passeriformes","Fringillidae ","Passer montanus ","Eurasian tree-sparrow ",4.91,0.691081492122968
+"866","Europe","Pedestrian","Passeriformes","Fringillidae ","Pyrrhula pyrrhula","Eurasian bullfinch",5.9,0.770852011642144
+"867","Europe","Pedestrian","Passeriformes","Fringillidae ","Pyrrhula pyrrhula","Eurasian bullfinch",5.9,0.770852011642144
+"868","Europe","Pedestrian","Passeriformes","Fringillidae ","Pyrrhula pyrrhula","Eurasian bullfinch",6.01,0.77887447200274
+"869","Europe","Pedestrian","Passeriformes","Fringillidae ","Pyrrhula pyrrhula ","Eurasian bullfinch",5.9,0.770852011642144
+"870","Europe","Pedestrian","Passeriformes","Fringillidae ","Serinus serinus","European serin",5.07,0.705007959333336
+"871","Europe","Pedestrian","Passeriformes","Fringillidae ","Serinus serinus","European serin",5.84,0.766412847112399
+"872","Europe","Pedestrian","Passeriformes","Hirundinidae","Delichon urbica","common house martin",6.34,0.802089257881733
+"873","Europe","Pedestrian","Passeriformes","Hirundinidae","Delichon urbica ","common house martin",6.34,0.802089257881733
+"874","Europe","Pedestrian","Passeriformes","Hirundinidae","Delichon urbica ","common house martin",6.35,0.802773725291976
+"875","Europe","Pedestrian","Passeriformes","Hirundinidae","Riparia riparia","sand martin",23.1,1.36361197989214
+"876","Europe","Pedestrian","Passeriformes","Hirundinidae","Riparia riparia ","sand martin",23.81,1.37675939540488
+"877","Europe","Pedestrian","Passeriformes","Hirundinidae","Riparia riparia ","sand martin",23.81,1.37675939540488
+"878","Europe","Pedestrian","Passeriformes","Hirundinidae ","Hirundo daurica","red-rumped swallow",8.06,0.906335041805091
+"879","Europe","Pedestrian","Passeriformes","Hirundinidae ","Hirundo rustica","barn swallow",10.16,1.0068937079479
+"880","Europe","Pedestrian","Passeriformes","Hirundinidae ","Hirundo rustica ","barn swallow",10.05,1.00216606175651
+"881","Europe","Pedestrian","Passeriformes","Hirundinidae ","Hirundo rustica ","barn swallow",10.2,1.00860017176192
+"882","Europe","Pedestrian","Passeriformes","Hirundinidae ","Hirundo rustica ","barn swallow",10.2,1.00860017176192
+"883","Europe","Pedestrian","Passeriformes","Laniidae","Lanius collurio","red-backed shrike",7.27,0.861534410859038
+"884","Europe","Pedestrian","Passeriformes","Laniidae","Lanius collurio ","red-backed shrike",6.1,0.785329835010767
+"885","Europe","Pedestrian","Passeriformes","Laniidae","Lanius collurio ","red-backed shrike",6.1,0.785329835010767
+"886","Europe","Pedestrian","Passeriformes","Laniidae","Lanius collurio ","red-backed shrike",6.1,0.785329835010767
+"887","Europe","Pedestrian","Passeriformes","Laniidae","Lanius excubitor","great grey shrike",21.16,1.32551566336315
+"888","Europe","Pedestrian","Passeriformes","Laniidae","Lanius excubitor ","great grey shrike",21.16,1.32551566336315
+"889","Europe","Pedestrian","Passeriformes","Laniidae","Lanius senator","woodchat shrike",10.99,1.04099769242349
+"890","Europe","Pedestrian","Passeriformes","Locustellidae","Locustella naevia","common grasshopper warbler",15.03,1.17695898058691
+"891","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba","white wagtail",8.6,0.934498451243568
+"892","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba","white wagtail",8.3,0.919078092376074
+"893","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba","white wagtail",11.53,1.0618293072947
+"894","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba","white wagtail",11.32,1.05384642685225
+"895","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba ","white wagtail ",11.88,1.07481644064517
+"896","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla alba ","white wagtail",11.88,1.07481644064517
+"897","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla cinerea","grey wagtail",6.3,0.799340549453582
+"898","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla cinerea","grey wagtail",7.07,0.849419413796899
+"899","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla cinerea","grey wagtail",6.13,0.787460474518415
+"900","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla flava ","yellow wagtail ",9.7,0.986771734266245
+"901","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla flava ","yellow wagtail ",9.7,0.986771734266245
+"902","Europe","Pedestrian","Passeriformes","Motacillidae","Motacilla flava ","yellow wagtail ",9.7,0.986771734266245
+"903","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus campestris ","tawny pipit",18.22,1.26054837263698
+"904","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus campestris ","tawny pipit",18.22,1.26054837263698
+"905","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus pratensis","meadow pipit",16.98,1.22993768590793
+"906","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus pratensis","meadow pipit",13.97,1.14519640611418
+"907","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus pratensis ","meadow pipit",16.94,1.22891340599469
+"908","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus spinoletta","water pipit",3.28,0.515873843711679
+"909","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus trivialis","tree pipit",13.37,1.12613140726198
+"910","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus trivialis","tree pipit",13.28,1.123198075032
+"911","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus trivialis","tree pipit",10.19,1.00817418400643
+"912","Europe","Pedestrian","Passeriformes","Motacillidae ","Anthus trivialis ","tree pipit",13.28,1.123198075032
+"913","Europe","Pedestrian","Passeriformes","Muscicapidae","Erithecus rubecula","European robin ",7,0.845098040014257
+"914","Europe","Pedestrian","Passeriformes","Muscicapidae","Erithecus rubecula","European robin ",5.1,0.707570176097936
+"915","Europe","Pedestrian","Passeriformes","Muscicapidae","Monticola saxatilis","common rock thrush",16.67,1.22193559982801
+"916","Europe","Pedestrian","Passeriformes","Muscicapidae ","Erithacus rubecula","European robin ",11.1,1.04532297878666
+"917","Europe","Pedestrian","Passeriformes","Muscicapidae ","Erithacus rubecula","European robin ",4.99,0.69810054562339
+"918","Europe","Pedestrian","Passeriformes","Muscicapidae ","Erithacus rubecula","European robin ",5.43,0.734799829588847
+"919","Europe","Pedestrian","Passeriformes","Muscicapidae ","Erithacus rubecula","European robin ",5.13,0.710117365111816
+"920","Europe","Pedestrian","Passeriformes","Muscicapidae ","Erithacus rubecula ","European robin ",5.43,0.734799829588847
+"921","Europe","Pedestrian","Passeriformes","Muscicapidae ","Ficedula hypoleuca ","European pied flycatcher",5.39,0.731588765186739
+"922","Europe","Pedestrian","Passeriformes","Muscicapidae ","Ficedula hypoleuca ","European pied flycatcher",5.39,0.731588765186739
+"923","Europe","Pedestrian","Passeriformes","Muscicapidae ","Ficedula hypoleuca ","European pied flycatcher",5.39,0.731588765186739
+"924","Europe","Pedestrian","Passeriformes","Muscicapidae ","Luscinia luscinia ","thrush nightingale",15.89,1.20112389720738
+"925","Europe","Pedestrian","Passeriformes","Muscicapidae ","Luscinia luscinia ","thrush nightingale",15.89,1.20112389720738
+"926","Europe","Pedestrian","Passeriformes","Muscicapidae ","Luscinia megarhynchos","common nightingale",8.16,0.911690158753861
+"927","Europe","Pedestrian","Passeriformes","Muscicapidae ","Muscicapa striata","spotted flycatcher",8.5,0.929418925714293
+"928","Europe","Pedestrian","Passeriformes","Muscicapidae ","Muscicapa striata","spotted flycatcher",8.5,0.929418925714293
+"929","Europe","Pedestrian","Passeriformes","Muscicapidae ","Muscicapa striata","spotted flycatcher",8.5,0.929418925714293
+"930","Europe","Pedestrian","Passeriformes","Muscicapidae ","Muscicapa striata ","spotted flycatcher",8.5,0.929418925714293
+"931","Europe","Pedestrian","Passeriformes","Muscicapidae ","Oenanthe oenanthe","northern wheatear",16.25,1.21085336531489
+"932","Europe","Pedestrian","Passeriformes","Muscicapidae ","Oenanthe oenanthe","northern wheatear",15.8,1.19865708695442
+"933","Europe","Pedestrian","Passeriformes","Muscicapidae ","Oenanthe oenanthe ","northern wheatear",14.67,1.16643011384328
+"934","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus ochruros","black redstart",6.95,0.841984804590114
+"935","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus ochruros ","black redstart",6.78,0.831229693867063
+"936","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus ochruros ","black redstart",7,0.845098040014257
+"937","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus phoenicurus","common redstart",9.1,0.959041392321094
+"938","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus phoenicurus ","common redstart",9.1,0.959041392321094
+"939","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus phoenicurus ","common redstart",9.03,0.955687750313506
+"940","Europe","Pedestrian","Passeriformes","Muscicapidae ","Phoenicurus phoenicurus ","common redstart",9.03,0.955687750313506
+"941","Europe","Pedestrian","Passeriformes","Muscicapidae ","Saxicola rubetra","whinchat",16.65,1.22141423784234
+"942","Europe","Pedestrian","Passeriformes","Muscicapidae ","Saxicola rubetra ","whinchat",17.26,1.23704079137919
+"943","Europe","Pedestrian","Passeriformes","Muscicapidae ","Saxicola rubetra ","whinchat",17.26,1.23704079137919
+"944","Europe","Pedestrian","Passeriformes","Muscicapidae ","Saxicola rubetra ","whinchat",17.26,1.23704079137919
+"945","Europe","Pedestrian","Passeriformes","Muscicapidae ","Saxicola torquata","African stonechat",9.14,0.960946195733831
+"946","Europe","Pedestrian","Passeriformes","Oriolidae ","Oriolus oriolus","Eurasian golden oriole",39.67,1.59846220047415
+"947","Europe","Pedestrian","Passeriformes","Paridae ","Parus ater","coal tit ",5.09,0.706717782336759
+"948","Europe","Pedestrian","Passeriformes","Paridae ","Parus ater","coal tit ",5.55,0.744292983122676
+"949","Europe","Pedestrian","Passeriformes","Paridae ","Parus ater ","coal tit ",3.4,0.531478917042255
+"950","Europe","Pedestrian","Passeriformes","Paridae ","Parus ater ","coal tit ",5.09,0.706717782336759
+"951","Europe","Pedestrian","Passeriformes","Paridae ","Parus ater ","coal tit ",5.09,0.706717782336759
+"952","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus","European blue tit ",4.8,0.681241237375587
+"953","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus","European blue tit ",5.2,0.716003343634799
+"954","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus","European blue tit ",5.7,0.755874855672491
+"955","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus","European blue tit ",5.54,0.74350976472843
+"956","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus ","European blue tit ",6.9,0.838849090737255
+"957","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus ","European blue tit ",6.12,0.786751422145561
+"958","Europe","Pedestrian","Passeriformes","Paridae ","Parus caeruleus ","European blue tit ",6.12,0.786751422145561
+"959","Europe","Pedestrian","Passeriformes","Paridae ","Parus cristatus","crested tit",6.08,0.783903579272735
+"960","Europe","Pedestrian","Passeriformes","Paridae ","Parus cristatus","crested tit",6.32,0.800717078282385
+"961","Europe","Pedestrian","Passeriformes","Paridae ","Parus cristatus ","crested tit",6.08,0.783903579272735
+"962","Europe","Pedestrian","Passeriformes","Paridae ","Parus major","great tit ",5.9,0.770852011642144
+"963","Europe","Pedestrian","Passeriformes","Paridae ","Parus major","great tit ",5.6,0.7481880270062
+"964","Europe","Pedestrian","Passeriformes","Paridae ","Parus major","great tit ",5.32,0.725911632295048
+"965","Europe","Pedestrian","Passeriformes","Paridae ","Parus major","great tit ",5.22,0.717670503002262
+"966","Europe","Pedestrian","Passeriformes","Paridae ","Parus major ","great tit ",5.59,0.747411807886423
+"967","Europe","Pedestrian","Passeriformes","Paridae ","Parus major ","great tit ",5.59,0.747411807886423
+"968","Europe","Pedestrian","Passeriformes","Paridae ","Parus palustris","marsh tit",6.88,0.837588438235511
+"969","Europe","Pedestrian","Passeriformes","Paridae ","Parus palustris","marsh tit",5.59,0.747411807886423
+"970","Europe","Pedestrian","Passeriformes","Paridae ","Parus palustris ","marsh tit",7.14,0.853698211776174
+"971","Europe","Pedestrian","Passeriformes","Paridae ","Parus palustris ","marsh tit",7.14,0.853698211776174
+"972","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus bonelli","western Bonelli's warbler ",4.95,0.694605198933569
+"973","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus collybita","Eurasian chiffchaff ",6.79,0.831869774280502
+"974","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus collybita","Eurasian chiffchaff ",6.71,0.826722520168992
+"975","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus collybita","Eurasian chiffchaff ",6.49,0.812244696800369
+"976","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus trochilus","willow warbler",6.28,0.797959643737196
+"977","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus trochilus ","willow warbler",8.01,0.903632516084238
+"978","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus trochilus ","willow warbler",8.49,0.928907690243953
+"979","Europe","Pedestrian","Passeriformes","Phylloscopidae","Phylloscopus trochilus ","willow warbler",8.49,0.928907690243953
+"980","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis","dunnock ",9.2,0.963787827345555
+"981","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis","dunnock ",6.1,0.785329835010767
+"982","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis","dunnock ",5.09,0.706717782336759
+"983","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis","dunnock ",5.51,0.741151598851785
+"984","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis","dunnock ",5.08,0.705863712283919
+"985","Europe","Pedestrian","Passeriformes","Prunellidae","Prunella modularis ","dunnock ",5.51,0.741151598851785
+"986","Europe","Pedestrian","Passeriformes","Regulidae ","Regulus ignicapillus","common firecrest",5.25,0.720159303405957
+"987","Europe","Pedestrian","Passeriformes","Regulidae ","Regulus regulus","goldcrest",4.07,0.60959440922522
+"988","Europe","Pedestrian","Passeriformes","Regulidae ","Regulus regulus","goldcrest",4.01,0.603144372620182
+"989","Europe","Pedestrian","Passeriformes","Regulidae ","Regulus regulus","goldcrest",4.49,0.652246341003323
+"990","Europe","Pedestrian","Passeriformes","Regulidae ","Regulus regulus ","goldcrest",4.01,0.603144372620182
+"991","Europe","Pedestrian","Passeriformes","Remizidae","Remiz pendulinus","Eurasian penduline tit",6.17,0.790285164033242
+"992","Europe","Pedestrian","Passeriformes","Sittidae","Sitta europaea","Eurasian nuthatch",6.59,0.81888541459401
+"993","Europe","Pedestrian","Passeriformes","Sittidae","Sitta europaea ","Eurasian nuthatch",7.58,0.879669205632054
+"994","Europe","Pedestrian","Passeriformes","Sittidae","Sitta europaea ","Eurasian nuthatch",7.63,0.882524537954881
+"995","Europe","Pedestrian","Passeriformes","Sittidae","Sitta europaea ","Eurasian nuthatch",7.63,0.882524537954881
+"996","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus unicolor","spotless starling ",13.4,1.12710479836481
+"997","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus unicolor","spotless starling ",14.3,1.15533603746506
+"998","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",17.3,1.2380461031288
+"999","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",11.8,1.07188200730613
+"1000","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",10.77,1.03221570329798
+"1001","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",14.66,1.16613397030511
+"1002","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris","common starling ",9.75,0.989004615698537
+"1003","Europe","Pedestrian","Passeriformes","Sturnidae ","Sturnus vulgaris ","common starling ",14.66,1.16613397030511
+"1004","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia atricapilla","blackcap",5.73,0.75815462196739
+"1005","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia atricapilla","blackcap",5.84,0.766412847112399
+"1006","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia atricapilla ","blackcap",6.03,0.780317312140151
+"1007","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia atricapilla ","blackcap",6.03,0.780317312140151
+"1008","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia borin","garden warbler",6.44,0.808885867359812
+"1009","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia borin","garden warbler",6.6,0.819543935541869
+"1010","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia borin ","garden warbler",6.18,0.790988475088816
+"1011","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia borin ","garden warbler",6.18,0.790988475088816
+"1012","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia cantillans","subalpine warbler",5.69,0.755112266395071
+"1013","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis","whitethroat ",11.7,1.06818586174616
+"1014","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis","whitethroat ",9,0.954242509439325
+"1015","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis","whitethroat ",8.23,0.91539983521227
+"1016","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis","whitethroat ",7.95,0.90036712865647
+"1017","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis","whitethroat ",8.15,0.911157608739977
+"1018","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia communis ","whitethroat ",7.95,0.90036712865647
+"1019","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia conspicillata","spectacled warbler",7.27,0.861534410859038
+"1020","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia curruca","lesser whitethroat",4.7,0.672097857935718
+"1021","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia curruca","lesser whitethroat",5.28,0.722633922533812
+"1022","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia curruca ","lesser whitethroat",4.7,0.672097857935718
+"1023","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia melanocephala","Sardinian warbler",5.9,0.770852011642144
+"1024","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia melanocephala","Sardinian warbler",6.64,0.822168079368018
+"1025","Europe","Pedestrian","Passeriformes","Sylviidae","Sylvia undata","Dartford warbler",10.86,1.03582982525283
+"1026","Europe","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus palustris","marsh warbler",8.84,0.946452265013073
+"1027","Europe","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus palustris ","marsh warbler",8.84,0.946452265013073
+"1028","Europe","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus schoenobaenus ","sedge warbler",7.56,0.878521795501206
+"1029","Europe","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus scirpaceus","sedge warbler",6.73,0.828015064223977
+"1030","Europe","Pedestrian","Passeriformes","Sylviidae ","Acrocephalus scirpaceus","sedge warbler",6.73,0.828015064223977
+"1031","Europe","Pedestrian","Passeriformes","Troglodytidae","Troglodytes troglodytes","Eurasian wren",5.64,0.751279103983342
+"1032","Europe","Pedestrian","Passeriformes","Troglodytidae","Troglodytes troglodytes ","Eurasian wren",5.57,0.745855195173729
+"1033","Europe","Pedestrian","Passeriformes","Troglodytidae","Troglodytes troglodytes ","Eurasian wren",5.81,0.764176132390331
+"1034","Europe","Pedestrian","Passeriformes","Troglodytidae","Troglodytes troglodytes ","Eurasian wren",5.81,0.764176132390331
+"1035","Europe","Pedestrian","Passeriformes","Turdidae","Turdus merula","common blackbird ",20.9,1.32014628611105
+"1036","Europe","Pedestrian","Passeriformes","Turdidae","Turdus merula","common blackbird ",11.4,1.05690485133647
+"1037","Europe","Pedestrian","Passeriformes","Turdidae","Turdus merula","common blackbird",9.5,0.977723605288848
+"1038","Europe","Pedestrian","Passeriformes","Turdidae","Turdus merula ","common blackbird",7.76,0.889861721258188
+"1039","Europe","Pedestrian","Passeriformes","Turdidae","Turdus philomelos","song thrush ",15.8,1.19865708695442
+"1040","Europe","Pedestrian","Passeriformes","Turdidae","Turdus philomelos","song thrush ",6,0.778151250383644
+"1041","Europe","Pedestrian","Passeriformes","Turdidae","Turdus philomelos","song thrush ",7.73,0.888179493918325
+"1042","Europe","Pedestrian","Passeriformes","Turdidae","Turdus philomelos ","song thrush",11.4,1.05690485133647
+"1043","Europe","Pedestrian","Passeriformes","Turdidae","Turdus philomelos ","song thrush ",11.4,1.05690485133647
+"1044","Europe","Pedestrian","Passeriformes","Turdidae","Turdus pilaris","fieldfare",14.21,1.15259407792747
+"1045","Europe","Pedestrian","Passeriformes","Turdidae","Turdus viscivorus ","mistle thrush",20.84,1.31889771462749
+"1046","Europe","Pedestrian","Passeriformes","Turdidae","Turdus viscivorus ","mistle thrush",20.84,1.31889771462749
+"1047","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus iliacus","redwing",12.75,1.10551018476997
+"1048","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus iliacus ","redwing",12.75,1.10551018476997
+"1049","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus merula","common blackbird",7.11,0.851869600729766
+"1050","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus merula","blackbird",16.7,1.22271647114758
+"1051","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus merula ","common blackbird",7.54,0.877371345869774
+"1052","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus merula ","common blackbird",7.76,0.889861721258188
+"1053","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus philomelos","song thrush",8.96,0.952308009662125
+"1054","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus pilaris","fieldfare",17.17,1.23477029516092
+"1055","Europe","Pedestrian","Passeriformes","Turdidae ","Turdus viscivorus","mistle thrush",19.33,1.28623185402855
+"1056","Europe","Pedestrian","Piciformes","Picidae","Picus viridis","Eurasian green woodpecker",17,1.23044892137827
+"1057","Europe","Pedestrian","Piciformes","Picidae ","Dendrocopos major","great spotted woodpecker",13.44,1.12839926871781
+"1058","Europe","Pedestrian","Piciformes","Picidae ","Dendrocopos major ","great spotted woodpecker",11.67,1.06707085604537
+"1059","Europe","Pedestrian","Piciformes","Picidae ","Dendrocopos major ","great spotted woodpecker",11.68,1.06744284277638
+"1060","Europe","Pedestrian","Piciformes","Picidae ","Dryocopus martius","black woodpecker",38.71,1.58782317131896
+"1061","Europe","Pedestrian","Piciformes","Picidae ","Picus viridis ","Eurasian green woodpecker ",16.5,1.21748394421391
+"1062","Europe","Pedestrian","Piciformes","Picidae ","Picus viridis ","Eurasian green woodpecker ",17.12,1.23350376034113
+"1063","America-Australia","Motorized watercraft","Anseriformes","Anatidae","Anas fulvigula","mottled duck",103,2.01283722470517
+"1064","America-Australia","Pedestrian","Anseriformes","Anatidae","Anser albifrons elgasi","tule greater white-fronted goose",47,1.67209785793572
+"1065","America-Australia","Motorized watercraft","Charadriiformes","Alcidae","Cepphus grylle","black guillemot",260,2.41497334797082
+"1066","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Pluvialis squatarola","black-bellied plover",29,1.46239799789896
+"1067","America-Australia","Pedestrian","Charadriiformes","Charadriidae ","Pluvialis squatarola","black-bellied plover",43,1.63346845557959
+"1068","America-Australia","Motorized watercraft","Charadriiformes","Charadriidae ","Pluvialis squatarola","black-bellied plover",22.92,1.36021461329535
+"1069","America-Australia","Motorized watercraft","Charadriiformes","Charadriidae ","Pluvialis squatarola","black-bellied plover",23.88,1.37803432245733
+"1070","America-Australia","Motorized watercraft","Charadriiformes","Haematopodidae ","Haematopus palliatus","American oystercatcher ",30.27,1.48101242095657
+"1071","America-Australia","Motorized watercraft","Charadriiformes","Haematopodidae ","Haematopus palliatus","American oystercatcher ",29.12,1.464191370641
+"1072","America-Australia","Motorized watercraft","Charadriiformes","Laridae","Larus atricilla","laughing gull ",27.76,1.44341946178282
+"1073","America-Australia","Motorized watercraft","Charadriiformes","Laridae","Larus atricilla","laughing gull ",28.28,1.45147940512486
+"1074","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",8,0.903089986991944
+"1075","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",30,1.47712125471966
+"1076","America-Australia","Motorized watercraft","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",41.76,1.62076048999421
+"1077","America-Australia","Motorized vehicle","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",31.84,1.50297305906563
+"1078","America-Australia","Motorized vehicle","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",22.04,1.34321159017975
+"1079","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus delawarensis","ring-billed gull ",33.8,1.52891670027765
+"1080","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus delawarensis ","ring-billed gull ",22,1.34242268082221
+"1081","America-Australia","Pedestrian","Charadriiformes","Laridae","Larus occidentalis ","western gull",17.4,1.2405492482826
+"1082","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna antillarum","least tern ",19.53,1.29070224328785
+"1083","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna caspia","caspian tern ",31.15,1.49345805099519
+"1084","America-Australia","Pedestrian","Charadriiformes","Laridae ","Sterna caspia ","caspian tern ",35,1.54406804435028
+"1085","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna forsteri","Forster’s tern ",23.36,1.36847283844036
+"1086","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna forsteri","Forster’s tern ",23.5,1.37106786227174
+"1087","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna maxima","royal tern ",29.03,1.46284703583167
+"1088","America-Australia","Motorized watercraft","Charadriiformes","Laridae ","Sterna maxima","royal tern ",35.91,1.55521540512607
+"1089","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus mexicanus","black-necked stilt",17,1.23044892137827
+"1090","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus mexicanus","black-necked stilt",27,1.43136376415899
+"1091","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus mexicanus","black-necked stilt",29,1.46239799789896
+"1092","America-Australia","Pedestrian","Charadriiformes","Recurvirostridae ","Himantopus mexicanus ","black-necked stilt",22.3,1.34830486304816
+"1093","America-Australia","Pedestrian","Charadriiformes","Rynchopidae","Rynchops niger","black skimmer",26.63,1.42537116643894
+"1094","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris alba","sanderling",13.73,1.13767053723676
+"1095","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris mauri","western sandpiper",10,1
+"1096","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris mauri","western sandpiper",24,1.38021124171161
+"1097","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris mauri ","western sandpiper",15.6,1.19312459835446
+"1098","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris minutilla ","least sandpiper",9.2,0.963787827345555
+"1099","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris minutilla ","least sandpiper",7,0.845098040014257
+"1100","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Calidris minutilla ","least sandpiper",25,1.39794000867204
+"1101","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Catoptrophorus semipalmatus","willet",17,1.23044892137827
+"1102","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Catoptrophorus semipalmatus","willet",28,1.44715803134222
+"1103","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Catoptrophorus semipalmatus","willet",29,1.46239799789896
+"1104","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Catoptrophorus semipalmatus","willet",20.61,1.31407799177921
+"1105","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Catoptrophorus semipalmatus ","willet",20.8,1.31806333496276
+"1106","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limnodromus griseus ","short-billed dowitcher ",12.7,1.10380372095596
+"1107","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Limosa fedoa ","marbled godwit",17.7,1.24797326636181
+"1108","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa melanoleuca","greater yellowlegs",23,1.36172783601759
+"1109","America-Australia","Pedestrian","Charadriiformes","Scolopacidae","Tringa melanoleuca","greater yellowlegs",28,1.44715803134222
+"1110","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Arenaria interpres","ruddy turnstone",14.8,1.17026171539496
+"1111","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Calidris alba","sanderling",14.97,1.17522180034305
+"1112","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Calidris mauri","western sandpiper",18.66,1.27091163941048
+"1113","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae ","Catoptrophorus semipalmatus","willet",31.41,1.4970679363985
+"1114","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae ","Catoptrophorus semipalmatus","willet",24.47,1.38863396935179
+"1115","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Catoptrophorus semipalmatus","willet",19.27,1.28488171465545
+"1116","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Catoptrophorus semipalmatus","willet",24.24,1.38453261549425
+"1117","America-Australia","Motorized vehicle","Charadriiformes","Scolopacidae ","Charadrius semipalmatus","semipalmated plover",19.95,1.29994290002277
+"1118","America-Australia","Motorized watercraft","Charadriiformes","Scolopacidae ","Limnodromus griseus","short-billed dowitcher ",21.37,1.32980452216407
+"1119","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea alba","great egret ",39.9,1.60097289568675
+"1120","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea alba","great egret",17,1.23044892137827
+"1121","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea alba","great egret",48,1.68124123737559
+"1122","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea alba","great egret",54,1.73239375982297
+"1123","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea alba ","great egret",50.99,1.70748501196747
+"1124","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea alba ","great egret",45.53,1.65829765030819
+"1125","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea alba ","great egret",113,2.05307844348342
+"1126","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea alba ","great egret",36.05,1.55690526905545
+"1127","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea alba ","great egret",30.55,1.48501121457857
+"1128","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea herodias","great blue heron",15,1.17609125905568
+"1129","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea herodias","great blue heron",43,1.63346845557959
+"1130","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea herodias","great blue heron",54,1.73239375982297
+"1131","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea herodias ","great blue heron ",36.6,1.56348108539441
+"1132","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea herodias ","great blue heron",42.16,1.62490060220449
+"1133","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea herodias ","great blue heron",49.52,1.69478063601206
+"1134","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Ardea herodias ","great blue heron",99,1.99563519459755
+"1135","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Ardea herodias ","great blue heron",30.57,1.48529543872609
+"1136","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta caerulea ","little blue heron",49.34,1.69319914515372
+"1137","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta caerulea ","little blue heron",37.29,1.57159238336131
+"1138","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta caerulea ","little blue heron",89,1.94939000664491
+"1139","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta caerulea ","little blue heron",23.02,1.36210531929377
+"1140","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta rufescens","reddish egret ",41.14,1.61426428735871
+"1141","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta thula","snowy egret",10,1
+"1142","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta thula","snowy egret",26,1.41497334797082
+"1143","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta thula","snowy egret",52,1.7160033436348
+"1144","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta thula ","snowy egret ",18.6,1.26951294421792
+"1145","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta thula ","snowy egret",31.78,1.50215389287136
+"1146","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta thula ","snowy egret",31.5,1.4983105537896
+"1147","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta thula ","snowy egret",81,1.90848501887865
+"1148","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta thula ","snowy egret",26.81,1.42829681398288
+"1149","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta tricolor ","tricolored heron",44.36,1.64699153747712
+"1150","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta tricolor ","tricolored heron",42.72,1.6306312440205
+"1151","America-Australia","Motorized watercraft","Ciconiiformes","Ardeidae","Egretta tricolor ","tricolored heron",65,1.81291335664286
+"1152","America-Australia","Pedestrian","Ciconiiformes","Ardeidae","Egretta tricolor ","tricolored heron",24.09,1.38183679999834
+"1153","America-Australia","Motorized watercraft","Ciconiiformes","Ciconiidae","Mycteria americana","wood stork ",36.17,1.55834850876162
+"1154","America-Australia","Motorized watercraft","Ciconiiformes","Ciconiidae","Mycteria americana","wood stork ",26.47,1.42275394130135
+"1155","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Ajaia ajaja","roseate spoonbill ",44.98,1.65301945109961
+"1156","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Eudocimus albus ","white ibis",35.57,1.55108386518578
+"1157","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Eudocimus albus ","white ibis",42.15,1.62479757896076
+"1158","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Eudocimus albus ","white ibis",94,1.9731278535997
+"1159","America-Australia","Motorized watercraft","Ciconiiformes","Threskiornithidae","Plegadis falcinellus","glossy ibis ",85,1.92941892571429
+"1160","America-Australia","Pedestrian","Columbiformes","Columbidae ","Zenaida macroura ","mourning dove ",15.8,1.19865708695442
+"1161","America-Australia","Pedestrian","Columbiformes","Columbidae ","Zenaida macroura ","mourning dove ",23.8,1.37657695705651
+"1162","America-Australia","Pedestrian","Columbiformes","Columbidae ","Zenaida macroura ","mourning dove ",15.2,1.18184358794477
+"1163","America-Australia","Motorized vehicle","Falconiformes","Accipitridae","Aguila chrysaetos","golden eagle",82,1.91381385238372
+"1164","America-Australia","Pedestrian","Falconiformes","Accipitridae","Aguila chrysaetos","golden eagle",225,2.35218251811136
+"1165","America-Australia","Motorized vehicle","Falconiformes","Accipitridae","Buteo lagopus","rough-legged hawk",71,1.85125834871908
+"1166","America-Australia","Pedestrian","Falconiformes","Accipitridae","Buteo lagopus","rough-legged hawk",177,2.24797326636181
+"1167","America-Australia","Motorized vehicle","Falconiformes","Accipitridae","Buteo regalis","ferruginous hawk",195,2.29003461136252
+"1168","America-Australia","Pedestrian","Falconiformes","Accipitridae","Buteo regalis","ferruginous hawk",63,1.79934054945358
+"1169","America-Australia","Non-motorized watercraft","Falconiformes","Accipitridae","Haliaeetus leucocephalus","bald eagle",150,2.17609125905568
+"1170","America-Australia","Non-motorized watercraft","Falconiformes","Accipitridae","Haliaeetus leucocephalus","bald eagle",168,2.22530928172586
+"1171","America-Australia","Motorized watercraft","Falconiformes","Accipitridae","Haliaeetus leucocephalus","bald eagle",197,2.29446622616159
+"1172","America-Australia","Motorized watercraft","Falconiformes","Accipitridae","Haliaeetus leucocephalus ","bald eagle ",173,2.2380461031288
+"1173","America-Australia","Motorized watercraft","Falconiformes","Accipitridae ","Rostrhamus sociabilis","snail kite ",49,1.69019608002851
+"1174","America-Australia","Motorized vehicle","Falconiformes","Falconidae","Falco columbarius","merlin",62,1.79239168949825
+"1175","America-Australia","Pedestrian","Falconiformes","Falconidae","Falco columbarius","merlin",76,1.88081359228079
+"1176","America-Australia","Motorized vehicle","Falconiformes","Falconidae","Falco mexicanus","prairie falcon",85,1.92941892571429
+"1177","America-Australia","Pedestrian","Falconiformes","Falconidae","Falco mexicanus","prairie falcon",92,1.96378782734556
+"1178","America-Australia","Motorized vehicle","Falconiformes","Falconidae","Falco sparverius","American kestrel",40,1.60205999132796
+"1179","America-Australia","Pedestrian","Falconiformes","Falconidae","Falco sparverius","American kestrel",44,1.64345267648619
+"1180","America-Australia","Motorized watercraft","Falconiformes","Pandionidae","Pandion haliaetus","osprey ",57.91,1.76275356493337
+"1181","America-Australia","Motorized watercraft","Falconiformes","Pandionidae","Pandion haliaetus","osprey ",49.53,1.69486832798246
+"1182","America-Australia","Motorized watercraft","Falconiformes","Pandionidae","Pandion haliaetus ","osprey ",103,2.01283722470517
+"1183","America-Australia","Pedestrian","Passeriformes","Corvidae ","Aphelocoma californica ","western scrub-jay ",15,1.17609125905568
+"1184","America-Australia","Pedestrian","Passeriformes","Corvidae ","Aphelocomoa californica ","western scrub-jay ",15.8,1.19865708695442
+"1185","America-Australia","Pedestrian","Passeriformes","Corvidae ","Aphelocomoa californica ","western scrub-jay ",13.8,1.13987908640124
+"1186","America-Australia","Pedestrian","Passeriformes","Emberizidae","Melospiza melodia ","song sparrow ",8.3,0.919078092376074
+"1187","America-Australia","Pedestrian","Passeriformes","Emberizidae","Melospiza melodia ","song sparrow ",7.5,0.8750612633917
+"1188","America-Australia","Pedestrian","Passeriformes","Emberizidae","Pipilo maculatus ","spotted towhee ",9.4,0.973127853599699
+"1189","America-Australia","Pedestrian","Passeriformes","Emberizidae","Pipilo maculatus ","spotted towhee ",10.1,1.00432137378264
+"1190","America-Australia","Dog","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",10.87,1.03622954408629
+"1191","America-Australia","Dog","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",9.89,0.995196291597179
+"1192","America-Australia","Dog","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",15.11,1.17926446433903
+"1193","America-Australia","Dog","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",10.13,1.00560944536028
+"1194","America-Australia","Pedestrian","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",16.95,1.2291697025391
+"1195","America-Australia","Pedestrian","Passeriformes","Emberizidae","Pooecetes gramineus","vesper sparrow",9.25,0.966141732739033
+"1196","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Junco hyemalis ","dark-eyed junco ",8.9,0.949390006644913
+"1197","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Melospiza melodia ","song sparrow ",8.2,0.913813852383717
+"1198","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Pipilo crissalis","California towhee",11.9,1.07554696139253
+"1199","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Pipilo crissalis","California towhee",13.9,1.1430148002541
+"1200","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Pipilo crissalis ","California towhee",11.9,1.07554696139253
+"1201","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Pipilo maculatus ","spotted towhee ",9.8,0.991226075692495
+"1202","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Zonotrichia leucophrys ","white-crowned sparrow ",8.6,0.934498451243568
+"1203","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Zonotrichia leucophrys ","white-crowned sparrow ",6.2,0.792391689498254
+"1204","America-Australia","Pedestrian","Passeriformes","Emberizidae ","Zonotrichia leucophrys ","white-crowned sparrow",8.6,0.934498451243568
+"1205","America-Australia","Pedestrian","Passeriformes","Fringillidae ","Carpodacus mexicanus ","house finch ",9.6,0.982271233039568
+"1206","America-Australia","Pedestrian","Passeriformes","Fringillidae ","Carpodacus mexicanus ","house finch ",10.8,1.03342375548695
+"1207","America-Australia","Pedestrian","Passeriformes","Fringillidae ","Passer domesticus ","house sparrow ",13.2,1.12057393120585
+"1208","America-Australia","Dog","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",33.5,1.52504480703685
+"1209","America-Australia","Dog","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",18.78,1.27369558793009
+"1210","America-Australia","Dog","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",36.71,1.56478438450399
+"1211","America-Australia","Dog","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",28.21,1.45040308615537
+"1212","America-Australia","Pedestrian","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",37.73,1.576686805201
+"1213","America-Australia","Pedestrian","Passeriformes","Icteridae","Sturnella neglecta","western meadowlark",30.63,1.48614699680657
+"1214","America-Australia","Pedestrian","Passeriformes","Paridae","Baeolophus inornatus ","oak titmouse ",11.7,1.06818586174616
+"1215","America-Australia","Pedestrian","Passeriformes","Paridae","Baeolophus inornatus ","oak titmouse ",9.4,0.973127853599699
+"1216","America-Australia","Pedestrian","Passeriformes","Parulidae","Dendroica petechia","yellow warbler ",6.5,0.812913356642856
+"1217","America-Australia","Pedestrian","Passeriformes","Parulidae","Dendroica petechia","yellow warbler ",9.6,0.982271233039568
+"1218","America-Australia","Pedestrian","Passeriformes","Parulidae ","Dendroica coronata ","yellow-rumped warbler",8,0.903089986991944
+"1219","America-Australia","Pedestrian","Passeriformes","Parulidae ","Dendroica coronata ","yellow-rumped warbler",9.4,0.973127853599699
+"1220","America-Australia","Pedestrian","Passeriformes","Parulidae ","Dendroica coronata ","yellow-rumped warbler",9.4,0.973127853599699
+"1221","America-Australia","Pedestrian","Passeriformes","Timaliidae ","Chamaea fasciata ","wrentit ",5,0.698970004336019
+"1222","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",11.7,1.06818586174616
+"1223","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",10.8,1.03342375548695
+"1224","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",7,0.845098040014257
+"1225","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",7,0.845098040014257
+"1226","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",10,1
+"1227","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",8.7,0.939519252618618
+"1228","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",6.2,0.792391689498254
+"1229","America-Australia","Pedestrian","Passeriformes","Turdidae","Turdus migratorius","American robin",5.7,0.755874855672491
+"1230","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus migratorius ","American robin",11.8,1.07188200730613
+"1231","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus migratorius ","American robin",9.1,0.959041392321094
+"1232","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus migratorius ","American robin",11.2,1.04921802267018
+"1233","America-Australia","Dog","Passeriformes","Turdidae ","Turdus migratorius ","American robin",16.27,1.21138755293686
+"1234","America-Australia","Dog","Passeriformes","Turdidae ","Turdus migratorius ","American robin",9.82,0.99211148778695
+"1235","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus migratorius ","American robin",13.74,1.13798673272353
+"1236","America-Australia","Pedestrian","Passeriformes","Turdidae ","Turdus migratorius ","American robin",9.61,0.982723387668545
+"1237","America-Australia","Motorized watercraft","Pelicaniformes","Anhingidae","Anhinga anhinga","anhinga ",53.16,1.72558497227069
+"1238","America-Australia","Motorized watercraft","Pelicaniformes","Anhingidae","Anhinga anhinga","anhinga ",44.51,1.64845759428252
+"1239","America-Australia","Motorized watercraft","Pelicaniformes","Anhingidae","Anhinga anhinga","anhinga ",108,2.03342375548695
+"1240","America-Australia","Motorized watercraft","Pelicaniformes","Anhingidae","Anhinga anhinga","anhinga ",37.4,1.57287160220048
+"1241","America-Australia","Motorized watercraft","Pelicaniformes","Pelicanidae","Pelecanus occidentalis","brown pelican ",52.8,1.72263392253381
+"1242","America-Australia","Motorized watercraft","Pelicaniformes","Pelicanidae","Pelecanus occidentalis","brown pelican ",47.11,1.67311310423823
+"1243","America-Australia","Motorized watercraft","Pelicaniformes","Pelicanidae","Pelecanus occidentalis","brown pelican ",34.48,1.53756725715268
+"1244","America-Australia","Pedestrian","Pelicaniformes","Pelicanidae","Pelecanus occidentalis","brown pelican ",27.38,1.43743344379797
+"1245","America-Australia","Motorized watercraft","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax auritus","double-crested cormorant",42.76,1.63103769653674
+"1246","America-Australia","Motorized watercraft","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax auritus","double-crested cormorant",49.45,1.6941662959332
+"1247","America-Australia","Motorized watercraft","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax auritus","double-crested cormorant",152,2.18184358794477
+"1248","America-Australia","Pedestrian","Pelicaniformes","Phalacrocoracidae ","Phalacrocorax auritus","double-crested cormorant",31.27,1.49512788124293
+"1249","America-Australia","Pedestrian","Strigiformes","Strigidae","Strix occidentalis occidentalis","Mexican spotted owl",7.8,0.89209460269048
+"1250","America-Australia","Pedestrian","Strigiformes","Strigidae","Strix occidentalis occidentalis","Mexican spotted owl",3.1,0.491361693834273
+"1251","America-Australia","Pedestrian","Trochiliformes","Trochilidae ","Calypte anna ","Anna’s hummingbird ",6.7,0.826074802700826
+"1252","America-Australia","Pedestrian","Trochiliformes","Trochilidae ","Calypte anna ","Anna’s hummingbird ",7.2,0.857332496431269
+"1253","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius americanus ","long-billed curlew ",25.7,1.40993312333129
+"1254","Europe","Pedestrian","Charadriiformes","Scolopacidae","Numenius phaeopus ","whimbrel ",37.7,1.57634135020579
+"1255","Europe","Pedestrian","Passeriformes","Estrildidae","Neochmia temporalis ","red-browed finch",7.5,0.8750612633917
+"1256","Europe","Pedestrian","Piciformes","Picidae ","Picus viridis ","Eurasian green woodpecker ",8.6,0.934498451243568
