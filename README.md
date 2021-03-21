@@ -2,6 +2,8 @@
 <img src = "opendoor.jpg" alt = "open door image" />
 Some selected datasets in CSV format
 
+datasets are in the folder `files`
+
 To choose what to read:
 `data <- read.csv(file.choose(), header = T)`
 
