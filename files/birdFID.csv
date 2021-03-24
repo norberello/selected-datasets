@@ -1,0 +1,435 @@
+﻿Continent,Disturbance,Order,Family,Scientific.name,Common.name,FID,log.fid
+America-Australia,Pedestrian,Passeriformes,Meliphagidae,Acanthagenys rufogularis,spiny-cheeked honeyeater,9.2,0.963787827
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Acanthiza chrysorrhoa,yellow-rumped thornbill,6.6,0.819543936
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Acanthiza lineata,striated thornbill,4.2,0.62324929
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Acanthiza nana ,yellow thornbill ,6.3,0.799340549
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Acanthiza pusilla,brown thornbill,4.3,0.633468456
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Acanthiza reguloides ,buff-rumped thornbill,4.3,0.633468456
+America-Australia,Pedestrian,Passeriformes,Meliphagidae,Acanthorhynchus tenuirostris ,eastern spinebill ,5.6,0.748188027
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Accipiter novaehollandiae,grey goshawk,24.6,1.390935107
+America-Australia,Pedestrian,Passeriformes,Sturnidae ,Acridotheres tristis,common myna,11.6,1.064457989
+America-Australia,Pedestrian,Passeriformes,Sylviidae ,Acrocephalus stentoreus,clamorous reed-warbler ,11.5,1.06069784
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Aguila chrysaetos,golden eagle,225,2.352182518
+America-Australia,Pedestrian,Passeriformes,Ptilonorhynchidae ,Ailuroedus crassirostris ,green catbird,9.7,0.986771734
+America-Australia,Pedestrian,Passeriformes,Ptilonorhynchidae ,Ailuroedus melanotis,spotted catbird,18.7,1.271841607
+America-Australia,Pedestrian,Galliformes,Megapodiidae ,Alectura lathami ,Australian brush turkey,12,1.079181246
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Alisterus scapularis,Australian king parrot,8.7,0.939519253
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anas castanea,chestnut teal,80.1,1.903632516
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anas gracilis,grey teal ,78,1.892094603
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anas platyrhynchos,mallard,12.8,1.10720997
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anas rhynchotis,Australasian shoveler,19.2,1.283301229
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anas superciliosa,Pacific black duck ,107.5,2.031408464
+America-Australia,Pedestrian,Pelicaniformes,Anhingidae ,Anhinga melanogaster ,darter ,24,1.380211242
+America-Australia,Pedestrian,Pelicaniformes,Anhingidae,Anhinga novaehollandiae,Australian darter ,38,1.579783597
+America-Australia,Pedestrian,Anseriformes,Anatidae,Anser albifrons elgasi,tule greater white-fronted goose,47,1.672097858
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Anthochaera carunculata ,red wattlebird,8.7,0.939519253
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Anthochaera chrysoptera,little wattlebird,7.3,0.86332286
+America-Australia,Pedestrian,Passeriformes,Motacillidae ,Anthus novaeseelandiae ,richard‚Äôs pipit ,12.4,1.093421685
+America-Australia,Pedestrian,Passeriformes,Corvidae ,Aphelocoma californica ,western scrub-jay ,15,1.176091259
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Aprosmictus erythropterus,red-winged parrot,32.3,1.509202522
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ardea alba,great egret ,39.9,1.600972896
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ardea herodias,great blue heron,15,1.176091259
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ardea modesta,eastern great egret,57,1.755874856
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ardea novaehollandiae,white-faced heron ,33.23,1.521530341
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ardea pacifica,white-necked heron,63.4,1.802089258
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Arenaria interpres,ruddy turnstone,29.66,1.472171147
+America-Australia,Pedestrian,Passeriformes,Artamidae ,Artamus cinereus,black-faced woodswallow,11.8,1.071882007
+America-Australia,Pedestrian,Passeriformes,Artamidae ,Artamus leucorynchus,white-breasted woodswallow,15.8,1.198657087
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Aviceda subcristata,Pacific baza,18,1.255272505
+America-Australia,Pedestrian,Anseriformes,Anatidae,Aythya australis,hardhead,87.2,1.940516485
+America-Australia,Pedestrian,Passeriformes,Paridae,Baeolophus inornatus ,oak titmouse ,11.7,1.068185862
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Barnardius zonarius,Australian ringneck,14.1,1.149219113
+America-Australia,Pedestrian,Anseriformes,Anatidae,Biziura lobata,musk duck,69.9,1.844477176
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Botaurus poiciloptilus,Australasian bittern,10,1
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Bubulcus ibis,cattle egret,23.4,1.369215857
+America-Australia,Pedestrian,Charadriiformes,Burhinidae,Burhinus grallarius ,bush stone-curlew,25.9,1.413299764
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Buteo regalis,ferruginous hawk,63,1.799340549
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Butorides striata,striated heron,31.7,1.501059262
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae ,Cacatua galerita ,sulphur-crested cockatoo,15.3,1.184691431
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae ,Cacatua roseicapilla ,galah ,8.9,0.949390007
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae ,Cacatua sanguinea,little corella,20,1.301029996
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae ,Cacatua tenuirostris,long-billed corella,3.8,0.579783597
+America-Australia,Pedestrian,Cuculiformes,Cuculidae ,Cacomantis flabelliformis ,fan-tailed cuckoo ,10.6,1.025305865
+America-Australia,Pedestrian,Cuculiformes,Cuculidae ,Cacomantis pallidus,pallid cuckoo,8.5,0.929418926
+America-Australia,Pedestrian,Passeriformes,Acanthizidae,Calamanthus fuliginosus,striated fieldwren,8.6,0.934498451
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Caldris acuminata,sharp-tailed sandpiper,20.29,1.307282047
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Caldris alba,sanderling,32,1.505149978
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Caldris ferruginea,curlew sandpiper,25.19,1.401228167
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Caldris melanotos,pectoral sandpiper,23,1.361727836
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Caldris ruficollis,red-necked stinta,18.73,1.272537777
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Calidris canutus,red knot,21.3,1.328379603
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Calidris mauri,western sandpiper,10,1
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Calidris minutilla ,least sandpiper,9.2,0.963787827
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Calidris ruficollis,red-necked stint,20,1.301029996
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae,Callocephalon fimbriatum,gang-gang cockatoo,7.5,0.875061263
+America-Australia,Pedestrian,Trochiliformes,Trochilidae ,Calypte anna ,Anna‚Äôs hummingbird ,6.7,0.826074803
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae,Calyptorhynchus banksii,red-tailed black-cockatoo,10.9,1.037426498
+America-Australia,Pedestrian,Psittaciformes,Cacatuidae,Calyptorhynchus funereus,yellow-tailed black-cockatoo,11.7,1.068185862
+America-Australia,Pedestrian,Passeriformes,Fringillidae ,Carpodacus mexicanus ,house finch ,9.6,0.982271233
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Catoptrophorus semipalmatus,willet,17,1.230448921
+America-Australia,Pedestrian,Cuculiformes,Cuculidae ,Centropus phasianinus,pheasant coucal,30.5,1.484299839
+America-Australia,Pedestrian,Anseriformes,Anatidae,Cereopsis novaehollandiae,Cape Barren goose,82.6,1.916980047
+America-Australia,Pedestrian,Passeriformes,Certhiidae ,Certhia brachydactyla ,short-toed treecreeper ,7.2,0.857332496
+America-Australia,Pedestrian,Coraciiformes,Alcedinidae,Ceyx azureus,azure kingfisher,11.7,1.068185862
+America-Australia,Pedestrian,Cuculiformes,Cuculidae ,Chalcites basalis,Horsfield's bronze-cuckoo,3.5,0.544068044
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Chalcophaps indica,emerald dove,14.2,1.152288344
+America-Australia,Pedestrian,Passeriformes,Timaliidae ,Chamaea fasciata ,wrentit ,5,0.698970004
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Charadrius bicinctus,double-banded plover,32.14,1.507045872
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Charadrius mongolus,lesser sand plover,16.7,1.222716471
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Charadrius ruficapillus,red-capped plover,32.75,1.515211304
+America-Australia,Pedestrian,Anseriformes,Anatidae,Chenonetta jubata ,Australian wood duck,25.5,1.40654018
+America-Australia,Pedestrian,Charadriiformes,Laridae ,Chlidonias hybrida,whiskered tern,21.4,1.330413773
+America-Australia,Pedestrian,Falconiformes,Accipitridae ,Circus assimilis,spotted harrier,22,1.342422681
+America-Australia,Pedestrian,Passeriformes,Sylviidae ,Cisticola exilis ,golden-headed cisticola,5.2,0.716003344
+America-Australia,Pedestrian,Charadriiformes,Recurvirostridae ,Cladorhynchus leucocephalus,banded stilt,32.8,1.515873844
+America-Australia,Pedestrian,Passeriformes,Climacteridae ,Climacteris affinis,white-browed treecreeper,3.1,0.491361694
+America-Australia,Pedestrian,Passeriformes,Climacteridae ,Climacteris picumnus ,brown treecreeper ,5.1,0.707570176
+America-Australia,Pedestrian,Passeriformes,Pachycephalidae ,Colluricincla harmonica ,grey shrike-thrush ,12.8,1.10720997
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Columba leucomela,white-headed pigeon,26,1.414973348
+America-Australia,Pedestrian,Passeriformes,Campephagidae ,Coracina novaehollandiae,black-faced cuckoo-shrike ,21.1,1.324282455
+America-Australia,Pedestrian,Passeriformes,Campephagidae ,Coracina papuensis,white-bellied cuckoo-shrike,7.1,0.851258349
+America-Australia,Pedestrian,Passeriformes,Corcoracidae ,Corcorax melanorhamphos,white-winged chough ,16.2,1.209515015
+America-Australia,Pedestrian,Passeriformes,Climacteridae ,Cormobates leucophaeus ,white-throated treecreeper ,5.8,0.763427994
+America-Australia,Pedestrian,Passeriformes,Corvidae,Corvus coronoides ,Australian raven ,23.8,1.376576957
+America-Australia,Pedestrian,Passeriformes,Corvidae ,Corvus orru,Torresian crow,19,1.278753601
+America-Australia,Pedestrian,Galliformes,Phasianidae,Coturnix pectoralis,stubble quail,1.9,0.278753601
+America-Australia,Pedestrian,Galliformes,Phasianidae,Coturnix ypsilophora,brown quail,5.5,0.740362689
+America-Australia,Pedestrian,Passeriformes,Artamidae ,Cracticus nigrogularis,pied butcherbird,9.5,0.977723605
+America-Australia,Pedestrian,Passeriformes,Artamidae,Cracticus tibicen,Australian magpie,40.3,1.605305046
+America-Australia,Pedestrian,Passeriformes,Artamidae ,Cracticus torquatus ,grey butcherbird ,19.3,1.285557309
+America-Australia,Pedestrian,Anseriformes,Anatidae,Cygnus atratus,black swan,78.3,1.893761762
+America-Australia,Pedestrian,Coraciiformes,Halcyonidae ,Dacelo leachii,blue-winged kookaburra,23,1.361727836
+America-Australia,Pedestrian,Coraciiformes,Halcyonidae ,Dacelo novaeguineae ,laughing kookaburra ,10.5,1.021189299
+America-Australia,Pedestrian,Anseriformes,Anatidae,Dendrocygna eytoni,plumed whistling duck,130,2.113943352
+America-Australia,Pedestrian,Passeriformes,Parulidae ,Dendroica coronata ,yellow-rumped warbler,8,0.903089987
+America-Australia,Pedestrian,Passeriformes,Parulidae,Dendroica petechia,yellow warbler ,6.5,0.812913357
+America-Australia,Pedestrian,Passeriformes,Dicruridae,Dicrurus bracteatus,spangled drongo,15.4,1.187520721
+America-Australia,Pedestrian,Struthioniformes,Casuariidae,Dromaius novaehollandiae,emu,58.7,1.768638101
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Ducula bicolor,pied imperial-pigeon,21.5,1.33243846
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta caerulea ,little blue heron,23.02,1.362105319
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta garzetta,little egret ,62.3,1.794488047
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta novaehollandiae,white-faced heron,46.4,1.666517981
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta sacra,eastern reef egret,31.1,1.492760389
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta thula,snowy egret,10,1
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Egretta tricolor ,tricolored heron,24.09,1.3818368
+America-Australia,Pedestrian,Falconiformes,Accipitridae ,Elanus axillaris ,black-shouldered kite ,23.1,1.36361198
+America-Australia,Pedestrian,Charadriiformes,Charadriidae,Elseyornis melanops,black-fronted dotterel ,24.8,1.394451681
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Entomyzon cyanotis,blue-faced honeyeater,30.8,1.488550717
+America-Australia,Pedestrian,Passeriformes,Petroicidae ,Eopsaltria australis,eastern yellow robin ,9.5,0.977723605
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Epthianura albifrons ,white-fronted chat,22.6,1.354108439
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Erythrogonys cinctus,red-kneed dotterel,21.2,1.326335861
+America-Australia,Pedestrian,Cuculiformes,Cuculidae ,Eudynamys scolopaceus,Asian koel,4.6,0.662757832
+America-Australia,Pedestrian,Caprimulgiformes,Caprimulgidae,Eurostopodus argus,spotted nightjar,10.8,1.033423755
+America-Australia,Pedestrian,Coraciiformes,Coraciidae ,Eurystomus orientalis ,dollarbird ,25.9,1.413299764
+America-Australia,Pedestrian,Falconiformes,Falconidae,Falco berigora,brown falcon,34.1,1.532754379
+America-Australia,Pedestrian,Falconiformes,Falconidae,Falco cenchroides,Nankeen kestrel,43.4,1.63748973
+America-Australia,Pedestrian,Falconiformes,Falconidae,Falco columbarius,merlin,76,1.880813592
+America-Australia,Pedestrian,Falconiformes,Falconidae,Falco mexicanus,prairie falcon,92,1.963787827
+America-Australia,Pedestrian,Falconiformes,Falconidae,Falco sparverius,American kestrel,44,1.643452676
+America-Australia,Pedestrian,Passeriformes,Pachycephalidae,Falcunculus frontatus,crested shrike-tit,8.5,0.929418926
+America-Australia,Pedestrian,Gruiformes,Rallidae,Fulica atra,Eurasian coot,72.8,1.862131379
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Gallinago hardwickii,Latham‚Äôs snipe,62.62,1.796713063
+America-Australia,Pedestrian,Gruiformes,Rallidae ,Gallinula tenebrosa ,dusky moorhen ,14.8,1.170261715
+America-Australia,Pedestrian,Gruiformes,Rallidae,Gallinula ventralis,black-tailed native hen ,36.8,1.565847819
+America-Australia,Pedestrian,Gruiformes,Rallidae ,Gallirallus philippensis,buff-banded rail,8,0.903089987
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Geopelia humeralis ,bar-shouldered dove ,22.1,1.344392274
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Geopelia striata,zebra dove,12.1,1.08278537
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Gerygone albogularis,white-throated gerygone,5.1,0.707570176
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Gerygone fusca,western gerygone,5.4,0.73239376
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Gerygone mouki,brown gerygone ,4.2,0.62324929
+America-Australia,Pedestrian,Passeriformes,Monarchidae ,Grallina cyanoleuca,Magpie-lark,35,1.544068044
+America-Australia,Pedestrian,Charadriiformes,Haematopodidae,Haematopus fuliginosus,sooty oystercatcher,64.28,1.808075868
+America-Australia,Pedestrian,Charadriiformes,Haematopodidae,Haematopus longirostris,pied oystercatcher ,41.52,1.618257345
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Haliastur sphenurus,whistling kite,28.2,1.450249108
+America-Australia,Pedestrian,Passeriformes,Petroicidae,Heteromyias albispecularis,grey-headed robin,9.2,0.963787827
+America-Australia,Pedestrian,Charadriiformes,Recurvirostridae ,Himantopus himantopus,black-winged stilt ,38,1.579783597
+America-Australia,Pedestrian,Charadriiformes,Recurvirostridae ,Himantopus mexicanus,black-necked stilt,17,1.230448921
+America-Australia,Pedestrian,Passeriformes,Hirundinidae,Hirundo neoxena,welcome swallow,10.9,1.037426498
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Hylacola pyrrhopygia,chestnut-rumped heathwren,11.4,1.056904851
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Ixobrychus dubius,Australian little bittern,12.9,1.11058971
+America-Australia,Pedestrian,Passeriformes,Emberizidae ,Junco hyemalis ,dark-eyed junco ,8.9,0.949390007
+America-Australia,Pedestrian,Passeriformes,Campephagidae,Lalage leucomela,varied triller,38.7,1.587710965
+America-Australia,Pedestrian,Charadriiformes,Laridae,Larus delawarensis,ring-billed gull ,8,0.903089987
+America-Australia,Pedestrian,Charadriiformes,Laridae,Larus dominicanus ,kelp gull ,24.4,1.387389826
+America-Australia,Pedestrian,Charadriiformes,Laridae,Larus novaehollandiae,silver gull,17.19,1.235275877
+America-Australia,Pedestrian,Charadriiformes,Laridae,Larus occidentalis ,western gull,17.4,1.240549248
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Leucosarcia melanoleuca,Wonga pigeon ,18.5,1.267171728
+America-Australia,Pedestrian,Gruiformes,Rallidae,Lewinia pectoralis,Lewin's rail,4.3,0.633468456
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichenostomus chrysops ,yellow-faced honeyeater ,4.5,0.653212514
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichenostomus flavus,yellow honeyeater,6.4,0.806179974
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichenostomus fuscus,fuscous honeyeater,14.6,1.164352856
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichenostomus leucotis,white-eared honeyeater,8.8,0.944482672
+America-Australia,Pedestrian,Passeriformes,Meliphagidae,Lichenostomus penicillatus,white-plumed honeyeater,16.7,1.222716471
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichenostomus virescens,singing honeyeater,12,1.079181246
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Lichmera indistincta ,brown honeyeater,9.8,0.991226076
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Limnodromus griseus ,short-billed dowitcher ,12.7,1.103803721
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Limosa fedoa ,marbled godwit,17.7,1.247973266
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Limosa lapponica,bar-tailed godwit,48.6,1.686636269
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Limosa limosa,black-tailed godwit,31.25,1.494850022
+America-Australia,Pedestrian,Passeriformes,Estrildidae,Lonchura castaneothorax ,chestnut-breasted mannikin,14.4,1.158362492
+America-Australia,Pedestrian,Passeriformes,Estrildidae,Lonchura punctulata ,nutmeg mannikin ,11.1,1.045322979
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Lopholaimus antarcticus,topknot pigeon,15,1.176091259
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Macropygia amboinensis ,brown cuckoo-dove ,8.9,0.949390007
+America-Australia,Pedestrian,Anseriformes,Anatidae,Malacorhynchus membranaceus,pink-eared duck ,31.5,1.498310554
+America-Australia,Pedestrian,Passeriformes,Maluridae ,Malurus cyaneus,superb fairy-wren ,6.5,0.812913357
+America-Australia,Pedestrian,Passeriformes,Maluridae ,Malurus lamberti ,variegated fairy-wren ,4.5,0.653212514
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Manorina melanocephala ,noisy miner,7.5,0.875061263
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Manorina melanophrys ,bell miner,2.7,0.431363764
+America-Australia,Pedestrian,Passeriformes,Locustellidae,Megalurus gramineus,little grassbird,6.5,0.812913357
+America-Australia,Pedestrian,Passeriformes,Locustellidae,Megalurus timoriensis,tawny grassbird,6,0.77815125
+America-Australia,Pedestrian,Galliformes,Megapodiidae,Megapodius reinwardt,orange-footed scrubfowl,25.9,1.413299764
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Meliphaga lewinii ,Lewin‚Äôs honeyeater ,8.2,0.913813852
+America-Australia,Pedestrian,Passeriformes,Emberizidae,Melospiza melodia ,song sparrow ,8.3,0.919078092
+America-Australia,Pedestrian,Passeriformes,Menuridae ,Menura novaehollandiae,superb lyrebird ,10.5,1.021189299
+America-Australia,Pedestrian,Coraciiformes,Meropidae,Merops ornatus,rainbow bee-eater,23,1.361727836
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Mesophoyx intermedia,intermediate egret,30.6,1.485721426
+America-Australia,Pedestrian,Pelicaniformes,Phalacrocoracidae,Microcarbo melanoleucos,little pied cormorant,46.1,1.663700925
+America-Australia,Pedestrian,Falconiformes,Accipitridae,Milvus migrans,black kite,57,1.755874856
+America-Australia,Pedestrian,Passeriformes,Monarchidae,Monarcha melanopsis,black-faced monarch,11,1.041392685
+America-Australia,Pedestrian,Passeriformes,Motacillidae,Motacilla alba ,white wagtail ,7.7,0.886490725
+America-Australia,Pedestrian,Passeriformes,Monarchidae,Myiagra cyanoleuca,satin flycatcher,9.7,0.986771734
+America-Australia,Pedestrian,Passeriformes,Monarchidae,Myiagra rubecula,leaden flycatcher,10,1
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Myzomela obscura,dusky honeyeater,2,0.301029996
+America-Australia,Pedestrian,Passeriformes,Nectariniidae,Nectarinia jugularis,olive-backed sunbird,10.9,1.037426498
+America-Australia,Pedestrian,Passeriformes,Estrildidae,Neochmia temporalis ,red-browed finch,7.1,0.851258349
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Numenius madagascariensis,eastern curlew,97.5,1.989004616
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Numenius phaeopus,whimbrel ,90,1.954242509
+America-Australia,Pedestrian,Ciconiiformes,Ardeidae,Nycticorax caledonicus,Nankeen night-heron,16.6,1.220108088
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Ocyphaps lophotes ,crested pigeon ,12.6,1.100370545
+America-Australia,Pedestrian,Passeriformes,Acanthizidae,Origma solitaria,rockwarbler,17.1,1.23299611
+America-Australia,Pedestrian,Passeriformes,Oriolidae ,Oriolus sagittatus ,olive-backed oriole ,10.2,1.008600172
+America-Australia,Pedestrian,Passeriformes,Orthonychidae,Orthonyx spaldingii,chowchilla,4,0.602059991
+America-Australia,Pedestrian,Passeriformes,Orthonychidae,Orthonyx temminckii,Australian logrunner,4.5,0.653212514
+America-Australia,Pedestrian,Anseriformes,Anatidae,Oxyura australis,blue-billed duck,68.3,1.834420704
+America-Australia,Pedestrian,Passeriformes,Pachycephalidae ,Pachycephala olivacea,olive whistler,3.8,0.579783597
+America-Australia,Pedestrian,Passeriformes,Pachycephalidae ,Pachycephala pectoralis ,golden whistler ,7.9,0.897627091
+America-Australia,Pedestrian,Passeriformes,Pachycephalidae ,Pachycephala rufiventris,rufous whistler,5.2,0.716003344
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Pardalotus punctatus,spotted pardalote,4,0.602059991
+America-Australia,Pedestrian,Pelicaniformes,Pelecanidae,Pelecanus conspicillatus,Australian pelican,32.6,1.5132176
+America-Australia,Pedestrian,Pelicaniformes,Pelicanidae,Pelecanus occidentalis,brown pelican ,27.38,1.437433444
+America-Australia,Pedestrian,Passeriformes,Hirundinidae,Petrochelidon ariel,fairy martin,8.9,0.949390007
+America-Australia,Pedestrian,Passeriformes,Petroicidae,Petroica boodang,scarlet robin,8,0.903089987
+America-Australia,Pedestrian,Passeriformes,Petroicidae,Petroica rosea,rose robin,13.1,1.117271296
+America-Australia,Pedestrian,Pelicaniformes,Phalacrocoracidae ,Phalacrocorax auritus,double-crested cormorant,31.27,1.495127881
+America-Australia,Pedestrian,Pelicaniformes,Phalacrocoracidae,Phalacrocorax carbo,great cormorant,74,1.86923172
+America-Australia,Pedestrian,Pelicaniformes,Phalacrocoracidae,Phalacrocorax sulcirostris,little black cormorant,57.3,1.758154622
+America-Australia,Pedestrian,Pelicaniformes,Phalacrocoracidae,Phalacrocorax varius,pied cormorant,77.9,1.891537458
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Phaps chalcopetra,common bronzewing,21.6,1.334453751
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Philemon buceroides,helmeted friarbird,12,1.079181246
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Philemon citreogularis,little friarbird,6.8,0.832508913
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Philemon corniculatus,noisy friarbird,11.1,1.045322979
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Phylidonyris melanops ,tawny-crowned honeyeater ,9.8,0.991226076
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Phylidonyris niger,white-cheeked honeyeater,2.3,0.361727836
+America-Australia,Pedestrian,Passeriformes,Meliphagidae,Phylidonyris novaehollandidae ,New Holland honeyeater,6.6,0.819543936
+America-Australia,Pedestrian,Passeriformes,Phylloscopidae,Phylloscopus collybita,Eurasian chiffchaff ,6,0.77815125
+America-Australia,Pedestrian,Passeriformes,Emberizidae ,Pipilo crissalis,California towhee,11.9,1.075546961
+America-Australia,Pedestrian,Passeriformes,Emberizidae,Pipilo maculatus ,spotted towhee ,9.4,0.973127854
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Platalea flavipes,yellow-billed spoonbill,24.7,1.392696953
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Platalea regia,royal spoonbill,55,1.740362689
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Platycercus adscitus,pale-headed rosella,21,1.322219295
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Platycercus elegans ,crimson rosella,8.5,0.929418926
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Platycercus eximius ,eastern rosella ,13.9,1.1430148
+America-Australia,Pedestrian,Passeriformes,Meliphagidae ,Plectorhyncha lanceolata,striped honeyeater,4.6,0.662757832
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Plegadis falcinellus,glossy ibis ,56.3,1.750508395
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Pluvialis dominica,Pacific golden plover,49.33,1.693111115
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Pluvialis fulva ,Pacific golden plover ,21.9,1.340444115
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Pluvialis squatarola,black-bellied plover,44,1.643452676
+America-Australia,Pedestrian,Caprimulgiformes,Podargidae,Podargus strigoides,tawny frogmouth,6.2,0.792391689
+America-Australia,Pedestrian,Podicipediformes,Podicipedidae,Poliocephalus poliocephalus,hoary-headed grebe,23.8,1.376576957
+America-Australia,Pedestrian,Passeriformes,Pomatostomidae,Pomatostomus ruficeps,chestnut-crowned babbler,11.8,1.071882007
+America-Australia,Pedestrian,Passeriformes,Pomatostomidae,Pomatostomus superciliosus,white-browed babbler,16.9,1.227886705
+America-Australia,Pedestrian,Passeriformes,Emberizidae,Pooecetes gramineus,vesper sparrow,16.95,1.229169703
+America-Australia,Pedestrian,Gruiformes,Rallidae,Porphyrio porphyria,purple swamphen,57.9,1.762678564
+America-Australia,Pedestrian,Gruiformes,Rallidae ,Porzana pusilla,Baillon's crake,8.2,0.913813852
+America-Australia,Pedestrian,Passeriformes,Aegithalidae ,Psaltriparus minimus ,bushtit ,7.4,0.86923172
+America-Australia,Pedestrian,Psittaciformes,Psittacidae,Psephotus haematonotus,red-rumped parrot,11.2,1.049218023
+America-Australia,Pedestrian,Passeriformes,Cinclosomatidae,Psophodes olivaceus,eastern whipbird,5.8,0.763427994
+America-Australia,Pedestrian,Passeriformes,Ptilonorhynchidae,Ptilonorhynchus violaceus,satin bowerbird ,8.4,0.924279286
+America-Australia,Pedestrian,Passeriformes,Paradisaeidae,Ptiloris victoriae,Victoria's riflebird,6.5,0.812913357
+America-Australia,Pedestrian,Passeriformes,Pycnonotidae ,Pycnonotus jocosus ,red-whiskered bulbul ,17.3,1.238046103
+America-Australia,Pedestrian,Passeriformes,Acanthizidae,Pycnoptilus floccosus,pilotbird,16.9,1.227886705
+America-Australia,Pedestrian,Charadriiformes,Recurvirostridae,Recurvirostra novaehollandiae,red-necked avocet,32.5,1.511883361
+America-Australia,Pedestrian,Passeriformes,Regulidae ,Regulus calendula ,ruby-crowned kinglet ,4.7,0.672097858
+America-Australia,Pedestrian,Passeriformes,Dicruridae ,Rhipidura fuliginosa,grey fantail ,5.6,0.748188027
+America-Australia,Pedestrian,Passeriformes,Rhipiduridae ,Rhipidura leucophrys,Willie wagtail,23.5,1.371067862
+America-Australia,Pedestrian,Passeriformes,Dicruridae ,Rhipidura rufifrons ,rufous fantail ,6.4,0.806179974
+America-Australia,Pedestrian,Charadriiformes,Rynchopidae,Rynchops niger,black skimmer,26.63,1.425371166
+America-Australia,Pedestrian,Passeriformes,Ptilonorhynchidae,Scenopoeetes dentirostris,tooth-billed bowerbird,5.2,0.716003344
+America-Australia,Pedestrian,Passeriformes,Pardalotidae,Sericornis citreogularis,yellow-throated scrubwren,5.6,0.748188027
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Sericornis frontalis,white-browed scrubwren,4.2,0.62324929
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Sericornis keri,Atherton scrubwren,4.9,0.69019608
+America-Australia,Pedestrian,Passeriformes,Pardalotidae ,Sericornis magnirostris ,large-billed scrubwren,4.4,0.643452676
+America-Australia,Pedestrian,Passeriformes,Oriolidae,Sphecotheres vieilloti,Australasian figbird,7.8,0.892094603
+America-Australia,Pedestrian,Charadriiformes,Laridae ,Sterna albifrons ,little tern ,21.5,1.33243846
+America-Australia,Pedestrian,Charadriiformes,Laridae,Sterna bergii,greater crested tern ,17.71,1.248218561
+America-Australia,Pedestrian,Charadriiformes,Laridae ,Sterna caspia ,caspian tern ,35,1.544068044
+America-Australia,Pedestrian,Charadriiformes,Laridae ,Sterna hirundo,common tern,20.5,1.311753861
+America-Australia,Pedestrian,Passeriformes,Maluridae ,Stipiturus malachurus ,southern emu-wren,7,0.84509804
+America-Australia,Pedestrian,Passeriformes,Artamidae ,Strepera graculina,pied currawong,14.8,1.170261715
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Streptopelia chinensis ,spotted dove ,12.7,1.103803721
+America-Australia,Pedestrian,Strigiformes,Strigidae,Strix occidentalis occidentalis,Mexican spotted owl,7.8,0.892094603
+America-Australia,Pedestrian,Passeriformes,Corcoracidae,Struthidea cinerea,grey jumper,20.7,1.315970345
+America-Australia,Pedestrian,Passeriformes,Icteridae,Sturnella neglecta,western meadowlark,37.73,1.576686805
+America-Australia,Pedestrian,Passeriformes,Sturnidae ,Sturnus unicolor ,spotless starling ,13.2,1.120573931
+America-Australia,Pedestrian,Passeriformes,Sturnidae ,Sturnus vulgaris,common starling ,14,1.146128036
+America-Australia,Pedestrian,Passeriformes,Monarchidae,Symposiarchus trivirgatus,spectacled monarch,5.7,0.755874856
+America-Australia,Pedestrian,Podicipediformes,Podicipedidae,Tachybaptus novaehollandiae,Australasian grebe ,37.6,1.575187845
+America-Australia,Pedestrian,Anseriformes,Anatidae,Tadorna tadornoides,Australian shelduck,122.3,2.087426457
+America-Australia,Pedestrian,Passeriformes,Estrildidae,Taeniopygia bichenovii,double-barred finch,6.2,0.792391689
+America-Australia,Pedestrian,Passeriformes,Estrildidae,Taeniopygia guttata,zebra finch,14.7,1.167317335
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Thinornis rubricollis,hooded plover,26.3,1.419955748
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Threskiornis molucca,Australian sacred ibis ,50.4,1.702430536
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Threskiornis spinicollis,straw-necked ibis,84.9,1.92890769
+America-Australia,Pedestrian,Ciconiiformes,Threskiornithidae,Threskornis molucca,Australian white ibis,35.03,1.544440137
+America-Australia,Pedestrian,Coraciiformes,Halcyonidae ,Todiramphus macleayii,forest kingfisher,11,1.041392685
+America-Australia,Pedestrian,Coraciiformes,Halcyonidae ,Todiramphus sanctus ,sacred kingfisher ,20.9,1.320146286
+America-Australia,Pedestrian,Passeriformes,Petroicidae,Tregellasia capito,pale-yellow robin,8.5,0.929418926
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Trichoglossus chlorolepidotus,scaly-breasted lorikeet,1,0
+America-Australia,Pedestrian,Psittaciformes,Psittacidae ,Trichoglossus haematodus ,rainbow lorikeet,10,1
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Tringa brevipes,grey-tailed tattler ,23,1.361727836
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Tringa hypoleucos,common sandpiper,43,1.633468456
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Tringa melanoleuca,greater yellowlegs,23,1.361727836
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae,Tringa nebularia,common greenshank,70,1.84509804
+America-Australia,Pedestrian,Charadriiformes,Scolopacidae ,Tringa stagnatilis,marsh sandpiper,44.1,1.644438589
+America-Australia,Pedestrian,Passeriformes,Turdidae ,Turdus merula,common blackbird,35.5,1.550228353
+America-Australia,Pedestrian,Passeriformes,Turdidae,Turdus migratorius,American robin,11.7,1.068185862
+America-Australia,Pedestrian,Gruiformes,Turnicidae,Turnix pyrrhothorax,red-chested button-quail,3.6,0.556302501
+America-Australia,Pedestrian,Charadriiformes,Charadriidae,Vanellus miles,masked lapwing,79.7,1.901458321
+America-Australia,Pedestrian,Charadriiformes,Charadriidae ,Vanellus tricolor,banded lapwing,74,1.86923172
+America-Australia,Pedestrian,Columbiformes,Columbidae ,Zenaida macroura ,mourning dove ,15.8,1.198657087
+America-Australia,Pedestrian,Passeriformes,Emberizidae ,Zonotrichia leucophrys ,white-crowned sparrow ,8.6,0.934498451
+America-Australia,Pedestrian,Passeriformes,Muscicapidae ,Zoothera heinei,russet-tailed thrush,11,1.041392685
+America-Australia,Pedestrian,Passeriformes,Muscicapidae ,Zoothera lunulata ,Bassian thrush,8.9,0.949390007
+America-Australia,Pedestrian,Passeriformes,Zosteropidae ,Zosterops lateralis ,silvereye ,5.5,0.740362689
+Europe,Pedestrian,Falconiformes,Accipitridae,Accipiter nisus,Eurasian sparrowhawk,10,1
+Europe,Pedestrian,Passeriformes,Sylviidae ,Acrocephalus palustris,marsh warbler,8.84,0.946452265
+Europe,Pedestrian,Passeriformes,Sylviidae ,Acrocephalus schoenobaenus ,sedge warbler,7.56,0.878521796
+Europe,Pedestrian,Passeriformes,Aegithalidae,Aegithalos caudatus,long-tailed tit,4.64,0.666517981
+Europe,Pedestrian,Passeriformes,Alaudidae,Alauda arvensis,skylark,14.9,1.173186268
+Europe,Pedestrian,Coraciiformes,Alcedinidae,Alcedo atthis,Eurasian kingfisher,16.27,1.211387553
+Europe,Pedestrian,Galliformes,Phasianidae,Alectoris rufa,red-legged partridge,30,1.477121255
+Europe,Pedestrian,Passeriformes,Estrildidae,Amandava amandava,red avadavat,6.55,0.8162413
+Europe,Pedestrian,Anseriformes,Anatidae,Anas crecca,Eurasian teal,39.23,1.593618308
+Europe,Pedestrian,Passeriformes,Motacillidae ,Anthus campestris ,tawny pipit,18.22,1.260548373
+Europe,Pedestrian,Passeriformes,Motacillidae ,Anthus pratensis,meadow pipit,16.98,1.229937686
+Europe,Pedestrian,Passeriformes,Motacillidae ,Anthus spinoletta,water pipit,3.28,0.515873844
+Europe,Pedestrian,Passeriformes,Motacillidae ,Anthus trivialis,tree pipit,13.37,1.126131407
+Europe,Pedestrian,Apodiformes,Apodidae,Apus apus,common swift,38.1,1.580924976
+Europe,Pedestrian,Ciconiiformes,Ardeidae,Ardea cinerea,grey heron,47.36,1.675411694
+Europe,Pedestrian,Anseriformes,Anatidae,Aythya fuligula,tufted duck,10.68,1.028571253
+Europe,Pedestrian,Anseriformes,Anatidae,Branta bernicla,brant goose,23.5,1.371067862
+Europe,Pedestrian,Falconiformes,Accipitridae,Buteo buteo,common buzzard,54.06,1.732876041
+Europe,Pedestrian,Falconiformes,Accipitridae,Buteo lagopus,rough-legged hawk,20.1,1.303196057
+Europe,Pedestrian,Charadriiformes,Scolopacidae,Calidris alpina,dunlin,71,1.851258349
+Europe,Pedestrian,Passeriformes,Fringillidae ,Carduelis cannabina,linnet,9.25,0.966141733
+Europe,Pedestrian,Passeriformes,Fringillidae ,Carduelis carduelis,European goldfinch ,11.5,1.06069784
+Europe,Pedestrian,Passeriformes,Fringillidae ,Carduelis chloris,European greenfinch ,6.9,0.838849091
+Europe,Pedestrian,Passeriformes,Fringillidae ,Carduelis flammea,common redpoll,4.5,0.653212514
+Europe,Pedestrian,Passeriformes,Fringillidae ,Carduelis spinus,Eurasian siskin,4.83,0.683947131
+Europe,Pedestrian,Passeriformes,Certhiidae ,Certhia familiaris,Eurasian treecreeper,4.55,0.658011397
+Europe,Pedestrian,Passeriformes,Cettiidae,Cettia cetti,Cetti's warbler,5.55,0.744292983
+Europe,Pedestrian,Charadriiformes,Charadriidae,Charadrius dubius,little ringed plover,9,0.954242509
+Europe,Pedestrian,Charadriiformes,Charadriidae,Charadrius hiaticula,ringed plover,22.5,1.352182518
+Europe,Pedestrian,Ciconiiformes,Ciconiidae,Ciconia ciconia,white stork,35,1.544068044
+Europe,Pedestrian,Passeriformes,Cisticolidae,Cisticola juncidis,streaked fantail warbler,5.32,0.725911632
+Europe,Pedestrian,Passeriformes,Fringillidae ,Coccothraustes coccothraustes ,hawfinch,8.6,0.934498451
+Europe,Pedestrian,Columbiformes,Columbidae ,Columba livia ,rock dove,3.5,0.544068044
+Europe,Pedestrian,Columbiformes,Columbidae ,Columba palumbus,common woodpigeon,11.5,1.06069784
+Europe,Pedestrian,Passeriformes,Corvidae ,Corvus corax,common raven,79.63,1.901076716
+Europe,Pedestrian,Passeriformes,Corvidae ,Corvus corone,carrion crow,27.48,1.439016728
+Europe,Pedestrian,Passeriformes,Corvidae ,Corvus frugilegus,rook ,59.9,1.777426822
+Europe,Pedestrian,Passeriformes,Corvidae ,Corvus monedula,Eurasian jackdaw ,24.6,1.390935107
+Europe,Pedestrian,Cuculiformes,Cuculidae ,Cuculus canorus,European cuckoo,25.89,1.41313205
+Europe,Pedestrian,Anseriformes,Anatidae,Cygnus columbianus,tundra swan,200,2.301029996
+Europe,Pedestrian,Anseriformes,Anatidae,Cygnus cygnus,whooper swan,155,2.190331698
+Europe,Pedestrian,Passeriformes,Hirundinidae,Delichon urbica,common house martin,6.34,0.802089258
+Europe,Pedestrian,Piciformes,Picidae ,Dendrocopos major,great spotted woodpecker,13.44,1.128399269
+Europe,Pedestrian,Piciformes,Picidae ,Dryocopus martius,black woodpecker,38.71,1.587823171
+Europe,Pedestrian,Passeriformes,Emberizidae,Emberiza cia,rock bunting,9.43,0.974511693
+Europe,Pedestrian,Passeriformes,Emberizidae,Emberiza cirlus,Cirl bunting,7,0.84509804
+Europe,Pedestrian,Passeriformes,Fringillidae ,Emberiza citrinella,yellowhammer ,12.4,1.093421685
+Europe,Pedestrian,Passeriformes,Fringillidae ,Emberiza schoeniclus,reed bunting,9.81,0.991669007
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Erithacus rubecula,European robin ,11.1,1.045322979
+Europe,Pedestrian,Falconiformes,Falconidae,Falco tinnunculus,common kestrel,30.94,1.490520309
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Ficedula hypoleuca ,European pied flycatcher,5.39,0.731588765
+Europe,Pedestrian,Passeriformes,Fringillidae ,Fringilla coelebs,chaffinch ,8.7,0.939519253
+Europe,Pedestrian,Passeriformes,Alaudidae,Galerida cristata,crested lark,14.33,1.15624619
+Europe,Pedestrian,Passeriformes,Alaudidae,Galerida theklae,Thekla lark,7.65,0.883661435
+Europe,Pedestrian,Charadriiformes,Scolopacidae,Gallinago gallinago,common snipe,72,1.857332496
+Europe,Pedestrian,Gruiformes,Rallidae,Gallinula chloropus,common moorhen,10.03,1.001300933
+Europe,Pedestrian,Passeriformes,Corvidae ,Garrulus glandarius,Eurasian jay,11.76,1.070407322
+Europe,Pedestrian,Charadriiformes,Haematopodidae,Haematopus ostralegus,Eurasian oystercatcher ,82,1.913813852
+Europe,Pedestrian,Passeriformes,Acrocephalidae,Hippolais icterina,Icterine warbler,7.52,0.876217841
+Europe,Pedestrian,Passeriformes,Hirundinidae ,Hirundo daurica,red-rumped swallow,8.06,0.906335042
+Europe,Pedestrian,Passeriformes,Hirundinidae ,Hirundo rustica,barn swallow,10.16,1.006893708
+Europe,Pedestrian,Ciconiiformes,Ardeidae,Ixobrychus minutus,little bittern,35,1.544068044
+Europe,Pedestrian,Passeriformes,Laniidae,Lanius collurio,red-backed shrike,7.27,0.861534411
+Europe,Pedestrian,Passeriformes,Laniidae,Lanius excubitor,great grey shrike,21.16,1.325515663
+Europe,Pedestrian,Passeriformes,Laniidae,Lanius senator,woodchat shrike,10.99,1.040997692
+Europe,Pedestrian,Charadriiformes,Laridae,Larus canus,common gull,59.94,1.777716739
+Europe,Pedestrian,Charadriiformes,Laridae,Larus fuscus,lesser black-backed gull,25,1.397940009
+Europe,Pedestrian,Charadriiformes,Laridae,Larus marinus,great black-backed gull,68,1.832508913
+Europe,Pedestrian,Charadriiformes,Laridae,Larus ridibundus,black-headed gull,41.2,1.614897216
+Europe,Pedestrian,Passeriformes,Locustellidae,Locustella naevia,common grasshopper warbler,15.03,1.176958981
+Europe,Pedestrian,Passeriformes,Fringillidae ,Loxia curvirostra,common crossbill,4.74,0.675778342
+Europe,Pedestrian,Passeriformes,Alaudidae,Lullula arborea ,woodlark,12.14,1.084218687
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Luscinia luscinia ,thrush nightingale,15.89,1.201123897
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Luscinia megarhynchos,common nightingale,8.16,0.911690159
+Europe,Pedestrian,Coraciiformes,Meropidae,Merops apiaster,European bee-eater,37.02,1.568436414
+Europe,Pedestrian,Passeriformes,Emberizidae,Miliaria calandra,corn bunting,9.13,0.960470778
+Europe,Pedestrian,Passeriformes,Muscicapidae,Monticola saxatilis,common rock thrush,16.67,1.2219356
+Europe,Pedestrian,Passeriformes,Motacillidae,Motacilla alba,white wagtail,8.6,0.934498451
+Europe,Pedestrian,Passeriformes,Motacillidae,Motacilla cinerea,grey wagtail,6.3,0.799340549
+Europe,Pedestrian,Passeriformes,Motacillidae,Motacilla flava ,yellow wagtail ,9.7,0.986771734
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Muscicapa striata,spotted flycatcher,8.5,0.929418926
+Europe,Pedestrian,Charadriiformes,Scolopacidae,Numenius americanus ,long-billed curlew ,25.7,1.409933123
+Europe,Pedestrian,Charadriiformes,Scolopacidae,Numenius arquata,Eurasian curlew ,62.75,1.79761373
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Oenanthe oenanthe,northern wheatear,16.25,1.210853365
+Europe,Pedestrian,Passeriformes,Oriolidae ,Oriolus oriolus,Eurasian golden oriole,39.67,1.5984622
+Europe,Pedestrian,Passeriformes,Paridae ,Parus ater,coal tit ,5.09,0.706717782
+Europe,Pedestrian,Passeriformes,Paridae ,Parus caeruleus,European blue tit ,4.8,0.681241237
+Europe,Pedestrian,Passeriformes,Paridae ,Parus cristatus,crested tit,6.08,0.783903579
+Europe,Pedestrian,Passeriformes,Paridae ,Parus major,great tit ,5.9,0.770852012
+Europe,Pedestrian,Passeriformes,Paridae ,Parus palustris,marsh tit,6.88,0.837588438
+Europe,Pedestrian,Passeriformes,Fringillidae ,Passer domesticua,house sparrow ,12.4,1.093421685
+Europe,Pedestrian,Passeriformes,Fringillidae ,Passer hispaniolensis,Spanish sparrow,11.94,1.077004327
+Europe,Pedestrian,Passeriformes,Fringillidae ,Passer montanus,Eurasian tree-sparrow ,5.11,0.7084209
+Europe,Pedestrian,Galliformes,Phasianidae,Perdix perdix,grey partridge,32.71,1.514680544
+Europe,Pedestrian,Galliformes,Phasianidae,Phasianus colchicus,ring-necked pheasant,62.2,1.793790385
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Phoenicurus ochruros,black redstart,6.95,0.841984805
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Phoenicurus phoenicurus,common redstart,9.1,0.959041392
+Europe,Pedestrian,Passeriformes,Phylloscopidae,Phylloscopus bonelli,western Bonelli's warbler ,4.95,0.694605199
+Europe,Pedestrian,Passeriformes,Phylloscopidae,Phylloscopus trochilus,willow warbler,6.28,0.797959644
+Europe,Pedestrian,Passeriformes,Corvidae ,Pica pica,black-billed magpie,13,1.113943352
+Europe,Pedestrian,Piciformes,Picidae,Picus viridis,Eurasian green woodpecker,17,1.230448921
+Europe,Pedestrian,Piciformes,Picidae ,Picus viridis ,Eurasian green woodpecker ,16.5,1.217483944
+Europe,Pedestrian,Passeriformes,Prunellidae,Prunella modularis,dunnock ,9.2,0.963787827
+Europe,Pedestrian,Passeriformes,Fringillidae ,Pyrrhula pyrrhula,Eurasian bullfinch,5.9,0.770852012
+Europe,Pedestrian,Passeriformes,Regulidae ,Regulus ignicapillus,common firecrest,5.25,0.720159303
+Europe,Pedestrian,Passeriformes,Regulidae ,Regulus regulus,goldcrest,4.07,0.609594409
+Europe,Pedestrian,Passeriformes,Remizidae,Remiz pendulinus,Eurasian penduline tit,6.17,0.790285164
+Europe,Pedestrian,Passeriformes,Hirundinidae,Riparia riparia,sand martin,23.1,1.36361198
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Saxicola rubetra,whinchat,16.65,1.221414238
+Europe,Pedestrian,Passeriformes,Muscicapidae ,Saxicola torquata,African stonechat,9.14,0.960946196
+Europe,Pedestrian,Passeriformes,Fringillidae ,Serinus serinus,European serin,5.07,0.705007959
+Europe,Pedestrian,Passeriformes,Sittidae,Sitta europaea,Eurasian nuthatch,6.59,0.818885415
+Europe,Pedestrian,Columbiformes,Columbidae ,Streptopelia decaocto,Eurasian collared dove,5.38,0.730782276
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia atricapilla,blackcap,5.73,0.758154622
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia borin,garden warbler,6.44,0.808885867
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia cantillans,subalpine warbler,5.69,0.755112266
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia communis,whitethroat ,11.7,1.068185862
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia conspicillata,spectacled warbler,7.27,0.861534411
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia curruca,lesser whitethroat,4.7,0.672097858
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia melanocephala,Sardinian warbler,5.9,0.770852012
+Europe,Pedestrian,Passeriformes,Sylviidae,Sylvia undata,Dartford warbler,10.86,1.035829825
+Europe,Pedestrian,Anseriformes,Anatidae,Tadorna tadorna,shelduck,48.57,1.686368103
+Europe,Pedestrian,Galliformes,Tetraonidae,Tetrao tetrix,black grouse,17,1.230448921
+Europe,Pedestrian,Galliformes,Tetraonidae,Tetrao urogallus,capercaillie,27,1.431363764
+Europe,Pedestrian,Charadriiformes,Scolopacidae,Tringa totanus,redshank,29.71,1.472902652
+Europe,Pedestrian,Passeriformes,Troglodytidae,Troglodytes troglodytes,Eurasian wren,5.64,0.751279104
+Europe,Pedestrian,Passeriformes,Turdidae ,Turdus iliacus,redwing,12.75,1.105510185
+Europe,Pedestrian,Passeriformes,Turdidae,Turdus philomelos,song thrush ,15.8,1.198657087
+Europe,Pedestrian,Passeriformes,Turdidae,Turdus pilaris,fieldfare,14.21,1.152594078
+Europe,Pedestrian,Passeriformes,Turdidae ,Turdus viscivorus,mistle thrush,19.33,1.286231854
+Europe,Pedestrian,Coraciiformes,Upupidae,Upupa epops,hoopoe,19.96,1.300160537
+Europe,Pedestrian,Charadriiformes,Charadriidae ,Vanellus vanellus,northern lapwing,41.32,1.616160313
