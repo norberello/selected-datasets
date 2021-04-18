@@ -1,6 +1,4 @@
 ﻿Name,Age,Nationality,Cause,Location,,Month,Day,Year
-Sergei Arsentiev,, United Kingdom,fall,N.E. Ridge,,May,24,1998
-Mike Rheinberger,53, Australia,exposure,8500m NE,,May,27,1994
 Tuk Bahadur Thapa Magar Sherpa,,   Nepal,Altitude sickness,5500m N.E. Ridge,,April,7,2006
 Karma Gyalzen Sherpa,,   Nepal,Altitude sickness,6000m S.E. Ridge,,May,24,2003
 Shailendra Kumar Upadhyaya,82,   Nepal,Altitude sickness,Base Camp,,May,9,2011
@@ -81,20 +79,23 @@ Eugeniusz Chrobak,30, Poland,Avalanche,Lhola camp,,May,28,1989
 Jangbu Sherpa,,   Nepal,Avalanche,Base Camp,,May,1,2015
 Lance-Naik Shamsherpun,,   Nepal,Brain hemorrhage,Above Rongbuk B.C.,,May,17,1924
 Gjeorgi Petkov,63, Macedonia,Cardiac arrest,Above Camp III,,May,20,2018
-Charles MacAdams,62, Canada,Cardiac arrest,Base Camp North Side,,May,11,2016
-Christopher Jon Kulish,62, United Kingdom,Cardiac arrest,South Col,,May,27,2019
+Charles MacAdams,62, Canada,Heart attack,Base Camp North Side,,May,11,2016
+Christopher Jon Kulish,62, United Kingdom,Heart attack,South Col,,May,27,2019
 Hiroaki Kino,48, Japan,Cerebral apoplexy,Lower Icefall,,September,15,2011
 Prem Thapa,,   Nepal,Cerebral oedema,,,April,6,1994
 Mark Auricht,, Australia,Cerebral oedema,N.E. Ridge,,May,24,2001
 Eberhard Schaaf,61, Germany,Cerebral oedema,Hillary Step,,May,19,2012
 Scott Fischer,40, United Kingdom,Cerebral oedema,8300m S.E. Ridge,,May,11,1996
+Tom Jørgensen,56, Denmark,Cerebral oedema,Unknown,,May,19,2010
+Mingma Tenzing Sherpa,,   Nepal,Cerebral oedema,Everest Base Camp,,April,2,2014
+Karl Henize,66, United Kingdom,Cerebral oedema,6400m,,October,5,1993
 Ang Lhakpa,,   Nepal,Cerebral thrombosis,South Col,,December,23,1988
 Ngawang Topche,,   Nepal,Comma,Camp II,,June,6,1996
-Gyalu,,   Nepal,Crushed under serac,Icefall,,October,4,1986
-Blair Griffiths,33, Canada,Crushed under serac,Icefall,,September,2,1982
-Mario Piana,, Italy,Crushed under serac,Lhotse Face,,September,22,1980
-Jake Breitenbach,27, United Kingdom,Crushed under serac,Icefall,,March,23,1963
-Tony Tighe,, Australia,Crushed under serac,Icefall,,November,16,1972
+Gyalu,,   Nepal,Fall,Icefall,,October,4,1986
+Blair Griffiths,33, Canada,Fall,Icefall,,September,2,1982
+Mario Piana,, Italy,Fall,Lhotse Face,,September,22,1980
+Jake Breitenbach,27, United Kingdom,Fall,Icefall,,March,23,1963
+Tony Tighe,, Australia,Fall,Icefall,,November,16,1972
 Pasang Lhamu Sherpa,32,   Nepal,Dissappearance,8750m S.E. Ridge,,April,23,1993
 Tenzing Nuru,,   Nepal,Dissappearance,S.E. Ridge,,September,8,1997
 Peter Kowalzik,, Germany,Dissappearance,N.E. Ridge,,May,8,1997
@@ -129,6 +130,7 @@ Nihal Bagwan,27, India,Exhaustion,near South Col,,May,23,2019
 Anjali S Kulkarni,54, India,Exhaustion,Near Camp IV,,May,23,2019
 Kalpana Dash,52, India,Exhaustion,Near Balcony,,May,23,2019
 Wu Zhuong Yue [note 4],, China,Exhaustion,8500m,,May,4,1975
+Mike Rheinberger,53, Australia,Exposure,8500m NE,,May,27,1994
 Hristo Ganchev Hristov,27, Bulgaria,Exposure,8600m N.E. Ridge,,May,20,2004
 Mariana Prodanova Maslarova,43, Bulgaria,Exposure,8700m N.E. Ridge,,May,23,2004
 Michel Parmentier,, France,Exposure,7700m,,September,20,1988
@@ -162,6 +164,9 @@ Hannelore Schmatz,39,,Exposure,8400m S.E. Ridge,,October,2,1979
 Robert William Milne,49, United Kingdom,Exposure,8200m S.E. Ridge,,June,5,2005
 Maurice Wilson,36, United Kingdom,Exposure,East Rongbuk Glacier,,May,31,1934
 Aleksei Nikiforov,, Russia,Exposure,8500m N.E. Ridge,,May,24,2001
+Frank Ziebarth,29, Canada,Exposure,8700m North Summit,,May,21,2009
+Nobukazu Kuriki,36, Japan,Exposure,Camp II,,May,21,2018
+Sergei Arsentiev,, United Kingdom,Fall,N.E. Ridge,,May,24,1998
 Kyak Tsering,36,   Nepal,Fall,5525 m,,April,9,1970
 Chris Daly,35, United Kingdom,Fall,Base Camp,,April,20,2019
 Shahid Abdul Khader,21, India,Fall,North Col,,July,24,1998
@@ -228,10 +233,7 @@ George Mallory,37, United Kingdom,Fall,N.E. Ridge,,June,9,1924
 Séamus (Shay) Lawless,39, Ireland,Fall,Balcony,,May,16,2019
 Marco Siffredi,23, France,Fall,Hornbein Couloir,,September,8,2002
 Harsh Vardhan,31, India,Fall,6900m,,April,18,1971
-Dorje Mingma,,   Nepal,Falling ice,Lhotse Face,,October,31,1952
-Tom Jørgensen,56, Denmark,Cerebral oedema,Unknown,,May,19,2010
-Mingma Tenzing Sherpa,,   Nepal,Cerebral oedema,Everest Base Camp,,April,2,2014
-Karl Henize,66, United Kingdom,Cerebral oedema,6400m,,October,5,1993
+Dorje Mingma,,   Nepal,Icefall,Lhotse Face,,October,31,1952
 Subba Singh,43,   Nepal,Heart attack,Unknown,,May,11,1992
 Min Bahadur Sherchan,85,   Nepal,Heart attack,Base Camp,,May,5,2017
 Sean Egan,63, Canada,Heart attack,4600m S.E. Ridge,,April,28,2005
@@ -240,8 +242,9 @@ Kiyoshi Narita,, Japan,Heart attack,6150m,,April,21,1970
 Rick Hitch,55, United Kingdom,Heart attack,7010m,,May,1,2011
 Hidetaka Mizukoshi,, Japan,Heart attack,Base camp,,April,21,1988
 Malcolm Duff,, United Kingdom,Heart attack,Base Camp,,April,23,1997
-Frank Ziebarth,29, Canada,Exposure,8700m North Summit,,May,21,2009
-Nobukazu Kuriki,36, Japan,Exposure,Camp II,,May,21,2018
+Pasang Norbu Sherpa,41,   Nepal,Heart attack,8550m N.E. Ridge,,May,18,2018
+Ramesh Gulve,33, India,Heart attack,Base Camp,,April,20,2012
+Dawa Tenzing,,   Nepal,Heart attack,Icefall,,April,5,2012
 Mingma Nuru Sherpa,46,   Nepal,Icefall,2014 Mount Everest Avalanche,,April,18,2014
 Dorji Sherpa,,   Nepal,Icefall,Unknown,,April,18,2014
 Ang Tshiri Sherpa,,   Nepal,Icefall,Unknown,,April,18,2014
@@ -264,9 +267,6 @@ Marko Lihteneker,45, Slovakia,Oxygen problems,8600m N.E. Ridge,,May,21,2005
 Man Bahadur,,   Nepal,Pneumonia,Above Rongbuk B.C.,,May,13,1924
 Bruce Herrod,37, United Kingdom,Rope accident,"S.E. Ridge, Hillary Step",,May,25,1996
 Maria Elizabeth Strydom,34, Australia,Snow blindness,Near Camp IV,,May,22,2016
-Pasang Norbu Sherpa,41,   Nepal,Heart attack,8550m N.E. Ridge,,May,18,2018
-Ramesh Gulve,33, India,Heart attack,Base Camp,,April,20,2012
-Dawa Tenzing,,   Nepal,Heart attack,Icefall,,April,5,2012
 Peter Božík,34, Czechoslovakia,Unknown,8000m S.W. Ridge,,October,17,1988
 Jaroslav Jaško,26, Czechoslovakia,Unknown,8000m S.W. Ridge,,October,17,1988
 Jozef Just,33, Czechoslovakia,Unknown,8000m S.W. Ridge,,October,17,1988
