@@ -14,8 +14,10 @@ everest.deaths<-read.csv("https://raw.githubusercontent.com/norberello/selected-
 head(everest.deaths)
 ```
 
-links to R libraries with datasets
+links to R to other useful datasets
 
 <https://www.rdocumentation.org/packages/openintro/versions/2.0.0>
  
 <https://rdrr.io/cran/UsingR/>
+
+<https://openpsychometrics.org/_rawdata/>
