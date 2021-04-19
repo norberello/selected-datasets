@@ -1,7 +1,7 @@
 # selected-datasets
-<a href="https://www.qries.com/">
+<a href="https://github.com/norberello/selected-datasets/tree/main/files">
          <img alt="Qries" src="opendoor.jpg"
-         width=150" height="70">
+         width=500">
       </a>
 
 Some selected datasets in CSV format
