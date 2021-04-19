@@ -1,5 +1,9 @@
 # selected-datasets
-<img src = "opendoor.jpg" alt = "open door image" />
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="opendoor.jpg"
+         width=150" height="70">
+      </a>
+
 Some selected datasets in CSV format
 
 datasets are in the folder `files`
