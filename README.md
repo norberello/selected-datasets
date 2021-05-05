@@ -28,3 +28,7 @@ links to some interesting dataset sites
 <https://rdrr.io/cran/UsingR/>
 
 <https://openpsychometrics.org/_rawdata/>
+
+<https://guides.library.ucla.edu/psychology/data>
+
+<https://www.psychdata.de/index.php?main=search&sub=browse&lang=eng>
