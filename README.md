@@ -31,4 +31,4 @@ links to some interesting dataset sites
 
 <https://guides.library.ucla.edu/psychology/data>
 
-<https://www.psychdata.de/index.php?main=search&sub=browse&lang=eng>
+<https://www.discoveringstatistics.com/repository/fieldgillett/how_to_do_a_meta_analysis.html>
