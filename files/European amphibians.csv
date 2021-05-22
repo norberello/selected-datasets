@@ -1,0 +1,87 @@
+﻿Anurans/Urodela;Species;Synonyms;Family;"Invasive Species (Yes/No)";"Species living out of Europe";References;"Number of publications used";"% of missing values"
+A;"Alytes cisternasii ";-;Discoglossidae;No;No;"1, 2, 3, 4, 5, 6, 7";7;11.46
+A;"Alytes dickhilleni";-;Discoglossidae;No;No;"4, 8";2;26.09
+A;"Alytes muletensis";-;Discoglossidae;No;No;"4, 7, 9";3;21.34
+A;"Alytes obstetricans";-;Discoglossidae;No;No;"2, 3, 5, 6, 10, 11, 12, 13, 14, 15, 16, 17";12;5.14
+A;"Anaxyrus americanus";"Bufo americanus";Bufonidae;Yes;Yes;"7, 137, 228, 229";4;13.83
+U;"Atylodes genei";-;Plethodontidae;No;No;"4, 138, 139, 140, 141, 142";6;22.53
+A;"Bombina bombina";-;Bombinatoridae;No;Yes;"4, 6, 18, 19, 20, 21";6;3.56
+A;"Bombina pachypus";-;Bombinatoridae;No;No;"6, 19";2;50.59
+A;"Bombina variegata";-;Bombinatoridae;No;No;"4, 11, 13, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33";16;7.11
+A;"Bufo bufo";-;Bufonidae;No;Yes;"4, 5, 6, 11, 13, 14, 15, 19, 26, 30, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 48, 49, 50";24;1.98
+A;"Bufo mauritanicus";-;Bufonidae;No;Yes;"12, 48";2;30.83
+U;"Calotriton arnoldi";-;Salamandridae;No;No;"139, 142, 143";3;54.15
+U;"Calotriton asper";"Euproctus asper";Salamandridae;No;No;"4, 11, 13, 139, 140, 141, 144, 145, 146, 147, 148, 149, 150, 151";14;7.91
+U;"Chioglossa lusitanica";-;Salamandridae;No;No;"4, 139, 140, 141, 152, 156, 157, 158";8;10.28
+A;"Discoglossus galganoi";"Discoglossus hispanicus";Discoglossidae;No;No;"4, 7, 49";3;15.81
+A;"Discoglossus jeanneae";-;Discoglossidae;No;No;"4, 50, 51";3;24.11
+A;"Discoglossus montalentii";-;Discoglossidae;No;No;"11, 52";2;22.92
+A;"Discoglossus pictus";-;Discoglossidae;No;Yes;"4, 6, 11, 53, 54, 55";6;13.44
+A;"Discoglossus sardus";-;Discoglossidae;No;No;"4, 11, 52, 56, 57";5;18.97
+A;"Epidalea calamita";"Bufo calamita";Bufonidae;No;Yes;"4, 11, 13, 15, 25, 26, 56, 58, 59, 60, 61, 62, 63, 66";14;1.19
+U;"Euproctus montanus";-;Salamandridae;No;No;"4, 7, 139, 141, 157";5;17.79
+U;"Euproctus platycephalus";-;Salamandridae;No;No;"4, 139, 141, 157, 158";5;13.44
+A;"Hyla arborea";-;Hylidae;No;Yes;"4, 5, 11, 13, 15, 58, 66, 67, 68, 69, 70, 71, 72, 73";14;2.37
+A;"Hyla intermedia";"Hyla italica";Hylidae;No;No;"4, 57, 58, 67, 74";5;39.13
+A;"Hyla meridionalis";-;Hylidae;No;Yes;"7, 11, 12, 13, 58, 75";6;9.88
+A;"Hyla sarda";-;Hylidae;No;No;"11, 26, 57, 67";4;13.04
+U;"Lissotriton boscai";"Triturus boscai";Salamandridae;No;No;"4, 139, 140, 141, 159, 161, 162, 163, 164";9;15.02
+U;"Lissotriton helveticus";"Triturus helveticus";Salamandridae;No;No;"4, 11, 13, 15, 26, 59, 139, 140, 141, 150, 163, 164, 165, 166";14;7.91
+U;"Lissotriton italicus";"Triturus italicus";Salamandridae;No;No;"4, 139, 159, 167";4;18.18
+U;"Lissotriton montandoni";"Triturus montandoni";Salamandridae;No;No;"4, 139, 140, 141, 159, 168, 169";7;18.18
+U;"Lissotriton vulgaris";"Triturus vulgaris";Salamandridae;No;Yes;"4, 11, 14, 15, 18, 19, 26, 44, 59, 139, 140, 141, 150, 164, 169, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184";28;5.53
+A;"Lithobates catesbeianus";"Rana catesbeiana";Ranidae;Yes;Yes;"4, 5, 11, 13, 15, 26, 76, 77, 78, 79, 80, 81";12;4.35
+A;"Lithobates sylvaticus";"Rana sylvatica";Ranidae;Yes;Yes;"5, 7, 230, 231, 232";5;13.44
+U;"Lyciasalamandra helverseni";"Mertensiella luschani helverseni ";Salamandridae;No;No;"139, 182";2;49.80
+U;"Lyciasalamandra luschani";"Mertensiella luschani ";Salamandridae;No;Yes;"4, 140, 184, 185, 186, 187";6;14.62
+U;"Mesotriton alpestris";"Triturus alpestris, Ichthyosaura alpestris";Salamandridae;No;No;"4, 11, 14, 15, 19, 26, 59, 140, 141, 142, 151, 164, 165, 176, 188, 189, 190, 191, 192";19;6.72
+A;"Pelobates cultripes";-;Pelobatidae;No;No;"4, 6, 11, 13, 56, 82, 83";7;11.46
+A;"Pelobates fuscus";-;Pelobatidae;No;Yes;"4, 5, 6, 11, 19, 26, 84, 85, 86, 87";10;5.14
+A;"Pelobates syriacus";"Pelobates transcaucasicus";Pelobatidae;No;Yes;4;1;17.00
+A;"Pelodytes ibericus";-;Pelodytidae;No;No;"4, 88, 89";3;17.79
+A;"Pelodytes punctatus";-;Pelodytidae;No;No;"4, 11, 13, 15, 58, 89";6;13.04
+A;"Pelophylax bedriagae";"Rana bedriagae";Ranidae;No;Yes;"4, 90";2;23.32
+A;"Pelophylax bergeri";"Rana bergeri";Ranidae;No;No;4;1;22.13
+A;"Pelophylax cerigensis";"Rana cerigensis";Ranidae;No;No;"4, 91";2;31.23
+A;"Pelophylax cretensis";"Rana cretensis";Ranidae;No;No;"4, 92";2;31.23
+A;"Pelophylax epeiroticus";"Rana epeirotica";Ranidae;No;No;"4, 93, 94, 95, 96";5;24.51
+A;"Pelophylax esculentus";"Rana esculenta";Ranidae;No;Yes;"4, 6, 14, 15, 18, 97, 98, 99, 100, 101, 102";11;5.14
+A;"Pelophylax grafi";"Rana grafi";Ranidae;No;No;"4, 26, 97";3;23.72
+A;"Pelophylax hispanicus";"Rana hispanica";Ranidae;No;No;"4, 51";2;51.78
+A;"Pelophylax kurtmuelleri";"Rana kurtmuelleri";Ranidae;No;No;"4, 51";2;28.85
+A;"Pelophylax lessonae";"Rana lessonae";Ranidae;No;Yes;"4, 6, 14, 15, 26, 97, 98, 99, 100, 101, 103, 104, 105";13;4.35
+A;"Pelophylax perezi";"Rana perezi";Ranidae;No;No;"4, 5, 26, 97, 106";5;15.81
+A;"Pelophylax ridibundus";"Rana ridibunda";Ranidae;No;Yes;"4, 14, 15, 58, 97, 99, 100, 102, 107, 108, 109, 110, 111, 112";14;3.95
+A;"Pelophylax shqipericus";"Rana shqiperica";Ranidae;No;No;"4, 113";2;34.78
+U;"Pleurodeles waltl"; ;Salamandridae;No;Yes;"4, 7, 12, 140, 141, 142, 177, 193";8;13.83
+U;"Proteus anguinus";"Siren anguina";Proteidae;No;No;"4, 140, 141, 142, 148, 149, 194";7;14.23
+A;"Pseudepidalea viridis";"Bufo viridis, Bufotes viridis";Bufonidae;No;Yes;"4, 11, 12, 26, 30, 51, 58, 90, 115, 116, 117, 118, 119";13;5.93
+A;"Rana arvalis";-;Ranidae;No;Yes;"4, 11, 15, 19, 58, 120";6;6.72
+A;"Rana dalmatina";"Rana agilis";Ranidae;No;Yes;"4, 11, 13, 15, 30, 46, 58, 121, 122, 123";10;3.56
+A;"Rana graeca";-;Ranidae;No;No;"4, 58";2;12.65
+A;"Rana iberica";-;Ranidae;No;No;"4, 5, 58, 123";4;12.25
+A;"Rana italica";-;Ranidae;No;No;"4, 51";2;23.72
+A;"Rana latastei";-;Ranidae;No;No;"4, 58, 124, 125";4;15.02
+A;"Rana pyrenaica";-;Ranidae;No;No;"4, 11, 13, 26, 126, 127";6;17.39
+A;"Rana temporaria";-;Ranidae;No;Yes;"4, 5, 11, 13, 14, 15, 19, 26, 44, 58, 120, 121, 126, 128, 129, 130, 131, 132, 133";19;2.37
+U;"Salamandra algira";-;Salamandridae;No;Yes;"12, 140";2;32.02
+U;"Salamandra atra";-;Salamandridae;No;No;"4, 11, 140, 141, 142, 151, 195, 196";8;18.58
+U;"Salamandra corsica";-;Salamandridae;No;No;"26, 140, 197";3;22.92
+U;"Salamandra lanzai";-;Salamandridae;No;No;"11, 26, 140, 198, 199, 200";6;17.79
+U;"Salamandra salamandra";-;Salamandridae;No;No;"11, 13, 14, 15, 19, 140, 141, 142, 151, 200, 201, 202, 203, 204, 205";15;9.88
+U;"Salamandrina perspicillata";-;Salamandridae;No;No;"140, 142, 206, 207, 208, 209";6;58.89
+U;"Salamandrina terdigitata";"Molge tridactyla";Salamandridae;No;No;"4, 140, 141, 208";4;24.51
+U;"Speleomantes ambrosii";-;Plethodontidae;No;No;"4, 139, 140";3;14.62
+U;"Speleomantes flavus";-;Plethodontidae;No;No;"4, 139, 140";3;39.13
+U;"Speleomantes imperialis";-;Plethodontidae;No;No;"4, 139, 140";3;17.00
+U;"Speleomantes italicus";-;Plethodontidae;No;No;"4, 139, 140, 141";4;16.21
+U;"Speleomantes sarrabusensis";-;Plethodontidae;No;No;4;1;44.27
+U;"Speleomantes strinatii";-;Plethodontidae;No;No;"4, 11, 26, 140, 211";5;15.02
+U;"Speleomantes supramontis";-;Plethodontidae;No;No;"4, 139, 140";3;39.13
+U;"Triturus carnifex";-;Salamandridae;No;No;"4, 18, 36, 140, 160, 176, 197, 212, 213, 214";10;8.70
+U;"Triturus cristatus";-;Salamandridae;No;Yes;"4, 11, 15, 18, 19, 26, 44, 56, 59, 140, 141, 142, 151, 160, 165, 173, 174, 175, 176, 177, 181, 215, 216, 217, 218, 219";26;4.35
+U;"Triturus dobrogicus";-;Salamandridae;No;No;"4, 18, 85, 140, 160, 176, 177, 220";8;26.09
+U;"Triturus karelinii";-;Salamandridae;No;Yes;"4, 140, 142, 160, 176, 177, 221, 222, 223";9;40.71
+U;"Triturus marmoratus";-;Salamandridae;No;No;"4, 11, 13, 18, 26, 56, 140, 142, 160, 164, 215, 216, 217, 224, 225";15;10.67
+U;"Triturus pygmaeus";-;Salamandridae;No;No;"4, 140, 141, 160, 224, 226, 227";7;18.18
+A;"Xenopus laevis";"Bufo laevis";Pipidae;Yes;Yes;"5, 11, 26, 134, 135, 136";6;11.86
