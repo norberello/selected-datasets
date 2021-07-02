@@ -21,6 +21,12 @@ everest.deaths<-read.csv("https://raw.githubusercontent.com/norberello/selected-
 head(everest.deaths)
 ```
 
+or for a particular dataset within a library:
+
+```
+data("Boston", package = "MASS")
+```
+                                                                                                                      
 links to some interesting dataset sites
 
 <https://www.rdocumentation.org/packages/openintro/versions/2.0.0>
@@ -31,4 +37,8 @@ links to some interesting dataset sites
 
 <https://guides.library.ucla.edu/psychology/data>
 
-<https://www.discoveringstatistics.com/repository/fieldgillett/how_to_do_a_meta_analysis.html>
+<https://www.discoveringstatistics.com/repository/fieldgillett/how_to_do_a_meta_analysis.html>https://cran.r-project.org/web/packages/MASS/MASS.pdf>
+                                                                                                                                                                                                                                         
+
+                                                                                                                      
+                                                                                                                      
