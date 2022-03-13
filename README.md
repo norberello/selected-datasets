@@ -38,6 +38,8 @@ links to some interesting dataset sites
 <https://guides.library.ucla.edu/psychology/data>
 
 <https://www.discoveringstatistics.com/repository/fieldgillett/how_to_do_a_meta_analysis.html>https://cran.r-project.org/web/packages/MASS/MASS.pdf>
+                               
+<http://users.stat.ufl.edu/~winner/datasets.html>
    
 ```                              
 library(FactoMineR)#check data here
