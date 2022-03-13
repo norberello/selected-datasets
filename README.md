@@ -42,6 +42,8 @@ links to some interesting dataset sites
 <http://users.stat.ufl.edu/~winner/datasets.html>
                                
 <https://corgis-edu.github.io/corgis/csv/?>
+                               
+<https://www.kaggle.com>
    
 ```                              
 library(FactoMineR)#check data here
