@@ -40,6 +40,8 @@ links to some interesting dataset sites
 <https://www.discoveringstatistics.com/repository/fieldgillett/how_to_do_a_meta_analysis.html>https://cran.r-project.org/web/packages/MASS/MASS.pdf>
                                
 <http://users.stat.ufl.edu/~winner/datasets.html>
+                               
+<https://corgis-edu.github.io/corgis/csv/?>
    
 ```                              
 library(FactoMineR)#check data here
