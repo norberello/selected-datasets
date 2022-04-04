@@ -1,0 +1,212 @@
+"","X","pais","Country","huella.ecol","esp.vida","mort.","emig.per","sop.soc.","libert.","corrup.","generos.","felicidad"
+"1",1,"AfganistÃ¡n","Afghanistan",0.79,65,6,15.9,151,155,136,137,2
+"2",2,"Albania","Albania",2.21,79,8,42.41,133,87,134,60,49
+"3",8,"Argelia","Algeria",2.12,77,5,NA,101,149,46,128,68
+"4",4,"Andorra","Andorra",NA,NA,4,11.75,46,54,109,123,109
+"5",5,"Angola","Angola",0.93,61,8,2.08,NA,NA,NA,NA,NA
+"6",6,"Antigua y Barbuda","Antigua and Barbuda",5.38,77,6,56.73,NA,NA,NA,NA,NA
+"7",9,"Argentina","Argentina",3.14,77,8,2.26,NA,NA,NA,NA,NA
+"8",10,"Armenia","Armenia",2.23,75,10,32.6,117,123,93,129,40
+"9",195,"Aruba","Aruba",11.88,76,9,NA,NA,NA,NA,NA,NA
+"10",11,"Australia","Australia",9.31,83,7,2.26,7,17,13,6,145
+"11",12,"Austria","Austria",6.06,82,9,6.47,31,26,19,25,146
+"12",13,"AzerbaiyÃ¡n","Azerbaijan",2.31,73,6,11.48,104,101,22,146,66
+"13",14,"Bahamas","Bahamas",6.84,74,7,11.93,NA,NA,NA,NA,NA
+"14",17,"BarÃ©in","Bahrain",7.49,77,2,4.05,NA,NA,NA,NA,NA
+"15",15,"BangladÃ©s","Bangladesh",0.72,73,6,4.81,126,27,36,107,31
+"16",16,"Barbados","Barbados",4.48,79,9,39.35,NA,NA,NA,NA,NA
+"17",21,"Bielorrusia","Belarus",5.09,74,13,15.74,33,131,37,103,75
+"18",18,"BÃ©lgica","Belgium",7.44,82,10,5.05,22,53,20,44,138
+"19",19,"Belice","Belice",NA,75,5,16.7,NA,NA,NA,NA,NA
+"20",20,"BenÃ­n","Benin",1.41,62,9,5.65,153,103,75,116,54
+"21",196,"Bermuda","Bermuda",5.77,82,8,NA,NA,NA,NA,NA,NA
+"22",197,"Bhutan","Bhutan",4.84,72,6,6.45,NA,NA,NA,NA,NA
+"23",23,"Bolivia","Bolivia",2.96,72,7,7.63,93,35,91,104,95
+"24",24,"Bosnia y Herzegovina","Bosnia and Herzegovina",3.12,77,11,50.08,NA,NA,NA,NA,NA
+"25",25,"Botsuana","Botswana",3.83,70,6,3.76,105,60,54,150,8
+"26",26,"Brasil","Brazil",3.11,76,7,0.83,43,84,71,108,124
+"27",198,"British Virgin Islands","British Virgin Islands",2.86,NA,NA,NA,NA,NA,NA,NA,NA
+"28",27,"BrunÃ©i","BrunÃ©i",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",199,"Brunei","Brunei",4.06,76,5,10.21,NA,NA,NA,NA,NA
+"30",28,"Bulgaria","Bulgaria",3.32,75,16,22.18,18,115,147,112,59
+"31",29,"Burkina Faso","Burkina Faso",1.21,62,8,7.78,116,127,47,125,41
+"32",30,"Burundi","Burundi",0.8,62,8,5.41,NA,NA,NA,NA,NA
+"33",31,"ButÃ¡n","ButÃ¡n",NA,72,6,6.45,NA,NA,NA,NA,NA
+"34",33,"Camboya","Cambodia",1.21,70,6,7.04,109,2,94,61,47
+"35",34,"CamerÃºn","Cameroon",1.17,59,9,1.48,129,90,120,91,60
+"36",35,"CanadÃ¡","Canada",8.17,82,8,3.52,20,9,11,14,147
+"37",32,"Cabo Verde","Cape Verde",2.52,73,6,33.89,NA,NA,NA,NA,NA
+"38",200,"Cayman Islands","Cayman Islands",5.65,82,4,NA,NA,NA,NA,NA,NA
+"39",144,"RepÃºblica Centroafricana","Central African Republic",1.24,53,12,16.18,155,133,122,113,1
+"40",37,"Chad","Chad",1.46,54,12,1.29,141,142,80,106,24
+"41",38,"Chile","Chile",4.36,80,6,3.4,58,98,99,45,130
+"42",39,"China","China",3.38,77,7,0.76,108,31,NA,133,63
+"43",41,"Ciudad del Vaticano","Ciudad del Vaticano",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44",42,"Colombia","Colombia",1.87,77,6,5.81,52,56,124,111,113
+"45",43,"Comoras","Comoros",1.03,64,7,14.14,42,16,58,75,144
+"46",47,"Costa Rica","Costa Rica",2.84,80,5,2.96,NA,NA,NA,NA,NA
+"47",48,"Croacia","Croatia",3.92,78,13,24.4,79,118,139,81,81
+"48",49,"Cuba","Cuba",1.95,79,9,14.6,NA,NA,NA,NA,NA
+"49",40,"Chipre","Cyprus",4.21,81,7,24.17,90,81,115,39,107
+"50",145,"RepÃºblica Checa","Czech Republic",5.19,79,11,8.52,24,58,121,117,136
+"51",50,"Dinamarca","Denmark",5.51,81,9,4.39,4,6,3,22,154
+"52",192,"Yibuti","Djibouti",2.19,67,7,1.92,NA,NA,NA,NA,NA
+"53",51,"Dominica","Dominica",2.57,77,10,109.51,NA,NA,NA,NA,NA
+"54",148,"RepÃºblica Dominicana","Dominican Republic",1.53,74,6,15.05,55,43,52,93,79
+"55",52,"Ecuador","Ecuador",2.17,77,5,6.85,71,42,68,95,106
+"56",53,"Egipto","Egypt",2.15,72,6,3.59,118,129,89,132,19
+"57",54,"El Salvador","El Salvador",2.07,73,7,24.8,83,74,85,134,121
+"58",76,"Guinea ecuatorial","Equatorial Guinea",3.97,59,9,9.27,NA,NA,NA,NA,NA
+"59",56,"Eritrea","Eritrea",0.49,66,7,14.83,NA,NA,NA,NA,NA
+"60",61,"Estonia","Estonia",6.86,78,12,15.67,12,45,30,83,101
+"61",201,"Eswatini","Eswatini",2.01,60,9,NA,NA,NA,NA,NA,NA
+"62",62,"EtiopÃ­a","Ethiopia",1.02,67,6,0.78,119,106,53,99,22
+"63",65,"Fiyi","Fiji",2.9,67,8,24.88,NA,NA,NA,NA,NA
+"64",64,"Finlandia","Finland",5.87,82,10,5.25,2,5,4,47,155
+"65",66,"Francia","France",5.14,83,9,3.41,32,69,21,68,132
+"66",202,"French Guiana","French Guiana",2.34,NA,NA,NA,NA,NA,NA,NA,NA
+"67",203,"French Polynesia","French Polynesia",4.73,78,6,NA,NA,NA,NA,NA,NA
+"68",67,"GabÃ³n","Gabon",2.02,66,7,2.15,95,119,103,143,52
+"69",68,"Gambia","Gambia",1.03,62,8,5.05,125,89,26,64,36
+"70",69,"Georgia","Georgia",1.58,74,13,22.94,147,104,28,153,37
+"71",3,"Alemania","Germany",5.3,81,11,4.83,39,44,17,19,139
+"72",70,"Ghana","Ghana",1.97,64,7,3.19,132,91,117,52,58
+"73",72,"Grecia","Greece",4.38,82,12,9.7,102,150,123,152,74
+"74",71,"Granada","Grenada",2.98,72,10,67.66,NA,NA,NA,NA,NA
+"75",204,"Guadeloupe","Guadeloupe",3.23,NA,NA,NA,NA,NA,NA,NA,NA
+"76",73,"Guatemala","Guatemala",1.89,74,5,6.84,78,25,82,78,129
+"77",75,"Guinea","Guinea",1.41,62,8,4.16,136,109,70,94,38
+"78",77,"Guinea-BisÃ¡u","Guinea-Bissau",1.53,58,9,5.39,NA,NA,NA,NA,NA
+"79",74,"Guyana","Guyana",3.07,70,8,66.27,NA,NA,NA,NA,NA
+"80",78,"HaitÃ­","Haiti",0.61,64,8,14.08,146,152,48,20,9
+"81",79,"Honduras","Honduras",1.68,75,4,8.2,84,39,79,51,97
+"82",80,"HungrÃ­a","Hungary",2.92,76,13,6.47,51,138,140,100,94
+"83",81,"India","India",1.16,70,7,1.28,142,41,73,65,16
+"84",82,"Indonesia","Indonesia",1.58,72,7,1.7,94,48,129,2,64
+"85",84,"IrÃ¡n","Iran",2.79,77,5,1.56,134,117,44,28,39
+"86",83,"Irak","Iraq",1.88,71,5,5.17,124,130,66,73,30
+"87",85,"Irlanda","Ireland",5.57,82,6,16.45,6,33,10,9,140
+"88",86,"Islandia","Iceland",NA,83,6,11.59,1,7,45,3,152
+"89",87,"Islas Marshall","Islas Marshall",NA,65,4,13.96,NA,NA,NA,NA,NA
+"90",89,"Israel","Israel",6.22,83,5,4.09,38,93,74,24,143
+"91",90,"Italia","Italy",4.61,83,11,5.16,23,132,128,48,120
+"92",46,"Costa de Marfil","Ivory Coast",1.27,NA,NA,4.33,NA,NA,NA,NA,NA
+"93",91,"Jamaica","Jamaica",1.89,74,8,40.64,28,49,130,119,100
+"94",92,"JapÃ³n","Japan",5.02,84,11,0.66,50,64,39,92,98
+"95",93,"Jordania","Jordan",2.1,75,4,7.76,88,88,NA,118,55
+"96",94,"KazajistÃ¡n","Kazakhstan",5.55,73,7,21.5,19,80,57,57,96
+"97",95,"Kenia","Kenya",1.03,67,5,1.1,123,72,105,26,35
+"98",97,"Kiribati","Kiribati",NA,68,6,3.72,NA,NA,NA,NA,NA
+"99",98,"Kuwait","Kuwait",8.13,75,3,4.3,69,47,NA,42,105
+"100",96,"KirguistÃ¡n","Kyrgyzstan",1.91,72,5,11.82,NA,NA,NA,NA,NA
+"101",99,"Laos","Laos",1.22,NA,NA,18.79,NA,NA,NA,NA,NA
+"102",101,"Letonia","Latvia",6.29,75,15,17.41,34,126,92,105,103
+"103",102,"LÃ­bano","Lebanon",3.84,79,4,12.31,89,136,133,63,65
+"104",100,"Lesoto","Lesotho",1.66,54,14,16.07,98,97,59,151,12
+"105",103,"Liberia","Liberia",1.21,64,7,4.44,127,94,126,110,15
+"106",104,"Libia","Libya",3.69,73,5,2.75,NA,NA,NA,NA,NA
+"107",105,"Liechtenstein","Liechtenstein",NA,83,7,9.58,NA,NA,NA,NA,NA
+"108",106,"Lituania","Lithuania",5.83,76,14,21.84,17,122,113,124,114
+"109",107,"Luxemburgo","Luxembourg",15.82,82,7,12.05,27,28,9,30,142
+"110",121,"MÃ³naco","MÃ³naco",NA,NA,7,80.71,NA,NA,NA,NA,NA
+"111",108,"Macedonia del Norte","Macedonia del Norte",NA,76,10,31.7,NA,NA,NA,NA,NA
+"112",109,"Madagascar","Madagascar",0.99,67,6,0.69,128,146,116,136,13
+"113",113,"MalÃ­","MalÃ­",NA,59,9,6.43,NA,NA,NA,NA,NA
+"114",111,"Malaui","Malaui",NA,NA,NA,1.74,NA,NA,NA,NA,NA
+"115",205,"Malawi","Malawi",0.81,64,6,NA,150,65,64,109,6
+"116",110,"Malasia","Malaysia",3.71,76,5,5.19,97,36,137,27,76
+"117",112,"Maldivas","Mali",1.53,79,3,0.57,112,110,107,138,28
+"118",114,"Malta","Malta",NA,83,7,21.6,16,12,32,5,134
+"119",206,"Martinique","Martinique",2.08,NA,NA,NA,NA,NA,NA,NA,NA
+"120",117,"Mauritania","Mauritania",2.54,65,7,2.84,99,151,67,148,34
+"121",116,"Mauricio","Mauritius",3.46,74,9,14.88,54,40,96,37,99
+"122",118,"MÃ©xico","Mexico",2.89,75,6,9.32,67,71,87,120,133
+"123",119,"Micronesia","Micronesia",NA,68,7,19.17,NA,NA,NA,NA,NA
+"124",120,"Moldavia","Moldova",1.78,72,12,37.79,65,128,148,86,85
+"125",122,"Mongolia","Mongolia",6.08,70,6,2.23,10,112,119,38,73
+"126",123,"Montenegro","Montenegro",3.78,77,11,24.6,60,139,77,76,83
+"127",207,"Montserrat","Montserrat",7.78,NA,NA,NA,NA,NA,NA,NA,NA
+"128",115,"Marruecos","Morocco",1.68,77,5,8.6,139,76,84,154,67
+"129",124,"Mozambique","Mozambique",0.87,61,8,3.34,122,46,40,121,33
+"130",22,"Birmania","Myanmar",1.43,67,8,6.85,96,29,24,1,25
+"131",125,"Namibia","Namibia",2.48,64,8,7.95,70,82,98,142,43
+"132",126,"Nauru","Nauru",2.94,NA,NA,22.49,NA,NA,NA,NA,NA
+"133",127,"Nepal","Nepal",0.98,71,6,7.99,87,67,65,46,56
+"134",134,"PaÃ­ses Bajos","Netherlands",5.28,82,9,5.63,15,19,12,7,151
+"135",208,"New Caledonia","New Caledonia",3.58,78,6,NA,NA,NA,NA,NA,NA
+"136",132,"Nueva Zelanda","New Zealand",5.6,82,7,15.59,5,8,5,8,148
+"137",128,"Nicaragua","Nicaragua",1.39,74,5,10.46,66,70,43,71,111
+"138",129,"NÃ­ger","Niger",1.56,62,8,1.72,140,111,51,135,42
+"139",130,"Nigeria","Nigeria",1.16,55,12,0.72,111,75,114,59,71
+"140",44,"Corea del Norte","North Korea",1.17,72,9,0.44,NA,NA,NA,NA,NA
+"141",131,"Noruega","Norway",4.98,83,8,3.77,3,3,8,11,153
+"142",133,"OmÃ¡n","Oman",7.52,78,2,0.54,130,114,55,58,89
+"143",135,"PakistÃ¡n","Pakistan",0.79,67,7,3.08,NA,NA,NA,NA,NA
+"144",136,"Palaos","Palaos",NA,69,11,15.59,NA,NA,NA,NA,NA
+"145",137,"PanamÃ¡","Panama",2.79,79,5,3.82,41,32,104,88,125
+"146",138,"PapÃºa Nueva Guinea","Papua New Guinea",1.91,65,7,2.55,NA,NA,NA,NA,NA
+"147",139,"Paraguay","Paraguay",4.16,74,6,12.19,30,34,76,67,93
+"148",140,"PerÃº","Peru",2.28,77,6,4.71,77,61,132,126,91
+"149",63,"Filipinas","Philippines",1.1,71,6,5.01,75,15,49,115,87
+"150",141,"Polonia","Poland",4.44,78,11,11.72,44,52,108,77,116
+"151",142,"Portugal","Portugal",3.88,81,11,25.56,47,37,135,122,90
+"152",36,"Catar","Qatar",10.8,80,1,6.13,NA,NA,NA,NA,NA
+"153",147,"RepÃºblica DemocrÃ¡tica del Congo","RepÃºblica DemocrÃ¡tica del Congo",NA,61,9,1.94,NA,NA,NA,NA,NA
+"154",146,"RepÃºblica del Congo","Republic of the Congo",1.29,65,7,5.24,NA,NA,NA,NA,NA
+"155",209,"Reunion","Reunion",3.65,NA,NA,NA,NA,NA,NA,NA,NA
+"156",150,"RumanÃ­a","Romania",2.71,75,13,18.48,86,57,146,102,108
+"157",151,"Rusia","Russia",5.69,73,13,7.15,40,107,127,101,88
+"158",149,"Ruanda","Rwanda",0.87,69,5,4.66,144,21,2,90,4
+"159",153,"San CristÃ³bal y Nieves","Saint Kitts and Nevis",4.94,71,8,236.48,NA,NA,NA,NA,NA
+"160",156,"Santa LucÃ­a","Saint Lucia",2.45,76,7,34.8,NA,NA,NA,NA,NA
+"161",155,"San Vicente y las Granadinas","Saint Vincent and the Grenadines",3.11,73,9,54.85,NA,NA,NA,NA,NA
+"162",152,"Samoa","Samoa",2.77,73,5,63.12,NA,NA,NA,NA,NA
+"163",154,"San Marino","San Marino",NA,85,7,6.98,NA,NA,NA,NA,NA
+"164",157,"Santo TomÃ© y PrÃ­ncipe","Sao Tome and Principe",1.49,70,5,17.21,NA,NA,NA,NA,NA
+"165",7,"Arabia Saudita","Saudi Arabia",5.61,75,4,0.87,62,68,NA,82,128
+"166",158,"Senegal","Senegal",1.21,68,6,3.94,106,121,88,130,45
+"167",159,"Serbia","Serbia",2.7,76,15,37.68,57,124,118,84,86
+"168",160,"Seychelles","Seychelles",NA,74,8,37.68,NA,NA,NA,NA,NA
+"169",161,"Sierra Leona","Sierra Leone",1.24,55,12,2.39,135,116,112,79,27
+"170",162,"Singapur","Singapore",7.97,83,5,5.97,NA,NA,NA,NA,NA
+"171",57,"Eslovaquia","Slovakia",4.06,77,10,6.33,NA,NA,NA,NA,NA
+"172",58,"Eslovenia","Slovenia",5.81,81,10,7.04,14,13,97,54,112
+"173",88,"Islas SalomÃ³n","Solomon Islands",1.29,73,4,0.63,NA,NA,NA,NA,NA
+"174",164,"Somalia","Somalia",1.24,57,11,13.3,NA,NA,NA,NA,NA
+"175",167,"SudÃ¡frica","South Africa",3.31,64,9,1.4,63,85,102,89,50
+"176",45,"Corea del Sur","South Korea",5.69,83,6,4.21,91,144,100,40,102
+"177",59,"EspaÃ±a","Spain",3.67,83,9,3.05,26,95,78,50,126
+"178",165,"Sri Lanka","Sri Lanka",1.32,77,7,8.14,80,55,111,35,26
+"179",166,"Suazilandia","Suazilandia",NA,NA,NA,9.42,103,113,41,145,21
+"180",168,"SudÃ¡n","SudÃ¡n",NA,65,7,4.77,NA,NA,NA,NA,NA
+"181",169,"SudÃ¡n del Sur","SudÃ¡n del Sur",NA,58,10,23.58,NA,NA,NA,NA,NA
+"182",172,"Surinam","Suriname",4.25,72,7,70.82,NA,NA,NA,NA,NA
+"183",170,"Suecia","Sweden",7.25,83,9,3.43,25,10,6,17,149
+"184",171,"Suiza","Switzerland",5.79,84,8,7.9,13,11,7,16,150
+"185",163,"Siria","Syria",1.51,73,5,48.19,NA,NA,NA,NA,NA
+"186",210,"Taiwan","Taiwan",5.93,NA,NA,NA,NA,NA,NA,NA,NA
+"187",175,"TayikistÃ¡n","Tajikistan",0.91,71,5,6.42,113,86,35,72,82
+"188",174,"Tanzania","Tanzania",1.32,65,6,0.56,131,78,34,49,3
+"189",173,"Tailandia","Thailand",2.66,77,8,1.47,53,18,131,10,104
+"190",176,"Timor Oriental","Timor-Leste",0.48,69,6,3.03,NA,NA,NA,NA,NA
+"191",177,"Togo","Togo",1.13,61,8,6.72,149,120,72,131,17
+"192",178,"Tonga","Tonga",2.7,71,7,74.43,NA,NA,NA,NA,NA
+"193",179,"Trinidad y Tobago","Trinidad and Tobago",7.92,74,9,23.96,29,51,141,41,117
+"194",180,"TÃºnez","Tunisia",2.34,77,6,6.9,121,143,101,144,32
+"195",181,"TurkmenistÃ¡n","Turkmenistan",3.33,68,7,4.39,61,140,50,98,77
+"196",182,"TurquÃ­a","Turkey",5.47,78,5,4.2,8,83,NA,33,69
+"197",183,"Tuvalu","Tuvalu",NA,NA,NA,28.11,NA,NA,NA,NA,NA
+"198",185,"Uganda","Uganda",1.24,63,6,1.66,114,99,95,74,20
+"199",184,"Ucrania","Ukraine",2.84,72,15,14.14,56,141,143,66,23
+"200",55,"Emiratos Ãrabes Unidos","United Arab Emirates",4.94,78,2,1.62,72,4,NA,15,135
+"201",143,"Reino Unido","United Kingdom",7.93,81,9,6.38,9,63,15,4,141
+"202",60,"Estados Unidos","United States",8.22,79,9,0.96,37,62,42,12,137
+"203",186,"Uruguay","Uruguay",2.91,78,9,18.3,35,30,33,80,123
+"204",187,"UzbekistÃ¡n","Uzbekistan",2.32,72,5,5.95,11,1,18,29,115
+"205",188,"Vanuatu","Vanuatu",NA,70,5,2.49,NA,NA,NA,NA,NA
+"206",189,"Venezuela","Venezuela",3.57,72,7,8.84,49,145,110,139,48
+"207",190,"Vietnam","Vietnam",1.65,75,6,2.78,64,23,86,97,62
+"208",211,"Wallis and Futuna","Wallis and Futuna",2.07,NA,NA,NA,NA,NA,NA,NA,NA
+"209",191,"Yemen","Yemen",1.03,66,6,4.01,100,147,83,155,5
+"210",193,"Zambia","Zambia",0.99,64,6,2.69,115,73,69,53,18
+"211",194,"Zimbabue","Zimbabwe",1.37,61,8,6.38,110,96,63,141,10
