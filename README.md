@@ -50,4 +50,8 @@ library(FactoMineR)#check data here
 data(decathlon)
 ```
                                                                                                                       
-                                                                                                                      
+```
+library(HistData)
+```
+                               
+                               
